@@ -53,6 +53,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **United States** — complete. 839 tracks, 11 era files + master. (colonial recreations -> 2020s)
 - **Europe** — complete. 403 tracks, 9 installments + master. (Gregorian chant c.800 -> modern EDM)
 - **Latin America** — complete. 371 tracks, 7 installments + master. (Indigenous/colonial -> reggaeton)
+- **Sub-Saharan Africa: West** — complete. 256 tracks, 7 installments + master. (griot/kora -> Afrobeats)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -121,8 +122,8 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS | 6 | 211 | #1-6 griot→…→world-music era; next #7 modern Afrobeats/global (FINAL + region master) |
-| Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
+| Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
+| Sub-Saharan Africa: Southern | IN PROGRESS (next) | 0 | — | Tier 1 #2b — active region; #1 = deep-traditional (Zulu/Xhosa/Sotho, mbira, San/Khoi) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -297,6 +298,22 @@ recordings):
   (~2000-present) — THE REGION'S FINAL INSTALLMENT: also build the region master
   (MASTER_GUIDE_ssa_west_survey.md + MASTER_SSA_WEST_FULL_SURVEY_IMPORT.txt) and flip SSA-West COMPLETE;
   set next active region = Sub-Saharan Africa: Southern.
+
+- 2026-07-19 — **Sub-Saharan Africa: West #7** "Modern Afrobeats & the Global Takeover (c. 2000-present)"
+  built: `ssa_west_music_7_MODERN_AFROBEATS_GLOBAL.md` + `_IMPORT.txt` (45 tracks, 7 sections; all
+  named). The digital dawn (2Baba's "African Queen") + P-Square/D'banj/Mo'Hits + Wizkid + Davido +
+  Burna Boy & the Grammy era + the new global-chart generation (CKay, Rema, Tems, Ayra Starr, Asake) +
+  Ghana's hiplife/azonto (Sarkodie, Shatta Wale, King Promise, Gyakie). Cross-links: Afrobeats ↔
+  Drake/Beyoncé; Burna samples Fela (full circle to #5); amapiano ↔ Southern Africa survey. Scope
+  calls flagged: Beyoncé on "Already", Fuse ODG (British-Ghanaian) kept with Ghanaian lead credited.
+  No dups vs #1-6.
+- 2026-07-19 — **Sub-Saharan Africa: West COMPLETE.** Region master built:
+  `MASTER_GUIDE_ssa_west_survey.md` (griot→Afrobeats arc, the braid, cross-links to US blues & Latin,
+  recurring scope calls, manifest) + `MASTER_SSA_WEST_FULL_SURVEY_IMPORT.txt`. Seven installments sum
+  to **256 tracks with ZERO cross-installment duplicates** (raw 256 → deduped 256). Region flipped
+  COMPLETE and added to the DONE list; next active region = Sub-Saharan Africa: Southern (Tier 1 #2b).
+  Next: SSA-Southern #1, the deep-traditional layer — Zulu/Xhosa/Sotho song, the mbira/Shona of
+  Zimbabwe, San/Khoi music, isicathamiya roots, and the migrant-labour & mission-hymn backdrop.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
