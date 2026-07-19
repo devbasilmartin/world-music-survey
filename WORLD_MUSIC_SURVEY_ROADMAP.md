@@ -121,7 +121,7 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS (next) | 0 | — | Tier 1 #2a — active region; #1 = griot/Mande roots |
+| Sub-Saharan Africa: West | IN PROGRESS | 1 | 43 | #1 griot/Mande roots; next #2 palm-wine & early recording (~1900-1950) |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -217,6 +217,20 @@ recordings):
   Sub-Saharan Africa: West (Tier 1 #2a). Next: SSA-West #1, the earliest representable layer —
   griot/Mande roots (Sundiata/kora, praise song), then work forward toward highlife/juju/Afrobeat/
   modern Afrobeats, cross-linking heavily to the US blues/jazz rhythmic root.
+
+- 2026-07-19 — **Sub-Saharan Africa: West #1** "Griot / Mande Roots (deep-traditional layer)" built:
+  `ssa_west_music_1_GRIOT_MANDE_ROOTS.md` + `_IMPORT.txt` (43 tracks, 7 sections; 23 living-tradition
+  bare titles). The jeli/griot & the Sunjata epic + the kora (Toumani Diabaté, Ballaké Sissoko, the
+  Gambian Konte/Jobarteh lines, Sona Jobarteh) + balafon & ngoni (Sosso Bala, Bassekou Kouyaté, Neba
+  Solo) + the jelimuso women singers (Kandia Kouyaté, Ami Koïta, Tata Bambo, Fanta Damba) + djembe/
+  dunun percussion (Mamady Keïta, Famoudou Konaté) + non-Mande deep traditions (Wolof sabar, Fula
+  flute, Hausa court music, Yoruba dùndún/bàtá, Akan royal drums) + the Atlantic cross-links (akonting
+  → banjo, Mande pentatonic → blues, Yoruba orisha drums → Cuban batá/Brazilian candomblé, bell →
+  clave). Region-integrity flag: Sona Jobarteh (UK-raised, Gambian griot lineage) kept as West
+  African. Content note kept: the diaspora transmission is inseparable from slavery. First file of the
+  region, so no dedup priors. Next: SSA-West #2 palm-wine guitar & the early recording era (~1900-1950:
+  the Kru sailors' guitar, maringa/Ghanaian & Sierra Leonean palm-wine, early highlife dance bands,
+  E.T. Mensah's precursors, ashiko/gome).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
