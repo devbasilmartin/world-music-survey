@@ -119,7 +119,7 @@ recordings):
 |---|---|---|---|---|
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
-| Latin America | IN PROGRESS | 5 | 248 | #1-5 Colonial→the Boom; next #6 late-20th-c. pop (~1975-95) |
+| Latin America | IN PROGRESS | 6 | 310 | #1-6 Colonial→late-20th-c. pop; next #7 contemporary/global (~1995-present) |
 | Sub-Saharan Africa: West | not started | — | — | Tier 1 #2a |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
@@ -180,6 +180,22 @@ recordings):
   (also lives in the US and open Caribbean surveys). No dups vs #1-4. Next: #6 late-20th-c. pop
   (~1975-95: salsa's romantic turn & Rubén Blades, Brazilian rock/MPB maturity, rock en español's
   birth, the rise of Andean/tropical crossover, cumbia's continental spread).
+
+- 2026-07-19 — Latin America #6 "Late-20th-Century Pop (c. 1975-1995)" built:
+  `latam_music_6_LATE20C_POP.md` + `_IMPORT.txt` (62 tracks, 9 sections). Salsa dura/consciente &
+  the Fania peak (Rubén Blades, Héctor Lavoe, Oscar D'León) + salsa romántica & merengue crossover
+  (Juan Luis Guerra) + MPB's golden maturity/Clube da Esquina (Elis, Milton, Djavan, Ivan Lins) +
+  BRock (Legião Urbana, Paralamas, Titãs, Cazuza) + Argentine rock nacional under the junta (Charly
+  García, Spinetta, Fito Páez) + rock en español going continental (Soda Stereo, Los Prisioneros,
+  Cadillacs, Caifanes, Maná) + cumbia/chicha's continental conquest (Carlos Vives, Los Mirlos,
+  Chacalón, Los Kjarkas) + the balada & ranchera revival (José José, Juan Gabriel, Roberto Carlos,
+  Vicente Fernández) + Piazzolla's nuevo tango & the instrumental vanguard (Gismonti). Content
+  warnings kept: the Southern Cone dictatorships and rock-as-coded-resistance, Cazuza & AIDS. Scope
+  calls flagged: Blades (Panama), Lavoe/salsa romántica (PR), Guerra/merengue (DR) kept as pan-Latin;
+  Rocío Dúrcal (Spain) cut. No dups vs #1-5. Next: #7 contemporary/global (~1995-present: reggaetón's
+  rise, Latin-pop crossover & the "Latin explosion", axé/pagode & Brazilian funk, nueva/indie, and
+  the streaming-era global takeover) — the region's final planned installment, so also build the
+  region master then flip COMPLETE.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
