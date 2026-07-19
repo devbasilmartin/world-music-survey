@@ -121,7 +121,7 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS | 4 | 136 | #1-4 griot→palm-wine→highlife→juju/fuji; next #5 Afrobeat & Afro-funk (Fela, ~1968-80) |
+| Sub-Saharan Africa: West | IN PROGRESS | 5 | 172 | #1-5 griot→…→Afrobeat/Afro-funk; next #6 80s/90s Mande stars & the world-music era |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -269,6 +269,19 @@ recordings):
   1980 murder. Dedup care: renamed apala/sakara descriptors to avoid collision with #2's bare titles.
   No dups vs #1-3. Next: SSA-West #5 Afrobeat & Afro-funk (~1968-1980: Fela Kuti & Africa 70, Tony
   Allen, Geraldo Pino, Orlando Julius, the Nigerian funk/rock scene).
+
+- 2026-07-19 — **Sub-Saharan Africa: West #5** "Afrobeat & Afro-Funk (c. 1968-1980)" built:
+  `ssa_west_music_5_AFROBEAT_AFROFUNK.md` + `_IMPORT.txt` (36 tracks, 6 sections; 35 named). The
+  invention of Afrobeat (Fela & Africa 70: Water No Get Enemy, Zombie, Shakara, Expensive Shit) +
+  Tony Allen's drumming + Fela the political prophet & Kalakuta (Coffin for Head of State, Unknown
+  Soldier) + the soul-invasion precursors (Geraldo Pino, Orlando Julius) + the Nigerian funk/rock/
+  psych underground (BLO, Ofege, William Onyeabor, Monomono, The Funkees) + Ghanaian Afro-funk/rock
+  (Ebo Taylor, Hedzoleh Soundz, K. Frimpong, Osibisa). Cross-links: James Brown funk in (US) →
+  Afrobeat's DNA out into global hip-hop sampling. Content note kept: the 1977 army raid on Kalakuta
+  and the death of Funmilayo Ransome-Kuti. Scope calls flagged: Geraldo Pino (Sierra Leone, in-region);
+  Osibisa (London-formed, Ghanaian-led) kept. No dups vs #1-4. Next: SSA-West #6 the 80s/90s Mande
+  superstars & the world-music era (Salif Keita, Youssou N'Dour & mbalax, Baaba Maal, Ali Farka Touré,
+  Toumani Diabaté, Mory Kanté's "Yé Ké Yé Ké", Angélique Kidjo).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
