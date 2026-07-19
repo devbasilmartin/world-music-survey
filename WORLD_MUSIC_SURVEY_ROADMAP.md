@@ -119,7 +119,7 @@ recordings):
 |---|---|---|---|---|
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
-| Latin America | not started | — | — | BUILD FIRST (Tier 1 #1) |
+| Latin America | IN PROGRESS | 2 | 84 | #1 Indigenous/Colonial, #2 Independence/Criollo; next #3 early-recording |
 | Sub-Saharan Africa: West | not started | — | — | Tier 1 #2a |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
@@ -135,6 +135,16 @@ recordings):
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
+
+---
+
+## Progress log
+- 2026-07-19 — Latin America #2 "Independence & the Criollo Century (c. 1800-1900)" built:
+  `latam_music_2_INDEPENDENCE_CRIOLLO.md` + `_IMPORT.txt` (55 tracks, 8 sections). Anthems +
+  creole salon/opera + Cuban danzon + Rioplatense proto-tango + Brazilian choro + Mexican
+  vals/mariachi seeds + criollo folk + Afro-descendant currents. Scope calls flagged: Gottschalk
+  cut (US); Iradier's "La Paloma" kept as the Spain↔Cuba habanera hinge. No dups vs #1. Next: #3
+  early-recording golden age (~1900-1940: tango-cancion/Gardel, samba, son cubano, bolero).
 
 ---
 
