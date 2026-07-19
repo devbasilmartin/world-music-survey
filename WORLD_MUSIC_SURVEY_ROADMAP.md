@@ -119,7 +119,7 @@ recordings):
 |---|---|---|---|---|
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
-| Latin America | IN PROGRESS | 2 | 84 | #1 Indigenous/Colonial, #2 Independence/Criollo; next #3 early-recording |
+| Latin America | IN PROGRESS | 3 | 137 | #1 Colonial, #2 Criollo, #3 Golden Age; next #4 mid-century (~1940-60) |
 | Sub-Saharan Africa: West | not started | — | — | Tier 1 #2a |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
@@ -145,6 +145,15 @@ recordings):
   vals/mariachi seeds + criollo folk + Afro-descendant currents. Scope calls flagged: Gottschalk
   cut (US); Iradier's "La Paloma" kept as the Spain↔Cuba habanera hinge. No dups vs #1. Next: #3
   early-recording golden age (~1900-1940: tango-cancion/Gardel, samba, son cubano, bolero).
+
+- 2026-07-19 — Latin America #3 "The Recording Era & the Golden Age (c. 1900-1940)" built:
+  `latam_music_3_RECORDING_GOLDEN_AGE.md` + `_IMPORT.txt` (53 tracks, 8 sections). Tango golden
+  age/Gardel + birth of samba + son cubano/rumba craze + revolution corridos & ranchera + Agustin
+  Lara's bolero + pan-Latin songbook + Andean criollo song + nationalist art music (Villa-Lobos,
+  Chavez, Revueltas, Ginastera) + coastal-Colombia cumbia/vallenato seeds. Scope calls: Carmen
+  Miranda kept (Portuguese-born, Rio-made); Rafael Hernandez (PR) kept as pan-Latin bolero, with
+  the open Caribbean-survey question flagged. No dups vs #1/#2. Next: #4 mid-century golden age
+  (~1940-1960: mambo/Pérez Prado, Los Panchos, ranchera cinema/Negrete-Infante, bossa nova onset).
 
 ---
 
