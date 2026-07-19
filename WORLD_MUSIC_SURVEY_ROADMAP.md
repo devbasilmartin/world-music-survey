@@ -121,7 +121,7 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS | 2 | 76 | #1-2 griot roots→palm-wine/early recording; next #3 highlife's golden age (~1950s-60s) |
+| Sub-Saharan Africa: West | IN PROGRESS | 3 | 106 | #1-3 griot→palm-wine→highlife golden age; next #4 juju/fuji & Congo-inflected guitar pop (~1965-80) |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -243,6 +243,19 @@ recordings):
   palm-wine ↔ calypso/son ↔ Congo rumba; returnee gumbe ↔ Caribbean/Brazil. No dups vs #1. Next:
   SSA-West #3 highlife's golden age (~1950s-60s: E.T. Mensah & the Tempos dance-band highlife, the
   guitar-band highlife of E.K. Nyame, the Ghana/Nigeria spread, independence-era optimism).
+
+- 2026-07-19 — **Sub-Saharan Africa: West #3** "Highlife's Golden Age (c. 1950-1969)" built:
+  `ssa_west_music_3_HIGHLIFE_GOLDEN_AGE.md` + `_IMPORT.txt` (30 tracks, 6 sections; 14 named). E.T.
+  Mensah & the Tempos (dance-band highlife, "the king") + guitar-band highlife & the concert party
+  (E.K. Nyame, Kwaa Mensah, Nana Ampadu's 1967 "Ebi Te Yie") + Lagos dance bands (Bobby Benson's
+  "Taxi Driver", Victor Olaiya) + Eastern/Igbo highlife & the Biafra shadow (Rex Lawson, Celestine
+  Ukwu, Osadebe seeds) + the Latin tinge & Congo connection + the dance-band circuit/songbook.
+  Cross-links: Louis Armstrong's 1956 jam with Mensah (US), Cuban GV son 78s' "Latin tinge" (Latin),
+  Congo rumba crossing west (Central Africa to come). Content note kept: independence-era optimism and
+  the Biafran war (1967-70) that shattered the Eastern scene (Rex Lawson d.1971, Ukwu d.1977). All
+  named artists Ghanaian/Nigerian; no scope flags. No dups vs #1-2. Next: SSA-West #4 juju & fuji
+  explode + Congo-inflected guitar pop (~1965-1980: King Sunny Adé, Ebenezer Obey, Barrister fuji,
+  I.K. Dairo, and the soukous influence).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
