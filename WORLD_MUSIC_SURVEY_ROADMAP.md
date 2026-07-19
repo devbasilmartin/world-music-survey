@@ -121,7 +121,7 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS | 3 | 106 | #1-3 griot→palm-wine→highlife golden age; next #4 juju/fuji & Congo-inflected guitar pop (~1965-80) |
+| Sub-Saharan Africa: West | IN PROGRESS | 4 | 136 | #1-4 griot→palm-wine→highlife→juju/fuji; next #5 Afrobeat & Afro-funk (Fela, ~1968-80) |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -256,6 +256,19 @@ recordings):
   named artists Ghanaian/Nigerian; no scope flags. No dups vs #1-2. Next: SSA-West #4 juju & fuji
   explode + Congo-inflected guitar pop (~1965-1980: King Sunny Adé, Ebenezer Obey, Barrister fuji,
   I.K. Dairo, and the soukous influence).
+
+- 2026-07-19 — **Sub-Saharan Africa: West #4** "Juju & Fuji Explode + Congo-Inflected Guitar Pop
+  (c. 1965-1980)" built: `ssa_west_music_4_JUJU_FUJI_GUITARPOP.md` + `_IMPORT.txt` (30 tracks, 6
+  sections; 16 named). I.K. Dairo (father of modern juju) + King Sunny Adé's syncro-system juju +
+  Ebenezer Obey's philosophical miliki juju + fuji's birth from were (Barrister & Kollington) + the
+  Yoruba roots stars apala/sakara (Haruna Ishola, Ayinla Omowura, Yusuf Olatunji) + Congo-inflected
+  guitar pop (Victor Uwaifo's "Joromi", Prince Nico Mbarga's "Sweet Mother"). Cross-links: juju's
+  pedal steel ← US country/Hawaiian; soukous tide → Central Africa survey. Scope calls flagged: KSA's
+  "Ja Funmi"/"Synchro System" (1982-83, just past window) kept as defining the 70s sound; Prince Nico
+  Mbarga (Nigerian-Cameroonian, Nigeria-based) kept as West African. Content note: Ayinla Omowura's
+  1980 murder. Dedup care: renamed apala/sakara descriptors to avoid collision with #2's bare titles.
+  No dups vs #1-3. Next: SSA-West #5 Afrobeat & Afro-funk (~1968-1980: Fela Kuti & Africa 70, Tony
+  Allen, Geraldo Pino, Orlando Julius, the Nigerian funk/rock scene).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
