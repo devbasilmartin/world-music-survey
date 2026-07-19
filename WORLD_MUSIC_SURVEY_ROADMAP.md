@@ -119,7 +119,7 @@ recordings):
 |---|---|---|---|---|
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
-| Latin America | IN PROGRESS | 3 | 137 | #1 Colonial, #2 Criollo, #3 Golden Age; next #4 mid-century (~1940-60) |
+| Latin America | IN PROGRESS | 4 | 190 | #1-4 Colonial→Mid-century; next #5 the boom (~1960-75) |
 | Sub-Saharan Africa: West | not started | — | — | Tier 1 #2a |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
@@ -154,6 +154,16 @@ recordings):
   Miranda kept (Portuguese-born, Rio-made); Rafael Hernandez (PR) kept as pan-Latin bolero, with
   the open Caribbean-survey question flagged. No dups vs #1/#2. Next: #4 mid-century golden age
   (~1940-1960: mambo/Pérez Prado, Los Panchos, ranchera cinema/Negrete-Infante, bossa nova onset).
+
+- 2026-07-19 — Latin America #4 "The Mid-Century Golden Age (c. 1940-1960)" built:
+  `latam_music_4_MIDCENTURY_GOLDEN_AGE.md` + `_IMPORT.txt` (53 tracks, 8 sections). Mambo
+  explosion/Pérez Prado & Beny Moré + Afro-Cuban big band/Latin-jazz roots + Los Panchos bolero-trio
+  era + ranchera cinema (Negrete/Infante/José Alfredo/Lola Beltrán) + Brazilian samba-canção to the
+  bossa-nova threshold (João Gilberto 1959) + Andean/criollo revival & nueva-canción roots + Colombian
+  cumbia/vallenato going national + mid-century art music + cha-cha-chá crossover. Scope calls flagged:
+  Historia de un Amor (Panama) and Tito Puente (Nuyorican) kept as pan-Latin/shared-axis, noted. No
+  dups vs #1-3. Next: #5 the Boom (~1960-1975: bossa nova & Tropicália, nueva canción/Violeta &
+  Víctor Jara, salsa's birth in NY, Nueva Trova).
 
 ---
 
