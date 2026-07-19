@@ -121,7 +121,7 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS | 1 | 43 | #1 griot/Mande roots; next #2 palm-wine & early recording (~1900-1950) |
+| Sub-Saharan Africa: West | IN PROGRESS | 2 | 76 | #1-2 griot roots→palm-wine/early recording; next #3 highlife's golden age (~1950s-60s) |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -231,6 +231,18 @@ recordings):
   region, so no dedup priors. Next: SSA-West #2 palm-wine guitar & the early recording era (~1900-1950:
   the Kru sailors' guitar, maringa/Ghanaian & Sierra Leonean palm-wine, early highlife dance bands,
   E.T. Mensah's precursors, ashiko/gome).
+
+- 2026-07-19 — **Sub-Saharan Africa: West #2** "Palm-Wine Guitar & the Early Recording Era (c. 1900-1950)"
+  built: `ssa_west_music_2_PALMWINE_EARLY_RECORDING.md` + `_IMPORT.txt` (33 tracks, 8 sections; only 4
+  named 78s, rest living-tradition/genre bare titles, honestly flagged). The Kru mariners bringing the
+  guitar ashore + Sierra Leone maringa/palm-wine (Ebenezer Calender) + Ghana osibisaaba/adaha & the
+  1928 Kumasi Trio "Yaa Amponsah" (root of highlife) + the birth of Lagos juju (Tunde King era) +
+  gumbe & the Maroon/returnee Black-Atlantic networks + the first Zonophone/HMV West African 78s + the
+  dance-band/brass seedbed + Black-Atlantic guitar cross-links. Scope call flagged: S.E. Rogie's "My
+  Lovely Elizabeth" (~1962) placed here as the definitive surviving palm-wine recording. Cross-links:
+  palm-wine ↔ calypso/son ↔ Congo rumba; returnee gumbe ↔ Caribbean/Brazil. No dups vs #1. Next:
+  SSA-West #3 highlife's golden age (~1950s-60s: E.T. Mensah & the Tempos dance-band highlife, the
+  guitar-band highlife of E.K. Nyame, the Ghana/Nigeria spread, independence-era optimism).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
