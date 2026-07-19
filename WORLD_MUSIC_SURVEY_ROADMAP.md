@@ -121,7 +121,7 @@ recordings):
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: West | IN PROGRESS | 5 | 172 | #1-5 griot→…→Afrobeat/Afro-funk; next #6 80s/90s Mande stars & the world-music era |
+| Sub-Saharan Africa: West | IN PROGRESS | 6 | 211 | #1-6 griot→…→world-music era; next #7 modern Afrobeats/global (FINAL + region master) |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -282,6 +282,21 @@ recordings):
   Osibisa (London-formed, Ghanaian-led) kept. No dups vs #1-4. Next: SSA-West #6 the 80s/90s Mande
   superstars & the world-music era (Salif Keita, Youssou N'Dour & mbalax, Baaba Maal, Ali Farka Touré,
   Toumani Diabaté, Mory Kanté's "Yé Ké Yé Ké", Angélique Kidjo).
+
+- 2026-07-19 — **Sub-Saharan Africa: West #6** "The Mande Superstars & the World-Music Era (c. 1980-2000)"
+  built: `ssa_west_music_6_MANDE_SUPERSTARS_WORLDMUSIC.md` + `_IMPORT.txt` (39 tracks, 8 sections; 36
+  named). Salif Keita (the golden voice) + Mory Kanté's electric kora ("Yé Ké Yé Ké") + Youssou N'Dour
+  & mbalax ("7 Seconds") + the Senegambian wave (Baaba Maal, Ismaël Lô, Touré Kunda, Orchestra Baobab)
+  + Ali Farka Touré & desert blues + the Wassoulou women (Oumou Sangaré, Nahawa Doumbia) + the world
+  stage (Angélique Kidjo, Toumani's Symmetric Orchestra, Amadou & Mariam) + the Bamako orchestra roots.
+  Cross-links: Ali Farka ↔ US blues/John Lee Hooker; Orchestra Baobab ↔ Cuban son; Kidjo's Yoruba roots
+  ↔ batá/candomblé (Latin). Scope/duet notes: Cesária Évora on "Yamore", Neneh Cherry on "7 Seconds",
+  Ry Cooder on "Talking Timbuktu" — West African lead credited; Kidjo (Benin) in-region. Dedup guard
+  honored: avoided #1's Toumani/Ballaké pairs (used "Boulevard de l'Independance" & the Ali Farka duet
+  "Debe" instead). No dups vs #1-5. Next: SSA-West #7 modern Afrobeats & the global takeover
+  (~2000-present) — THE REGION'S FINAL INSTALLMENT: also build the region master
+  (MASTER_GUIDE_ssa_west_survey.md + MASTER_SSA_WEST_FULL_SURVEY_IMPORT.txt) and flip SSA-West COMPLETE;
+  set next active region = Sub-Saharan Africa: Southern.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
