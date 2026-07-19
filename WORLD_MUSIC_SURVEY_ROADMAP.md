@@ -119,7 +119,7 @@ recordings):
 |---|---|---|---|---|
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
-| Latin America | IN PROGRESS | 4 | 190 | #1-4 Colonial→Mid-century; next #5 the boom (~1960-75) |
+| Latin America | IN PROGRESS | 5 | 248 | #1-5 Colonial→the Boom; next #6 late-20th-c. pop (~1975-95) |
 | Sub-Saharan Africa: West | not started | — | — | Tier 1 #2a |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
@@ -166,6 +166,20 @@ recordings):
   Víctor Jara, salsa's birth in NY, Nueva Trova).
 
 ---
+
+- 2026-07-19 — Latin America #5 "The Boom (c. 1960-1975)" built:
+  `latam_music_5_THE_BOOM.md` + `_IMPORT.txt` (58 tracks, 8 sections). Bossa nova goes global
+  (Jobim/Gilberto/Baden Powell) + MPB festival era (Chico Buarque, Vandré, Milton) + Tropicália
+  (Caetano, Gil, Os Mutantes, Gal, Tom Zé) + nueva canción (Violeta Parra, Víctor Jara, Quilapayún,
+  Inti-Illimani, Mercedes Sosa) + Cuban nueva trova (Silvio, Pablo Milanés) & Mexican canto nuevo
+  (Amparo Ochoa, Óscar Chávez, Los Folkloristas) + birth of salsa/Fania in NY (Palmieri, Willie Colón
+  & Héctor Lavoe, Celia Cruz, Barretto) + Andean/folk-roots deepening (Simón Díaz, Cafrune, Perú Negro)
+  + the international art-music vanguard (Ginastera's Bomarzo, Brouwer, late Villa-Lobos). Content
+  warnings kept: Víctor Jara's 1973 murder, the Tropicalistas' jailing/exile, Vandré's exile. Scope
+  call flagged: NY-made Fania salsa kept as the direct continuation of the Cuban/Latin dance lineage
+  (also lives in the US and open Caribbean surveys). No dups vs #1-4. Next: #6 late-20th-c. pop
+  (~1975-95: salsa's romantic turn & Rubén Blades, Brazilian rock/MPB maturity, rock en español's
+  birth, the rise of Andean/tropical crossover, cumbia's continental spread).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
