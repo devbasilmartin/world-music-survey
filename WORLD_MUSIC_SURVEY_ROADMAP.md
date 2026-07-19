@@ -52,6 +52,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 ### DONE
 - **United States** — complete. 839 tracks, 11 era files + master. (colonial recreations -> 2020s)
 - **Europe** — complete. 403 tracks, 9 installments + master. (Gregorian chant c.800 -> modern EDM)
+- **Latin America** — complete. 371 tracks, 7 installments + master. (Indigenous/colonial -> reggaeton)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -119,8 +120,8 @@ recordings):
 |---|---|---|---|---|
 | United States | COMPLETE | 11 + master | 839 | colonial -> 2020s |
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
-| Latin America | IN PROGRESS | 6 | 310 | #1-6 Colonial→late-20th-c. pop; next #7 contemporary/global (~1995-present) |
-| Sub-Saharan Africa: West | not started | — | — | Tier 1 #2a |
+| Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
+| Sub-Saharan Africa: West | IN PROGRESS (next) | 0 | — | Tier 1 #2a — active region; #1 = griot/Mande roots |
 | Sub-Saharan Africa: Southern | not started | — | — | Tier 1 #2b |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
@@ -196,6 +197,26 @@ recordings):
   rise, Latin-pop crossover & the "Latin explosion", axé/pagode & Brazilian funk, nueva/indie, and
   the streaming-era global takeover) — the region's final planned installment, so also build the
   region master then flip COMPLETE.
+
+- 2026-07-19 — Latin America #7 "Contemporary / Global (c. 1995-present)" built:
+  `latam_music_7_CONTEMPORARY_GLOBAL.md` + `_IMPORT.txt` (61 tracks, 9 sections). Reggaetón's birth
+  (El General, Vico C, Daddy Yankee, Tego, Ivy Queen) + the Latin explosion (Ricky Martin, Shakira,
+  Juanes, Carlos Vives) + Brazilian axé/pagode/samba revival (Daniela Mercury, Olodum, Zeca
+  Pagodinho) + funk carioca/sertanejo (Anitta, Michel Teló) + Latin alternative (Café Tacvba,
+  Molotov, Aterciopelados, Cerati) + new folk/nueva-canción heirs (Drexler, Lafourcade, Lila Downs,
+  Susana Baca, Chavela Vargas) + neo-tango & bossa revival (Gotan Project, Bajofondo, Santaolalla,
+  Marisa Monte) + streaming-era takeover (Despacito, J Balvin, Karol G, Bad Bunny, Maluma, Peso
+  Pluma) + contemporary art music (Márquez's Danzón No. 2, Golijov, Gabriela Ortiz). Scope calls
+  flagged: PR/Panama/DR urbano kept pan-Latin; Enrique Iglesias, Rosalía, Rocío Dúrcal, Gabriela
+  Lena Frank cut as European/US. No dups vs #1-6.
+
+- 2026-07-19 — **Latin America COMPLETE.** Region master built: `MASTER_GUIDE_latam_survey.md`
+  (continuous narrative + braid + cross-links + manifest) and `MASTER_LATAM_FULL_SURVEY_IMPORT.txt`.
+  The seven installments sum to **371 tracks with ZERO cross-installment duplicates** — every track
+  in the master is unique (raw 371 → deduped 371). Region flipped COMPLETE; next active region set to
+  Sub-Saharan Africa: West (Tier 1 #2a). Next: SSA-West #1, the earliest representable layer —
+  griot/Mande roots (Sundiata/kora, praise song), then work forward toward highlife/juju/Afrobeat/
+  modern Afrobeats, cross-linking heavily to the US blues/jazz rhythmic root.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
