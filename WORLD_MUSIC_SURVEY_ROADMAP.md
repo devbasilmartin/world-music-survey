@@ -125,7 +125,7 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS | 1 | 32 | #1 rumba roots/birth (Wendo, Cuban-son spark); next #2 the golden age (Franco/OK Jazz, Kalle, ~1953-65) |
+| Sub-Saharan Africa: Central | IN PROGRESS | 2 | 64 | #1-2 rumba roots→golden age (Kalle/Franco, Independence Cha Cha); next #3 soukous & 2nd gen (Tabu Ley, Dr Nico, ~1965-75) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -429,6 +429,18 @@ recordings):
   Content notes kept: brutal Belgian colonial Congo, the flat-fee label exploitation. First file of the
   region, no dedup priors. Next: SSA-Central #2 the golden age of Congolese rumba (~1953-1965: Le Grand
   Kalle & African Jazz, Franco & OK Jazz, "Independence Cha Cha" 1960, the rumba odemba).
+
+- 2026-07-20 — **Sub-Saharan Africa: Central #2** "The Golden Age of Congolese Rumba (c. 1953-1965)"
+  built: `ssa_central_music_2_RUMBA_GOLDEN_AGE.md` + `_IMPORT.txt` (32 tracks, 6 sections; 5 named,
+  rest descriptor/traditional — exact 1950s-60s Congo titles beyond the famous ones are genuinely hard,
+  so honest descriptors used). Le Grand Kalle & African Jazz (the elegant school) + "Independence Cha
+  Cha" & the politics of 1960 + Franco & OK Jazz (the earthy school) + the two schools & guitar masters
+  (Dr Nico, Tino Baroza, young Rochereau) + the rumba odemba/arrangement + the Brazzaville scene & the
+  continental spread. Cross-links: "Independence Cha Cha" as the pan-African anthem; Cuban son ↔ rumba
+  (Latin); Congo rumba → East/West/Southern African guitar pop. Content notes kept: independence, the
+  Congo Crisis, Lumumba's 1961 assassination. No dups vs #1. Next: SSA-Central #3 soukous & the second
+  generation (~1965-1975: Tabu Ley Rochereau & African Fiesta, Dr Nico Kasanda's guitar, the split from
+  Kabasele, Franco's OK Jazz maturing, the birth of soukous/the fast sebene, Mbilia Bel).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
