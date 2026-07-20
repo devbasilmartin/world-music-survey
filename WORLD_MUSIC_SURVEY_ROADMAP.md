@@ -133,7 +133,7 @@ recordings):
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
-| East Asia: China | IN PROGRESS | 2 | 90 | ACTIVE. #1-2 classical/folk roots→opera golden age & the Republic; next #3 the 20th c. — Shanghai shidaiqu, revolutionary/Mao-era & Cultural Revolution (~1927-1978) |
+| East Asia: China | IN PROGRESS | 3 | 131 | ACTIVE. #1-3 classical/folk→opera/Republic→shidaiqu/Mao era; next #4 Cantopop & Mandopop (HK/Taiwan: Teresa Teng, the golden age, ~1970-2000) |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
@@ -795,6 +795,22 @@ recordings):
   the 20th century: Shanghai shidaiqu & the jazz age (Zhou Xuan, the "seven great singing stars"), the
   1949 divide, revolutionary/Mao-era music (model operas/yangbanxi, "The East Is Red"), and the Cultural
   Revolution (~1927-1978).
+- 2026-07-20 — **East Asia: China #3** "Shanghai Shidaiqu & the Mao Era (c. 1927-1978)" built:
+  `china_music_3_SHIDAIQU_MAO_ERA.md` + `_IMPORT.txt` (41 tracks, 8 sections; 7 named). The Shanghai
+  jazz age & shidaiqu (Pathe/EMI, the cabaret sound) + Zhou Xuan the Golden Voice ("Ye Shanghai", "Tian
+  Ya Ge Nu"/Street Angel, "He Ri Jun Zai Lai") + the seven great singing stars (Yao Lee's "Rose Rose I
+  Love You" → 1951 US hit; Li Xianglan/Yoshiko Yamaguchi's "Ye Lai Xiang"; Bai Guang) + the 1949 divide
+  ("yellow music" banned, the exodus to Hong Kong seeding Mandopop) + the mass song & "The East Is Red"
+  (Ode to the Motherland, Nanniwan, Soviet influence) + the national style (the "Butterfly Lovers Violin
+  Concerto", 1959) + the Cultural Revolution & the eight model works (yangbanxi — Red Detachment of
+  Women, Taking Tiger Mountain, Red Lantern; the "Yellow River Piano Concerto") + the 1976 thaw.
+  Cross-links: shidaiqu → HK/Taiwan Mandopop (#4); Soviet models; the reform-era rock (#5). Content
+  notes: the ban, the Cultural Revolution, and the persecution/deaths of musicians, kept with care.
+  ASCII/pinyin; caught & fixed a "mass-song movement" cross-collision with #2. No other dups vs #1-2.
+  Next: East Asia: China #4 — Cantopop & Mandopop (~1970-2000): shidaiqu reborn in Hong Kong/Taiwan;
+  Teresa Teng (the voice that "conquered" the mainland); the Cantopop golden age (Sam Hui, the Four
+  Heavenly Kings — Jacky Cheung, Andy Lau, Leon Lai, Aaron Kwok; Anita Mui, Leslie Cheung); Taiwan
+  Mandopop; the karaoke era.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
