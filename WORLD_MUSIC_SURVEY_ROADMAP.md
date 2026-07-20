@@ -133,7 +133,7 @@ recordings):
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
-| East Asia: China | IN PROGRESS | 1 | 49 | ACTIVE. #1 classical & folk roots (guqin, pentatonic, opera, instruments, minorities); next #2 opera & the imperial-to-Republican transition (~1900-1949) |
+| East Asia: China | IN PROGRESS | 2 | 90 | ACTIVE. #1-2 classical/folk roots→opera golden age & the Republic; next #3 the 20th c. — Shanghai shidaiqu, revolutionary/Mao-era & Cultural Revolution (~1927-1978) |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
@@ -780,6 +780,21 @@ recordings):
   — opera's golden age & the imperial-to-Republican transition (~1850-1949: Peking opera's peak & Mei
   Lanfang; the fall of the Qing; early Western contact & the first modern songs; the school-song/xuetang
   movement; toward Shanghai).
+- 2026-07-20 — **East Asia: China #2** "Opera's Golden Age & the Road to the Republic (c. 1850-1949)"
+  built: `china_music_2_OPERA_GOLDEN_AGE_REPUBLIC.md` + `_IMPORT.txt` (41 tracks, 8 sections; 5 named).
+  Peking opera's golden age (the four great dan; "Farewell My Concubine"; Tan Xinpei; Mei Lanfang's
+  US/USSR tours) + the regional operas (Yue/Shaoxing, Yu/Henan, Sichuan face-changing, Huangmei) + the
+  fall of the Qing & the New Culture/May Fourth Movement + the school-song movement (Li Shutong's "Song
+  Bie"/Farewell, Shen Xingong) + the first modern composers & conservatory (Xiao Youmei, Zhao Yuanren's
+  art song "Jiao Wo Ru He Bu Xiang Ta", Huang Zi) + national music/guoyue & the modern erhu (Liu
+  Tianhua; Lu Wencheng's "Ping Hu Qiu Yue") + music & national salvation (Nie Er's "March of the
+  Volunteers"/future anthem, Xian Xinghai's "Yellow River Cantata") + toward Shanghai (Li Jinhui &
+  "Mao Mao Yu"/Drizzle, the birth of shidaiqu). Cross-links: Western classical into China; Japanese
+  school-song model. Content notes: Qing collapse, warlord era, the Japanese invasion (1937-45). ASCII/
+  pinyin; avoided the #1 "Mei Lanfang" bare-title collision. No dups vs #1. Next: East Asia: China #3 —
+  the 20th century: Shanghai shidaiqu & the jazz age (Zhou Xuan, the "seven great singing stars"), the
+  1949 divide, revolutionary/Mao-era music (model operas/yangbanxi, "The East Is Red"), and the Cultural
+  Revolution (~1927-1978).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
