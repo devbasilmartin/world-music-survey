@@ -133,7 +133,7 @@ recordings):
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
-| East Asia: China | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #4a. Next #1: Chinese classical & folk roots — guqin, the pentatonic tradition, Peking opera, the great instruments (pipa, erhu, dizi, guzheng) |
+| East Asia: China | IN PROGRESS | 1 | 49 | ACTIVE. #1 classical & folk roots (guqin, pentatonic, opera, instruments, minorities); next #2 opera & the imperial-to-Republican transition (~1900-1949) |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
@@ -763,6 +763,23 @@ recordings):
   Asia built as SEPARATE surveys — China, Japan, Korea). Next: East Asia: China #1 — Chinese classical &
   folk roots (the guqin & the scholar's tradition; the pentatonic system; the great instruments — pipa,
   erhu, dizi, guzheng, sheng; Peking/Chinese opera; regional folk; the deep imperial-era roots).
+- 2026-07-20 — **East Asia: China #1** "Classical & Folk Roots (the deep tradition)" built:
+  `china_music_1_CLASSICAL_FOLK_ROOTS.md` + `_IMPORT.txt` (49 tracks, 9 sections; 2 named — deep-roots,
+  mostly pieces/instruments/forms as seeds). NEW sub-region, stem `china_music_` (dedup scope resets).
+  The pentatonic foundation & philosophy (gong-shang-jue-zhi-yu, the twelve lu, yayue, the Shijing) +
+  the guqin & scholar tradition (Guan Pinghu's "Flowing Water" on Voyager; High Mountains/Boya-Ziqi) +
+  the plucked strings (pipa "Ambush from Ten Sides", guzheng, "Spring River Flower Moon Night", wen/wu)
+  + the bowed & blown (Abing's erhu "Erquan Yingyue", dizi, sheng, suona, Jiangnan sizhu) + Chinese
+  opera (Peking opera/jingju, role types, Mei Lanfang, Kunqu, Cantonese opera) + ritual/court/temple
+  (Confucian yayue, the Marquis Yi bianzhong bells, Buddhist/Daoist chant) + Han regional folk (Mo Li
+  Hua/Jasmine Flower, shan'ge, hua'er, shuochang) + the 55 minorities & borderlands (Mongolian long-
+  song/khoomei, Uyghur Twelve Muqam, Tibetan, Dong grand choir, Naxi) + notation & the road ahead.
+  Cross-links: the pentatonic/silk-string world shared with Japan & Korea; Silk Road to Central Asia/
+  Persia. Content note: Xinjiang/Tibet/Inner Mongolia traditions kept with care as living cultures
+  under political pressure. ASCII/pinyin; no internal dups (fresh sub-region). Next: East Asia: China #2
+  — opera's golden age & the imperial-to-Republican transition (~1850-1949: Peking opera's peak & Mei
+  Lanfang; the fall of the Qing; early Western contact & the first modern songs; the school-song/xuetang
+  movement; toward Shanghai).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
