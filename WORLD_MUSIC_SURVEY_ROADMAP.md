@@ -125,7 +125,7 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS | 4 | 135 | #1-4 rumba roots→…→Zaiko/rumba rock; next #5 soukous goes global & ndombolo (~1980-2000) |
+| Sub-Saharan Africa: Central | IN PROGRESS | 5 | 173 | #1-5 rumba roots→…→soukous goes global & ndombolo; next #6 Angola/Cameroon & wider Central (~1970-2000) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -464,6 +464,19 @@ recordings):
   Next: SSA-Central #5 soukous goes global & the birth of ndombolo (~1980-2000: the Paris soukous
   scene, Kanda Bongo Man & Diblo Dibala's kwassa kwassa, Loketo, then Koffi Olomide, Wenge Musica,
   Awilo Longomba's ndombolo, JB Mpiana & Werrason).
+- 2026-07-20 — **Sub-Saharan Africa: Central #5** "Soukous Goes Global & the Birth of Ndombolo (c.
+  1980-2000)" built: `ssa_central_music_5_SOUKOUS_GLOBAL_NDOMBOLO.md` + `_IMPORT.txt` (38 tracks, 7
+  sections; 10 named). The Paris soukous scene (exile studios, the world-music boom) + Kanda Bongo Man
+  & kwassa kwassa (Sai, Zing Zong, Yesu Kristu) + Diblo Dibala's machine-gun guitar, Loketo & Aurlus
+  Mabele & the Soukous Stars + Koffi Olomide & the 90s Kinshasa giants (Loi, Papa Ngwasuma, Andrada;
+  Quartier Latin, tcha tcha) + Wenge Musica & the birth of ndombolo (the JB Mpiana/Werrason split) +
+  Awilo Longomba & ndombolo goes continental (Coupe Bibamba, Karolina) + the end of an era (Papa
+  Wemba's Yolele & Maria Valencia; Franco's 1989 death; Tabu Ley to politics; Mobutu's 1997 fall).
+  Cross-links: Paris soukous → the world-music industry; ndombolo → West & Southern African pop.
+  Content notes kept: the AIDS epidemic (took Franco), Mobutu's fall, the Congo wars. No dups vs #1-4.
+  Next: SSA-Central #6 Angola, Cameroon & the wider Central Africa (~1970-2000: Angolan semba & Bonga,
+  the birth of kizomba; Cameroon's makossa — Manu Dibango's "Soul Makossa", Sam Fan Thomas' makassi,
+  Petit Pays; bikutsi — Les Têtes Brûlées; Gabon/CAR).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
