@@ -129,7 +129,7 @@ recordings):
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
-| Sub-Saharan Africa: Sahel | IN PROGRESS | 1 | 44 | ACTIVE. #1 desert/savanna roots (Moorish/Tuareg/Songhai/Hausa/Fulani, the lutes); next #2 the modern Malian foundation & desert blues' birth (~1960-1990) |
+| Sub-Saharan Africa: Sahel | IN PROGRESS | 2 | 87 | ACTIVE. #1-2 desert roots→modern Malian orchestras/desert-blues birth; next #3 the 1990s-2000s global desert-blues & wassoulou breakout |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
@@ -603,6 +603,20 @@ recordings):
   Next: SSA-Sahel #2 — the modern Malian foundation & the birth of desert blues (~1960-1990: Mali's
   independence-era Radio Mali orchestras & the Rail Band/Salif Keita's rise; Ali Farka Touré's river
   blues; Boubacar Traoré; the Super Biton/regional orchestras; the electrification of the Sahel).
+- 2026-07-20 — **Sub-Saharan Africa: Sahel #2** "The Modern Malian Foundation & the Birth of Desert
+  Blues (c. 1960-1990)" built: `ssa_sahel_music_2_MALIAN_FOUNDATION_DESERT_BLUES.md` + `_IMPORT.txt`
+  (43 tracks, 8 sections; 3 named). Independence & Radio Mali (state cultural policy, biennales) + the
+  Rail Band & the Bamako sound (Tidiani Koné; "Mali Sadio"; Salif Keita/Mory Kanté pass through,
+  flagged Mande/West) + the state/regional orchestras (Super Biton de Ségou, National Badema, Kanaga de
+  Mopti) + Super Djata & the electric Malian guitar (Zani Diabaté) + Ali Farka Touré & the river blues
+  ("Diaraby"; the African John Lee Hooker; Mali-Mississippi kinship) + Boubacar Traoré "Kar Kar"
+  ("Mali Twist"; the lost years) + the Tuareg electrify — ishumar & Tinariwen's birth (~1979-82) +
+  Wassoulou stirs (kamale ngoni, Nahawa Doumbia seed). Cross-links: US blues; Cuban son under the
+  orchestras; Mande griot (West survey). Content notes: Tuareg exile/rebellion; Kar Kar's hardship.
+  Avoided the #1 "Ali Farka Touré" bare-title collision (named "Diaraby" only). No dups vs #1.
+  Next: SSA-Sahel #3 — the global desert-blues & wassoulou breakout (~1990-2010: Ali Farka Touré's
+  "Talking Timbuktu"/Grammy & Toumani collab; Tinariwen goes global; Tartit/Terakaft; the wassoulou
+  divas — Oumou Sangaré; Boubacar Traoré's rediscovery; Habib Koité; Festival au Désert).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
