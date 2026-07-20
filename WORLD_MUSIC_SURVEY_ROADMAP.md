@@ -58,6 +58,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Sub-Saharan Africa: Central** — complete. 268 tracks, 7 installments + master. (maringa/Cuban rumba -> ndombolo/kuduro/global Afropop)
 - **Sub-Saharan Africa: East** — complete. 229 tracks, 5 installments + master. (taarab/nyatiti -> benga/dansi -> bongo flava/singeli/gengetone)
 - **Sub-Saharan Africa: Sahel** — complete. 175 tracks, 4 installments + master. (Moorish/Tuareg/Songhai roots -> desert blues -> Tinariwen/wassoulou -> crisis & today) ★ **ALL SUB-SAHARAN AFRICA COMPLETE** (West+Southern+Central+East+Sahel = 5 sub-surveys, 1177 tracks)
+- **India / South Asia** — complete. 318 tracks, 7 installments + master. (raga/Samaveda -> classical masters -> folk -> devotional/qawwali -> Bollywood golden age -> modern filmi/Indipop -> global & wider South Asia)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -131,8 +132,8 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 6 | 274 | ACTIVE. #1-6 classical→folk→devotional→golden-age→modern filmi/Indipop; next #7 (FINAL) modern/global + wider South Asia (Pakistan/Bangladesh/Sri Lanka/Nepal) & diaspora — then region master |
-| East Asia: China | not started | — | — | Tier 1 #4a |
+| India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
+| East Asia: China | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #4a. Next #1: Chinese classical & folk roots — guqin, the pentatonic tradition, Peking opera, the great instruments (pipa, erhu, dizi, guzheng) |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
@@ -744,6 +745,24 @@ recordings):
   [Prateek Kuhad, DIVINE, gully rap]; Coke Studio Pakistan; Bangladesh [band music, Lalon revival],
   Sri Lanka, Nepal; and the global diaspora [Panjabi MC, Nitin Sawhney, M.I.A., the bhangra-pop wave])
   — then build the India/South Asia region master and flip the region COMPLETE.
+- 2026-07-20 — **India / South Asia #7 (FINALE)** "Modern, Global & the Wider South Asia (c. 2010-
+  present)" built: `south_asia_music_7_MODERN_GLOBAL_WIDER_SOUTH_ASIA.md` + `_IMPORT.txt` (44 tracks, 8
+  sections; 15 named). Streaming-era filmi & Arijit Singh ("Tum Hi Ho") + the Punjabi-pop juggernaut
+  (AP Dhillon's "Brown Munde", Sidhu Moose Wala's "So High" [murder 2022], Guru Randhawa's "Lahore",
+  Diljit) + Indian indie & gully rap (Prateek Kuhad's "cold/mess", DIVINE's "Mere Gully Mein", Gully
+  Boy) + Pakistan (Nazia Hassan's "Aap Jaisa Koi", Vital Signs' "Dil Dil Pakistan", Junoon's "Sayonee",
+  Coke Studio — Rahat's "Afreen Afreen", Ali Sethi's "Pasoori") + Bangladesh (James/Nagar Baul, LRB,
+  Runa Laila) + Sri Lanka & Nepal (Yohani's "Manike Mage Hithe", Amaradeva, Narayan Gopal) + the global
+  diaspora & Asian Underground (Panjabi MC's "Mundian To Bach Ke", M.I.A.'s "Paper Planes", Jay Sean's
+  "Down") + the through-line. Cross-links: US/UK/Western surveys (diaspora); bhangra/qawwali global.
+  Content note: Sidhu Moose Wala's murder. ASCII-clean; no dups vs #1-6.
+  **REGION MASTER built:** `MASTER_GUIDE_south_asia_survey.md` (#1-7 overview) +
+  `MASTER_SOUTH_ASIA_FULL_SURVEY_IMPORT.txt` (concatenated #1-7, TITLE-only first-occurrence dedup — raw
+  318 → deduped 318, **zero cross-installment dups**). Region **India / South Asia COMPLETE** (7
+  installments, 318 tracks) & added to DONE. Next active region = **East Asia: China** (Tier 1 #4a; East
+  Asia built as SEPARATE surveys — China, Japan, Korea). Next: East Asia: China #1 — Chinese classical &
+  folk roots (the guqin & the scholar's tradition; the pentatonic system; the great instruments — pipa,
+  erhu, dizi, guzheng, sheng; Peking/Chinese opera; regional folk; the deep imperial-era roots).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
