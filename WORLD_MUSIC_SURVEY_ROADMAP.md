@@ -57,6 +57,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Sub-Saharan Africa: Southern** — complete. 249 tracks, 7 installments + master. (San/mbira -> amapiano)
 - **Sub-Saharan Africa: Central** — complete. 268 tracks, 7 installments + master. (maringa/Cuban rumba -> ndombolo/kuduro/global Afropop)
 - **Sub-Saharan Africa: East** — complete. 229 tracks, 5 installments + master. (taarab/nyatiti -> benga/dansi -> bongo flava/singeli/gengetone)
+- **Sub-Saharan Africa: Sahel** — complete. 175 tracks, 4 installments + master. (Moorish/Tuareg/Songhai roots -> desert blues -> Tinariwen/wassoulou -> crisis & today) ★ **ALL SUB-SAHARAN AFRICA COMPLETE** (West+Southern+Central+East+Sahel = 5 sub-surveys, 1177 tracks)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -129,8 +130,8 @@ recordings):
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
-| Sub-Saharan Africa: Sahel | IN PROGRESS | 3 | 131 | ACTIVE. #1-3 desert roots→Malian foundation→global desert-blues/wassoulou breakout; next #4 (likely FINAL) crisis, the new generation & the Sahel today (~2010-present) |
-| India / South Asia | not started | — | — | Tier 1 #3 |
+| Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
+| India / South Asia | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #3. Next #1: Hindustani & Carnatic classical roots — raga & tala, the Vedic/temple deep roots, the classical instruments |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -632,6 +633,25 @@ recordings):
   present: the 2012 jihadist occupation of northern Mali & the music ban, Songhoy Blues & the exiles,
   Bombino & Mdou Moctar's Niger guitar, Fatoumata Diawara, Sidiki Diabaté/Iba One's Bamako rap, Tuareg
   assouf's new wave, Mauritania/Chad now) — then build the SSA-Sahel region master and flip COMPLETE.
+- 2026-07-20 — **Sub-Saharan Africa: Sahel #4 (FINALE)** "Crisis, the New Generation & the Sahel Today
+  (c. 2010-present)" built: `ssa_sahel_music_4_CRISIS_NEW_GENERATION_TODAY.md` + `_IMPORT.txt` (44
+  tracks, 8 sections; 8 named). The 2012 music ban in occupied northern Mali + Songhoy Blues & the
+  music in exile ("Soubour") + the Niger guitar revolution (Bombino's "Azel", Mdou Moctar's "Afrique
+  Victime", Agadez) + the Tuareg assouf new wave (Tamikrest's "Chatma", Imarhan, Les Filles de
+  Illighadad) + Fatoumata Diawara's "Nterini" & the new Malian voices + Bamako now (Bassekou Kouyaté's
+  "Jama Ko", Sidiki Diabaté kora-pop, Oumou Sangaré's "Yere Faga", Bambara rap) + Mauritania/Niger/Chad
+  today (Noura Mint Seymali's "Tzenni", Afrotronix) + resilience through the coups (Vieux Farka Touré).
+  Cross-links: global rock (desert-blues crossover); Mande griot (Bassekou/Sidiki/Rokia flagged).
+  Content notes: the 2012 ban, jihadist violence, 2020-23 coups. No dups vs #1-3.
+  **REGION MASTER built:** `MASTER_GUIDE_ssa_sahel_survey.md` (#1-4 overview) +
+  `MASTER_SSA_SAHEL_FULL_SURVEY_IMPORT.txt` (concatenated #1-4, TITLE-only first-occurrence dedup — raw
+  175 → deduped 175, **zero cross-installment dups**). Region **Sub-Saharan Africa: Sahel COMPLETE** (4
+  installments, 175 tracks) & added to DONE. ★★ **MILESTONE: ALL of Sub-Saharan Africa is now COMPLETE**
+  — West (256) + Southern (249) + Central (268) + East (229) + Sahel (175) = 5 sub-surveys, 1177 tracks.
+  Next active region = **India / South Asia** (Tier 1 #3). Next: India/South Asia #1 — the classical
+  roots (Hindustani & Carnatic): raga & tala, the Vedic/temple/bhakti deep roots, and the classical
+  instruments (sitar, sarod, veena, tabla, mridangam) — read the roadmap's India plan to confirm the
+  installment breakdown (classical → film/Bollywood → folk/regional → devotional → modern/indie/global).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
