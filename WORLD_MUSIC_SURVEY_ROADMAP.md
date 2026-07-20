@@ -123,7 +123,7 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS | 3 | 99 | #1-3 deep-trad→marabi→kwela/township jazz; next #4 mbaqanga/isicathamiya/Soweto (~60s-70s) |
+| Sub-Saharan Africa: Southern | IN PROGRESS | 4 | 134 | #1-4 deep-trad→…→mbaqanga/isicathamiya; next #5 mbira/chimurenga & the liberation era (~70s-80s) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -355,6 +355,18 @@ recordings):
   dropped), so every song title must stay unique region-wide. No dups vs #1-2. Next: SSA-Southern #4
   mbaqanga, isicathamiya & the Soweto sound (~1960s-70s: Mahotella Queens & Mahlathini's mgqashiyo,
   Ladysmith Black Mambazo, West Nkosi, the Makgona Tsohle Band, maskandi).
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #4** "Mbaqanga, Isicathamiya & the Soweto Sound
+  (c. 1960-1979)" built: `ssa_south_music_4_MBAQANGA_ISICATHAMIYA.md` + `_IMPORT.txt` (35 tracks, 6
+  sections; 10 named). The Makgona Tsohle Band & the invention of electric mbaqanga (Mavuthela/Gallo)
+  + Mahlathini & the Mahotella Queens' mgqashiyo + isicathamiya & Ladysmith Black Mambazo (Joseph
+  Shabalala) + Zulu maskandi (Phuzushukela/John Bhengu) + the simanjemanje vocal-mbaqanga galaxy +
+  soul/Harari & the Soweto 1970s. Cross-links: isicathamiya → Graceland (#6); mbaqanga bass → township
+  pop; back to West Africa. Content notes kept: high apartheid, the exploitative flat-fee studio
+  system, the 1976 Soweto uprising. The mbaqanga-instrumental studio era is compilation-based so S1 is
+  mostly descriptor titles (honest). No dups vs #1-3 (titles kept unique region-wide). Next:
+  SSA-Southern #5 mbira, chimurenga & the liberation era (~1970s-80s: Thomas Mapfumo's chimurenga &
+  the Zimbabwe war, Oliver Mtukudzi/Tuku, the Bhundu Boys' jit, Zambian Zamrock, anti-apartheid protest).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
