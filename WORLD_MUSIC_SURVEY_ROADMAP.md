@@ -129,7 +129,7 @@ recordings):
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
-| Sub-Saharan Africa: Sahel | IN PROGRESS | 2 | 87 | ACTIVE. #1-2 desert roots→modern Malian orchestras/desert-blues birth; next #3 the 1990s-2000s global desert-blues & wassoulou breakout |
+| Sub-Saharan Africa: Sahel | IN PROGRESS | 3 | 131 | ACTIVE. #1-3 desert roots→Malian foundation→global desert-blues/wassoulou breakout; next #4 (likely FINAL) crisis, the new generation & the Sahel today (~2010-present) |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
@@ -617,6 +617,21 @@ recordings):
   Next: SSA-Sahel #3 — the global desert-blues & wassoulou breakout (~1990-2010: Ali Farka Touré's
   "Talking Timbuktu"/Grammy & Toumani collab; Tinariwen goes global; Tartit/Terakaft; the wassoulou
   divas — Oumou Sangaré; Boubacar Traoré's rediscovery; Habib Koité; Festival au Désert).
+- 2026-07-20 — **Sub-Saharan Africa: Sahel #3** "The Global Desert-Blues & Wassoulou Breakout (c.
+  1990-2010)" built: `ssa_sahel_music_3_GLOBAL_DESERT_BLUES_WASSOULOU.md` + `_IMPORT.txt` (44 tracks, 8
+  sections; 8 named). Ali Farka Touré conquers the world (Talking Timbuktu/Grammy, "Ai Du", Niafunké,
+  the Toumani duets, Savane) + Tinariwen & the global desert blues ("Cler Achel"/Aman Iman) + the
+  Tuareg guitar spreads (Terakaft, Tartit, Etran Finatawa, Bombino ahead) + Oumou Sangaré & the
+  wassoulou divas ("Moussolou", "Saa Magni"; Sali/Coumba Sidibé; feminist lyrics) + Amadou & Mariam
+  ("Beaux Dimanches", "Sabali"; Manu Chao) + Habib Koité's "Cigarette Abana" & Boubacar Traoré's
+  rediscovery ("Mariama") + Mauritania/Niger modernize (Malouma, Khaira Arby, Mamman Sani) + Festival
+  au Désert at Essakane. Cross-links: US blues (Mali-Mississippi, now global); Mande griot (Toumani/
+  Koité flagged Mande/West). Content notes: Tinariwen's rebel roots; the northern-Mali crisis flagged
+  forward. No dups vs #1-2 (avoided a 2nd bare "Ali Farka"/"Boubacar Traoré" collision; named tracks
+  only). Next: SSA-Sahel #4 (likely FINAL) — crisis, the new generation & the Sahel today (~2010-
+  present: the 2012 jihadist occupation of northern Mali & the music ban, Songhoy Blues & the exiles,
+  Bombino & Mdou Moctar's Niger guitar, Fatoumata Diawara, Sidiki Diabaté/Iba One's Bamako rap, Tuareg
+  assouf's new wave, Mauritania/Chad now) — then build the SSA-Sahel region master and flip COMPLETE.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
