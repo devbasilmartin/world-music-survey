@@ -131,7 +131,7 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 2 | 93 | ACTIVE. #1-2 classical roots→the classical masters; next #3 folk & regional traditions (Bengal bauls, Rajasthan, bhangra, Bollywood-adjacent folk, etc.) |
+| India / South Asia | IN PROGRESS | 3 | 143 | ACTIVE. #1-3 classical roots→masters→folk/regional; next #4 devotional traditions (bhajan/kirtan, qawwali & Sufi, Gurbani, temple) |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -684,6 +684,19 @@ recordings):
   raga's influence OUT into the US/Western surveys (flagged Western). No dups vs #1. Next: India/South
   Asia #3 — folk & regional traditions (Bengal's bauls & Rabindra Sangeet; Rajasthan's Manganiar/Langa;
   Punjab's bhangra & dhol; Lavani, Garba/Dandiya, Bihu; the Northeast & tribal; the vast village India).
+- 2026-07-20 — **India / South Asia #3** "Folk & Regional Traditions — the Village India" built:
+  `south_asia_music_3_FOLK_REGIONAL_TRADITIONS.md` + `_IMPORT.txt` (50 tracks, 9 sections; 3 named —
+  folk-heavy, mostly forms/traditions as seeds). Bengal's bauls, bhatiali & Tagore (Rabindra Sangeet's
+  "Ekla Cholo Re", "Amar Sonar Bangla"; Lalon; Nazrul Geeti) + Rajasthan's desert musicians (Manganiar/
+  Langa, kamaicha/khartal, Padharo Mhare Desh) + Punjab's bhangra/dhol/giddha (Alam Lohar's "Jugni",
+  Kuldeep Manak) + Maharashtra's lavani & powada + Gujarat's garba/dandiya (Navratri) + the Tamil/
+  Dravidian south (gaana, villu paatu, therukoothu, parai, oppari) + Assam's Bihu & the Northeast +
+  the Adivasi/tribal traditions (Santhal, Gond/Warli, Pandavani/Teejan Bai) + folk instruments &
+  theater (ektara, ravanahatha, nautanki/jatra). Cross-links: folk feeding Bollywood (#5) & global
+  bhangra-pop; the Baul's mysticism ↔ Sufi (#4). Content notes: lavani's stigma; Adivasi marginalization.
+  ASCII-clean; no dups vs #1-2. Next: India/South Asia #4 — devotional traditions (bhajan & kirtan;
+  qawwali & the Sufi shrine — Amir Khusrau's legacy, the Sabri Brothers, Nusrat Fateh Ali Khan; Sikh
+  Gurbani/shabad kirtan; temple & bhakti song; the abida/Sufi voice; devotion as India's deepest music).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
