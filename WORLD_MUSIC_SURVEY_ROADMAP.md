@@ -135,7 +135,7 @@ recordings):
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
-| East Asia: Japan | IN PROGRESS | 1 | 45 | ACTIVE. #1 classical/traditional roots (gagaku, koto/shakuhachi/shamisen, noh/kabuki, min'yo); next #2 the modern turn — Meiji Westernization, ryukoka & enka (~1868-1945) |
+| East Asia: Japan | IN PROGRESS | 2 | 83 | ACTIVE. #1-2 classical roots→Meiji/ryukoka/enka-roots; next #3 the postwar boom — kayokyoku, Hibari Misora, enka's golden age, Group Sounds & folk (~1945-1975) |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
@@ -857,6 +857,20 @@ recordings):
   ASCII/romaji; no internal dups (fresh sub-region). Next: East Asia: Japan #2 — the modern turn (~1868-
   1945): Meiji Westernization & the shoka school songs; the first Western-style composer Rentaro Taki
   ("Kojo no Tsuki"); ryukoka (early Showa popular song); the birth of enka; wartime song; toward postwar.
+- 2026-07-20 — **East Asia: Japan #2** "The Modern Turn — Meiji, Ryukoka & the Roots of Enka (c. 1868-
+  1945)" built: `japan_music_2_MEIJI_RYUKOKA_ENKA_ROOTS.md` + `_IMPORT.txt` (38 tracks, 8 sections; 5
+  named). The Meiji opening & shoka school songs (Izawa Shuji, Western scales adopted) + the first
+  Western-style composers (Rentaro Taki's "Kojo no Tsuki", Kosaku Yamada) + doyo children's art song
+  (Teiichi Okano's "Furusato", Yamada's "Akatombo", Kitahara Hakushu) + ryukoka & the first pop stars
+  ("Katyusha no Uta"/Sumako Matsui, Shinpei Nakayama, Columbia/Victor, NHK radio 1925) + the jazz age &
+  modern Tokyo (Noriko Awaya's "Wakare no Blues", Ichiro Fujiyama, moga/mobo) + the roots of enka (Meiji
+  enzetsu-ka, the enka-shi) + war & the suppression of song (gunka, "Umi Yukaba", jazz banned) + defeat
+  & the road ahead (1945, American music floods in). Cross-links: Western classical & American jazz into
+  Japan; the shoka model (China/Korea). Content notes: militarism & the Pacific War, kept with care.
+  ASCII/romaji; no dups vs #1. Next: East Asia: Japan #3 — the postwar boom (~1945-1975): kayokyoku &
+  Hibari Misora (the postwar queen); enka's golden age (Hachiro Kasuga, Harumi Miyako, Keisuke Yamashita);
+  the mood-kayo & jazz; rockabilly & the Group Sounds boom (The Tigers, The Spiders); the folk boom
+  (Takuro Yoshida, Yosui Inoue); the Showa songbook.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
