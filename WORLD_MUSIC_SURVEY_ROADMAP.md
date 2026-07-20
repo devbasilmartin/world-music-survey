@@ -123,7 +123,7 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS | 1 | 38 | #1 deep-traditional (bow/overtone/mbira/San); next #2 marabi & mission choralism (~1900-1940s) |
+| Sub-Saharan Africa: Southern | IN PROGRESS | 2 | 68 | #1-2 deep-traditional→marabi/Mbube/mission; next #3 kwela, sax jive & township jazz (~1950s) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -327,6 +327,21 @@ recordings):
   First file of the region, no dedup priors. Next: SSA-Southern #2 marabi, early recording & mission
   choralism (~1900-1940s: marabi keyboard, Solomon Linda's "Mbube"/"The Lion Sleeps Tonight", Reuben
   Caluza's choral songs, the Zulu Christian choral tradition).
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #2** "Marabi, Early Recording & Mission Choralism
+  (c. 1900-1948)" built: `ssa_south_music_2_MARABI_MISSION_EARLY_RECORDING.md` + `_IMPORT.txt` (30
+  tracks, 6 sections; 5 named, rest descriptor/traditional for the sparse-recording era). Marabi (the
+  shebeen I-IV-V keyboard cycle) + Solomon Linda's 1939 "Mbube" & the royalties injustice + Reuben
+  Caluza & mission-modern choral song (iLand Act, protesting the 1913 Land Act) + John Knox Bokwe +
+  maskandi/migrant string & concertina (George Sibanda's "Guabi Guabi") + the marabi-to-jazz bridge
+  (Jazz Maniacs, Merry Blackbirds) + the recording industry & wider region (Gallo, Motsieloa, Hugh
+  Tracey/ILAM, the Copperbelt & Rhodesias). Cross-links: marabi ↔ US ragtime/jazz; Mbube → Wimoweh/
+  The Weavers/Disney Lion King (US survey); same colonial guitar-and-record economy as West Africa.
+  Content notes kept: segregation, the mine compounds, the Mbube royalties theft (Linda died poor
+  1962; heirs settled 2006). Dedup fixes: renamed "Mbube"-descriptor and "Makwaya"-descriptor to avoid
+  collision with the Linda entry and #1's makwaya. No dups vs #1. Next: SSA-Southern #3 kwela, sax jive
+  & township jazz (~1950s: Spokes Mashiyane pennywhistle kwela, the Sophiatown era, the Manhattan
+  Brothers, young Miriam Makeba, Dollar Brand/Abdullah Ibrahim & the Jazz Epistles).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
