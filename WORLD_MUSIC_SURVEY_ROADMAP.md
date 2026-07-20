@@ -56,6 +56,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Sub-Saharan Africa: West** — complete. 256 tracks, 7 installments + master. (griot/kora -> Afrobeats)
 - **Sub-Saharan Africa: Southern** — complete. 249 tracks, 7 installments + master. (San/mbira -> amapiano)
 - **Sub-Saharan Africa: Central** — complete. 268 tracks, 7 installments + master. (maringa/Cuban rumba -> ndombolo/kuduro/global Afropop)
+- **Sub-Saharan Africa: East** — complete. 229 tracks, 5 installments + master. (taarab/nyatiti -> benga/dansi -> bongo flava/singeli/gengetone)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -127,8 +128,8 @@ recordings):
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
-| Sub-Saharan Africa: East | IN PROGRESS | 4 | 181 | ACTIVE. #1-4 roots→benga→cassette→bongo flava/genge/hip-hop; next #5 the streaming era & global crossover (~2010-present) |
-| Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
+| Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
+| Sub-Saharan Africa: Sahel | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #2e. Next #1: desert-blues/Sahelian roots (Mali/Niger Tuareg, griot traditions, Sahel guitar) |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
@@ -572,7 +573,22 @@ recordings):
   Platnumz & WCB/Wasafi, the singeli explosion, Sauti Sol, Nyashinski, Sho Madjozi's cross-border hits,
   amapiano/afrobeats crossover, gengetone; the East African diaspora) — then build the SSA-East region
   master and flip the region COMPLETE (next region = Sub-Saharan Africa: Sahel).
-
+- 2026-07-20 — **Sub-Saharan Africa: East #5 (FINALE)** "The Streaming Era & Global Crossover (c.
+  2010-present)" built: `ssa_east_music_5_STREAMING_ERA_GLOBAL.md` + `_IMPORT.txt` (48 tracks, 8
+  sections; 12 named). Diamond Platnumz & the Wasafi empire ("Number One") + the bongo stars (Rayvanny's
+  "Tetema", Harmonize's "Kwangwaru", Zuchu's "Sukari", Nandy) + singeli (Sisso, Bamba Pana, Nyege Nyege)
+  + Kenyan gengetone (Ethic's "Lamba Lolo", Sailors' "Wamlambez") + Sauti Sol & the afropop crown ("Sura
+  Yako", "Suzanna") + the Kenyan new wave (Nyashinski's "Mungu Pekee", Khaligraph Jones' "Mazishi") +
+  Uganda/Rwanda global (Eddy Kenzo's "Sitya Loss", Nyege Nyege) + cross-border (Sho Madjozi's "John
+  Cena", flagged SA; amapiano/afrobeats crossover). Cross-links: West African Afrobeats & SA amapiano;
+  global streaming. Content notes: gengetone censorship, Uganda politics. No dups vs #1-4.
+  **REGION MASTER built:** `MASTER_GUIDE_ssa_east_survey.md` (overview of #1-5) +
+  `MASTER_SSA_EAST_FULL_SURVEY_IMPORT.txt` (concatenated #1-5, first-occurrence dedup by TITLE-only norm
+  — raw 229 → deduped 229, **zero cross-installment dups region-wide**). Region **Sub-Saharan Africa:
+  East flipped COMPLETE** (5 installments, 229 tracks) & added to DONE. Next active region =
+  **Sub-Saharan Africa: Sahel** (Tier 1 #2e). Next: SSA-Sahel #1 — Sahelian/desert roots (the griot
+  heartland's edge; Malian & Nigerien Tuareg traditions; the Sahel guitar & the roots of desert blues;
+  Songhai/Fulani/Hausa music; the pentatonic north).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
