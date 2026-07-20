@@ -123,7 +123,7 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS | 4 | 134 | #1-4 deep-trad→…→mbaqanga/isicathamiya; next #5 mbira/chimurenga & the liberation era (~70s-80s) |
+| Sub-Saharan Africa: Southern | IN PROGRESS | 5 | 172 | #1-5 deep-trad→…→mbira/chimurenga/liberation; next #6 Graceland/bubblegum/kwaito (~85-2000) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -367,6 +367,21 @@ recordings):
   mostly descriptor titles (honest). No dups vs #1-3 (titles kept unique region-wide). Next:
   SSA-Southern #5 mbira, chimurenga & the liberation era (~1970s-80s: Thomas Mapfumo's chimurenga &
   the Zimbabwe war, Oliver Mtukudzi/Tuku, the Bhundu Boys' jit, Zambian Zamrock, anti-apartheid protest).
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #5** "Mbira, Chimurenga & the Liberation Era
+  (c. 1970-1989)" built: `ssa_south_music_5_MBIRA_CHIMURENGA_LIBERATION.md` + `_IMPORT.txt` (38 tracks,
+  7 sections; 23 named). Thomas Mapfumo & chimurenga (electric-mbira liberation music, his 1979
+  detention) + the mbira-to-guitar Zimbabwean sound (Stella Chiweshe electric, Zexie Manatsa, sungura)
+  + Oliver Mtukudzi's Tuku music + the Bhundu Boys & jit (+ the Four Brothers) + Zambian Zamrock
+  (WITCH, Amanaz, Ngozi Family, Copperbelt psych under Kaunda) + Mozambican marrabenta (Fany Mpfumo,
+  Orchestra Marrabenta) + crossing the colour line (Juluka/Johnny Clegg & Sipho Mchunu, Sipho Mabuse,
+  Sakhile). Cross-links: chimurenga mbira-to-guitar ↔ #1; Zamrock ↔ US/UK psych & funk; liberation
+  protest ↔ US/West Africa surveys. Content notes kept: liberation wars, detention/censorship, the AIDS
+  epidemic that gutted the Bhundu Boys and Zamrock scenes. Scope call flagged: Johnny Clegg (white
+  South African) kept as South African. Avoided #1's Chiweshe titles ("Kasahwa"/"Chapfudza") — used
+  "Njuzu". No dups vs #1-4. Next: SSA-Southern #6 Graceland, bubblegum & the birth of kwaito
+  (~1985-2000: Paul Simon's Graceland & its controversy, Brenda Fassie & bubblegum, Yvonne Chaka Chaka,
+  Lucky Dube's reggae, post-1994 kwaito — Boom Shaka, Arthur Mafokate, TKZee, Mandoza).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
