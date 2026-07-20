@@ -123,7 +123,7 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS (next) | 0 | — | Tier 1 #2b — active region; #1 = deep-traditional (Zulu/Xhosa/Sotho, mbira, San/Khoi) |
+| Sub-Saharan Africa: Southern | IN PROGRESS | 1 | 38 | #1 deep-traditional (bow/overtone/mbira/San); next #2 marabi & mission choralism (~1900-1940s) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -314,6 +314,19 @@ recordings):
   COMPLETE and added to the DONE list; next active region = Sub-Saharan Africa: Southern (Tier 1 #2b).
   Next: SSA-Southern #1, the deep-traditional layer — Zulu/Xhosa/Sotho song, the mbira/Shona of
   Zimbabwe, San/Khoi music, isicathamiya roots, and the migrant-labour & mission-hymn backdrop.
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #1** "The Deep-Traditional Layer" built:
+  `ssa_south_music_1_DEEP_TRADITIONAL.md` + `_IMPORT.txt` (38 tracks, 7 sections; 29 living-tradition
+  bare titles). Zulu/Swazi bow, voice & ngoma (Princess Magogo) + Xhosa overtone/split-tone singing &
+  uhadi (Nofinishi Dywili, Madosini, Ngqoko group) + Sotho/Tswana highveld (lesiba, mokhibo) + the
+  Shona mbira dzavadzimu of Zimbabwe (Stella Chiweshe, Ephat Mujuru, Dumisani Maraire, Hakurotwi Mude)
+  + the San & Khoi (the oldest layer, trance/healing dance) + Venda/Tsonga/Chopi timbila (Mozambique
+  UNESCO xylophone orchestras) + the migrant-labour & mission-hymn backdrop (Ntsikana's hymn, makwaya).
+  Cross-links: mbira/bow ↔ West African balafon/kora & pan-African roots; isicathamiya roots → later
+  Graceland. Content notes kept: colonial dispossession, the mine compounds, the San's marginalization.
+  First file of the region, no dedup priors. Next: SSA-Southern #2 marabi, early recording & mission
+  choralism (~1900-1940s: marabi keyboard, Solomon Linda's "Mbube"/"The Lion Sleeps Tonight", Reuben
+  Caluza's choral songs, the Zulu Christian choral tradition).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
