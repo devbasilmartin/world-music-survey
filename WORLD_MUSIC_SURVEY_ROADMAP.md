@@ -123,7 +123,7 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS | 2 | 68 | #1-2 deep-traditional→marabi/Mbube/mission; next #3 kwela, sax jive & township jazz (~1950s) |
+| Sub-Saharan Africa: Southern | IN PROGRESS | 3 | 99 | #1-3 deep-trad→marabi→kwela/township jazz; next #4 mbaqanga/isicathamiya/Soweto (~60s-70s) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -342,6 +342,19 @@ recordings):
   collision with the Linda entry and #1's makwaya. No dups vs #1. Next: SSA-Southern #3 kwela, sax jive
   & township jazz (~1950s: Spokes Mashiyane pennywhistle kwela, the Sophiatown era, the Manhattan
   Brothers, young Miriam Makeba, Dollar Brand/Abdullah Ibrahim & the Jazz Epistles).
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #3** "Kwela, Sax Jive & Township Jazz (c. 1950-1962)"
+  built: `ssa_south_music_3_KWELA_TOWNSHIP_JAZZ.md` + `_IMPORT.txt` (31 tracks, 6 sections; 17 named).
+  Kwela pennywhistle (Spokes Mashiyane, "Tom Hark", Lemmy Special) + Sophiatown vocal-jazz groups
+  (Manhattan Brothers, the Skylarks) + the great voices (Miriam Makeba's original "Pata Pata"/"Click
+  Song", Dorothy Masuka, Dolly Rathebe) + the Jazz Epistles/modern jazz (Abdullah Ibrahim, Masekela,
+  Kippie Moeketsi, Gwangwa) + the "King Kong" musical (Todd Matshikiza) + removals & exile
+  ("Meadowlands"). Cross-links: township jazz ↔ US swing/bebop; kwela ↔ UK skiffle; Makeba/Masekela/
+  Ibrahim exile → US survey. Content notes kept: the 1955 Sophiatown destruction, pass laws, the
+  exile diaspora. NOTE for future installments — the validation norm() dedups by TITLE only (artist
+  dropped), so every song title must stay unique region-wide. No dups vs #1-2. Next: SSA-Southern #4
+  mbaqanga, isicathamiya & the Soweto sound (~1960s-70s: Mahotella Queens & Mahlathini's mgqashiyo,
+  Ladysmith Black Mambazo, West Nkosi, the Makgona Tsohle Band, maskandi).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
