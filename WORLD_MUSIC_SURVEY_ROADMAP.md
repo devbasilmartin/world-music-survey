@@ -131,7 +131,7 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 5 | 229 | ACTIVE. #1-5 classical→folk→devotional→Bollywood golden age; next #6 modern filmi & Indipop (R.D. Burman→A.R. Rahman→Indipop, ~1970-2010) |
+| India / South Asia | IN PROGRESS | 6 | 274 | ACTIVE. #1-6 classical→folk→devotional→golden-age→modern filmi/Indipop; next #7 (FINAL) modern/global + wider South Asia (Pakistan/Bangladesh/Sri Lanka/Nepal) & diaspora — then region master |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -728,6 +728,22 @@ recordings):
   2010: R.D. Burman's revolution & the disco/Bappi Lahiri era; Gulzar/Jagjit Singh ghazal; A.R. Rahman's
   transformation (Roja→); the 90s Indipop boom (Alisha Chinai, Daler Mehndi, bhangra-pop); Sufi-rock &
   the 2000s composers).
+- 2026-07-20 — **India / South Asia #6** "Modern Filmi & the Indipop Boom (c. 1970-2010)" built:
+  `south_asia_music_6_MODERN_FILMI_INDIPOP.md` + `_IMPORT.txt` (45 tracks, 8 sections; 15 named). R.D.
+  Burman's revolution (Asha's "Dum Maro Dum" & "Chura Liya Hai Tumne", "Mehbooba Mehbooba", Kishore's
+  "O Mere Dil Ke Chain") + the disco era & Bappi Lahiri ("I Am a Disco Dancer", "Jimmy Jimmy Aaja") +
+  the ghazal revival (Jagjit Singh's "Tum Itna Jo Muskura Rahe Ho", Mehdi Hassan's "Ranjish Hi Sahi"
+  [flagged Pakistani], Pankaj Udhas's "Chitthi Aayi Hai") + the southern maestro Ilaiyaraaja + A.R.
+  Rahman's transformation (Roja; "Chaiyya Chaiyya"; the Oscar-winning "Jai Ho") + the Indipop boom
+  (Alisha Chinai's "Made in India", Daler Mehndi's "Tunak Tunak Tun", Lucky Ali's "O Sanam") + the new
+  playback & 2000s composers (Sonu Nigam's "Kal Ho Naa Ho"; Shankar-Ehsaan-Loy, Vishal-Shekhar, Pritam)
+  + the industry/item-song/T-Series economy. Cross-links: golden-age songbook (#5); bhangra diaspora;
+  qawwali/ghazal (#4). Content notes: piracy economy; Gulshan Kumar's 1997 murder. ASCII-clean; no dups
+  vs #1-5. Next: India/South Asia #7 (FINAL) — modern/global & the wider South Asia (~2010-present: the
+  streaming-era film pop & Punjabi-pop juggernaut [Diljit Dosanjh, AP Dhillon]; Indian indie/hip-hop
+  [Prateek Kuhad, DIVINE, gully rap]; Coke Studio Pakistan; Bangladesh [band music, Lalon revival],
+  Sri Lanka, Nepal; and the global diaspora [Panjabi MC, Nitin Sawhney, M.I.A., the bhangra-pop wave])
+  — then build the India/South Asia region master and flip the region COMPLETE.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
