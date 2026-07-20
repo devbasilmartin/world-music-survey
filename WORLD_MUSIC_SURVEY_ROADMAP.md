@@ -131,7 +131,7 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 1 | 48 | ACTIVE. #1 classical roots (raga/tala, the two systems, instruments); next #2 the classical masters — Hindustani gharanas & the Carnatic tradition in depth (~1900-present) |
+| India / South Asia | IN PROGRESS | 2 | 93 | ACTIVE. #1-2 classical roots→the classical masters; next #3 folk & regional traditions (Bengal bauls, Rajasthan, bhangra, Bollywood-adjacent folk, etc.) |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -670,6 +670,20 @@ recordings):
   — the classical masters (~1900-present): the Hindustani gharanas & giants (Ravi Shankar, Ali Akbar
   Khan, Bismillah Khan, Bhimsen Joshi, Kishori Amonkar, Zakir Hussain) and the modern Carnatic greats
   (M.S. Subbulakshmi, etc.); the concert age, AIR/recordings, and the raga's global reach.
+- 2026-07-20 — **India / South Asia #2** "The Classical Masters (Hindustani & Carnatic, c. 1900-
+  present)" built: `south_asia_music_2_CLASSICAL_MASTERS.md` + `_IMPORT.txt` (45 tracks, 8 sections; 6
+  named). The concert age & recording revolution (court→hall, AIR, LP) + the Hindustani sitar/sarod
+  giants (Ravi Shankar's "Raga Jog", Ali Akbar Khan's "Raga Chandranandan", Vilayat Khan, Nikhil
+  Banerjee, the Maihar gharana) + the Hindustani vocal masters (Bhimsen Joshi, Kishori Amonkar, Kumar
+  Gandharva, Kesarbai Kerkar's "Jaat Kahan Ho" on the Voyager Golden Record, the Dagar dhrupad) + tabla
+  as solo art (Alla Rakha, Zakir Hussain) + shehnai/flute/santoor ennobled (Bismillah Khan, Chaurasia,
+  Shivkumar Sharma) + the Carnatic voice (M.S. Subbulakshmi's "Kurai Onrum Illai" & "Venkatesa
+  Suprabhatam", UN 1966; Semmangudi, Balamuralikrishna, DKP/MLV) + Carnatic instrumentalists & the
+  Madras Season (Lalgudi Jayaraman, L. Subramaniam, Palghat Mani Iyer) + the raga goes global (Ravi
+  Shankar's "West Meets East"/Menuhin, Harrison/Beatles, Monterey/Woodstock, Shakti). Cross-links: the
+  raga's influence OUT into the US/Western surveys (flagged Western). No dups vs #1. Next: India/South
+  Asia #3 — folk & regional traditions (Bengal's bauls & Rabindra Sangeet; Rajasthan's Manganiar/Langa;
+  Punjab's bhangra & dhol; Lavani, Garba/Dandiya, Bihu; the Northeast & tribal; the vast village India).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
