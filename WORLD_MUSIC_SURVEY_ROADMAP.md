@@ -131,7 +131,7 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 4 | 186 | ACTIVE. #1-4 classical→folk→devotional; next #5 the film-song juggernaut — Bollywood's golden age (~1930-1970, playback singers & music directors) |
+| India / South Asia | IN PROGRESS | 5 | 229 | ACTIVE. #1-5 classical→folk→devotional→Bollywood golden age; next #6 modern filmi & Indipop (R.D. Burman→A.R. Rahman→Indipop, ~1970-2010) |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -713,6 +713,21 @@ recordings):
   of playback singing; the great music directors — Naushad, S.D. Burman, Shankar-Jaikishan, C. Ramchandra;
   the legendary voices — Lata Mangeshkar, Mohammed Rafi, Kishore Kumar, Mukesh, Asha Bhosle, Manna Dey;
   filmi ghazal & the golden-age songbook that became India's true pop).
+- 2026-07-20 — **India / South Asia #5** "The Film-Song Juggernaut — Bollywood's Golden Age (c. 1931-
+  1970)" built: `south_asia_music_5_BOLLYWOOD_GOLDEN_AGE.md` + `_IMPORT.txt` (43 tracks, 8 sections; 14
+  named — the pop songbook). Birth of film song & playback (Alam Ara 1931, K.L. Saigal's "Babul Mora")
+  + Naushad's classical grandeur (Mughal-e-Azam's "Pyar Kiya To Darna Kya") + Raj Kapoor/Shankar-
+  Jaikishan/Mukesh ("Awara Hoon", "Mera Joota Hai Japani"; global to the USSR) + S.D. Burman & Guru
+  Dutt's poetic films (Geeta Dutt's "Waqt Ne Kiya Kya Haseen Sitam") + Lata Mangeshkar the Nightingale
+  ("Aye Mere Watan Ke Logon", "Lag Ja Gale") + Mohammed Rafi ("Chaudhvin Ka Chand", "Baharon Phool
+  Barsao") + Kishore Kumar/Asha/Manna Dey/Talat (Aradhana's "Mere Sapno Ki Rani" & "Roop Tera Mastana",
+  "Pyar Hua Ikrar Hua", "Aaiye Meharban", "Jalte Hain Jiske Liye") + the filmi ghazal & golden-age
+  songbook. Cross-links: Hindustani classical (#2) & folk (#3) into film song; golden age → modern
+  filmi (#6); Indian film music's global reach. Content notes: female-playback monopoly; Guru Dutt's
+  tragedy. ASCII-clean; no dups vs #1-4. Next: India/South Asia #6 — modern filmi & Indipop (~1970-
+  2010: R.D. Burman's revolution & the disco/Bappi Lahiri era; Gulzar/Jagjit Singh ghazal; A.R. Rahman's
+  transformation (Roja→); the 90s Indipop boom (Alisha Chinai, Daler Mehndi, bhangra-pop); Sufi-rock &
+  the 2000s composers).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
