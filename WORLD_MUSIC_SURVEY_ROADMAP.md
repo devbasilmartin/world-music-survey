@@ -54,6 +54,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Europe** — complete. 403 tracks, 9 installments + master. (Gregorian chant c.800 -> modern EDM)
 - **Latin America** — complete. 371 tracks, 7 installments + master. (Indigenous/colonial -> reggaeton)
 - **Sub-Saharan Africa: West** — complete. 256 tracks, 7 installments + master. (griot/kora -> Afrobeats)
+- **Sub-Saharan Africa: Southern** — complete. 249 tracks, 7 installments + master. (San/mbira -> amapiano)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -123,8 +124,8 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS | 6 | 206 | #1-6 deep-trad→…→Graceland/bubblegum/kwaito; next #7 amapiano/global present (FINAL + region master) |
-| Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
+| Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
+| Sub-Saharan Africa: Central | IN PROGRESS (next) | 0 | — | Tier 1 #2c — active region; #1 = Congolese rumba's roots (Wendo Kolosoy, Cuban-son influence) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -397,6 +398,25 @@ recordings):
   global present (~2000-now) — THE REGION'S FINAL INSTALLMENT: also build the region master
   (MASTER_GUIDE_ssa_south_survey.md + MASTER_SSA_SOUTH_FULL_SURVEY_IMPORT.txt) and flip SSA-Southern
   COMPLETE; set next active region = Sub-Saharan Africa: Central.
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #7** "Amapiano & the Global Present (c. 2000-present)"
+  built: `ssa_south_music_7_AMAPIANO_GLOBAL_PRESENT.md` + `_IMPORT.txt` (43 tracks, 7 sections; 26
+  named). SA deep/soulful house (Black Coffee) + Durban gqom (DJ Lag, Babes Wodumo, Distruction Boyz)
+  + the amapiano log-drum explosion (Scorpion Kings/Kabza & Maphorisa, MFR Souls, Busta 929) + amapiano
+  goes global (Focalistic's "Ke Star", DBN Gogo, Uncle Waffles, Young Stunna) + the global crossover
+  (Master KG's "Jerusalema", Tyla's Grammy-winning "Water", Sho Madjozi) + Zimbabwe/wider region now
+  (Winky D, Jah Prayzah, Sampa the Great) + the 21st-c. jazz & roots revival (Thandiswa Mazwai, Nduduzo
+  Makhathini). Cross-links: SA house ↔ US/Chicago house; amapiano ↔ West African Afrobeats/UK.
+  Scope calls flagged: Uncle Waffles (Eswatini-born), Sampa the Great (Zambian-born, Australia-based).
+  No dups vs #1-6.
+- 2026-07-20 — **Sub-Saharan Africa: Southern COMPLETE.** Region master built:
+  `MASTER_GUIDE_ssa_south_survey.md` (San/mbira→amapiano arc, the four-strand braid, cross-links to US/
+  West Africa/Caribbean, recurring scope calls, manifest) + `MASTER_SSA_SOUTH_FULL_SURVEY_IMPORT.txt`.
+  Seven installments sum to **249 tracks with ZERO cross-installment duplicates** (raw 249 → deduped
+  249). Region flipped COMPLETE and added to the DONE list; next active region = Sub-Saharan Africa:
+  Central (Tier 1 #2c). Next: SSA-Central #1, Congolese rumba's deep roots — the Congo/Zaire rumba
+  lineage, Wendo Kolosoy & the 1940s-50s Kinshasa/Leopoldville scene, the Cuban-son influence, likembe/
+  folkloric roots.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
