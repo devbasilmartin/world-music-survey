@@ -131,7 +131,7 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 3 | 143 | ACTIVE. #1-3 classical roots→masters→folk/regional; next #4 devotional traditions (bhajan/kirtan, qawwali & Sufi, Gurbani, temple) |
+| India / South Asia | IN PROGRESS | 4 | 186 | ACTIVE. #1-4 classical→folk→devotional; next #5 the film-song juggernaut — Bollywood's golden age (~1930-1970, playback singers & music directors) |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -697,6 +697,22 @@ recordings):
   ASCII-clean; no dups vs #1-2. Next: India/South Asia #4 — devotional traditions (bhajan & kirtan;
   qawwali & the Sufi shrine — Amir Khusrau's legacy, the Sabri Brothers, Nusrat Fateh Ali Khan; Sikh
   Gurbani/shabad kirtan; temple & bhakti song; the abida/Sufi voice; devotion as India's deepest music).
+- 2026-07-20 — **India / South Asia #4** "Devotional Traditions — Bhajan, Qawwali & the Sacred Voice"
+  built: `south_asia_music_4_DEVOTIONAL_BHAJAN_QAWWALI.md` + `_IMPORT.txt` (43 tracks, 8 sections; 5
+  named). The bhakti poet-saints (Mirabai's "Payoji Maine", Kabir, Surdas, Tulsidas's "Hanuman Chalisa",
+  Narsinh Mehta's "Vaishnava Jana To") + Hindu bhajan & kirtan (Hare Krishna sankirtan, "Om Jai Jagdish
+  Hare", abhang/warkari) + the Sufi shrine & birth of qawwali (Amir Khusrau's "Man Kunto Maula" &
+  "Chaap Tilak", the dargah/sama) + Nusrat Fateh Ali Khan ("Allah Hoo", "Mera Piya Ghar Aaya"; global
+  via Real World) + the qawwali dynasties (Sabri Brothers' "Bhar Do Jholi", Abida Parveen, Aziz Mian,
+  "Dama Dam Mast Qalandar") + the Sufi poets sung (Bulleh Shah, Baba Farid, Shah Abdul Latif) + Sikh
+  Gurbani/shabad kirtan (Golden Temple ragis, Guru Nanak & Mardana) + mantra/temple/global kirtan
+  (T-Series bhajans, yoga-world kirtan flagged Western). Bridges into Pakistan (Nusrat/Sabris/Abida
+  flagged wider-South-Asia). Cross-links: the Baul (#3); Sufi/MENA; film devotional song (#5). ASCII-
+  clean; avoided the #1 "Amir Khusrau"/"Bhakti" title collisions (named works only). No dups vs #1-3.
+  Next: India/South Asia #5 — the film-song juggernaut / Bollywood's golden age (~1930-1970: the birth
+  of playback singing; the great music directors — Naushad, S.D. Burman, Shankar-Jaikishan, C. Ramchandra;
+  the legendary voices — Lata Mangeshkar, Mohammed Rafi, Kishore Kumar, Mukesh, Asha Bhosle, Manna Dey;
+  filmi ghazal & the golden-age songbook that became India's true pop).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
