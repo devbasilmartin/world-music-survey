@@ -127,7 +127,7 @@ recordings):
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
-| Sub-Saharan Africa: East | IN PROGRESS | 1 | 45 | ACTIVE. #1 roots (taarab/guitar/dansi); next #2 the golden dance-band age & benga (~1965-1980) |
+| Sub-Saharan Africa: East | IN PROGRESS | 2 | 91 | ACTIVE. #1-2 roots→benga/dance-band golden age; next #3 the cassette era & Swahili pop (~1980-1995) |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
@@ -528,6 +528,21 @@ recordings):
   Next: SSA-East #2 — the golden dance-band age & the rise of benga (~1965-1980: Kenyan benga —
   D.O. Misiani & Shirati Jazz, the Luo guitar; Swahili rumba; Tanzania's ujamaa-era bands; Nairobi as
   a pan-African recording hub for Congolese exiles).
+- 2026-07-20 — **Sub-Saharan Africa: East #2** "The Golden Dance-Band Age & the Rise of Benga (c.
+  1965-1980)" built: `ssa_east_music_2_BENGA_DANCE_BAND_GOLDEN_AGE.md` + `_IMPORT.txt` (46 tracks, 8
+  sections; 5 named). Kenyan benga & the Luo guitar (D.O. Misiani & Shirati Jazz's "Pole Musa";
+  nyatiti remapped onto guitar) + the benga boom & the 45 (Gabriel Omolo's "Lunchtime", Collela
+  Mazee/Victoria Kings, George Ramogi) + Kikuyu/vernacular benga (Joseph Kamaru, D.K. Daniel Kamau) +
+  Nairobi the pan-African hub for Congolese exiles (Super Mazembe's "Shauri Yako", Baba Gaston, Samba
+  Mapangala/Virunga) + Swahili rumba & the Wanyika bands (Les Wanyika's "Sina Makosa", Simba Wanyika,
+  Makassy) + Tanzania's ujamaa dance bands (DDC Mlimani Park, Juwata, Safari Sound, Vijana Jazz) +
+  Mbaraka Mwinshehe (Super Volcano's "Shida"; d. 1979) + the sound spreading outward. Cross-links:
+  Congo rumba naturalized in Nairobi (Central survey); Cuban son under dansi (Latin). Region-integrity
+  flags: Super Mazembe/Baba Gaston/Samba Mapangala (Congolese emigres, pillars of the Nairobi scene).
+  Content note: Mbaraka's 1979 death. No dups vs #1 (TITLE-only norm).
+  Next: SSA-East #3 — the cassette era & modern Swahili pop (~1980-1995: the cassette boom; Zanzibar
+  taarab's modernization & "rusha roho"; Kenyan benga into the 80s; Tanzanian dansi's late golden age;
+  the decline of the big bands and the rise of studio pop).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
