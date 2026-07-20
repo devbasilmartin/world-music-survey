@@ -125,7 +125,7 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS (next) | 0 | — | Tier 1 #2c — active region; #1 = Congolese rumba's roots (Wendo Kolosoy, Cuban-son influence) |
+| Sub-Saharan Africa: Central | IN PROGRESS | 1 | 32 | #1 rumba roots/birth (Wendo, Cuban-son spark); next #2 the golden age (Franco/OK Jazz, Kalle, ~1953-65) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -417,6 +417,18 @@ recordings):
   Central (Tier 1 #2c). Next: SSA-Central #1, Congolese rumba's deep roots — the Congo/Zaire rumba
   lineage, Wendo Kolosoy & the 1940s-50s Kinshasa/Leopoldville scene, the Cuban-son influence, likembe/
   folkloric roots.
+
+- 2026-07-20 — **Sub-Saharan Africa: Central #1** "Congolese Rumba's Roots & Birth (c. 1930-1957)"
+  built: `ssa_central_music_1_RUMBA_ROOTS_BIRTH.md` + `_IMPORT.txt` (32 tracks, 6 sections; 3 named,
+  rest descriptor/traditional for the roots era). The deep Congo folkloric layer (likembe, BaAka forest
+  polyphony, Kongo/Luba) + the Cuban "GV" son records that sparked it + the coastal guitar/maringa/
+  accordion + Wendo Kolosoy & the birth of rumba ("Marie-Louise" 1948, Adou Elenga's "Ata Ndele") +
+  the labels/studio scene (Ngoma, Opika, Loningisa) + the next generation emerging (Kabasele's "Para
+  Fifi"/African Jazz 1953, young Franco at Loningisa). Cross-links: Cuban son (Latin survey) → Congo
+  rumba → back out across West/East/Southern Africa; Kongo diaspora roots → Cuban/Haitian sacred music.
+  Content notes kept: brutal Belgian colonial Congo, the flat-fee label exploitation. First file of the
+  region, no dedup priors. Next: SSA-Central #2 the golden age of Congolese rumba (~1953-1965: Le Grand
+  Kalle & African Jazz, Franco & OK Jazz, "Independence Cha Cha" 1960, the rumba odemba).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
