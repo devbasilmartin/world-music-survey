@@ -127,7 +127,7 @@ recordings):
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
-| Sub-Saharan Africa: East | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #2d. Next #1: East African roots (Swahili taarab, Congolese-seeded benga/Kenyan guitar, Tanzanian dansi) |
+| Sub-Saharan Africa: East | IN PROGRESS | 1 | 45 | ACTIVE. #1 roots (taarab/guitar/dansi); next #2 the golden dance-band age & benga (~1965-1980) |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
@@ -513,6 +513,21 @@ recordings):
   **Sub-Saharan Africa: East** (Tier 1 #2d). Next: SSA-East #1 — East African roots (Swahili taarab of
   Zanzibar/Mombasa; the Congolese-seeded Kenyan benga & guitar pop; Tanzanian dansi/muziki wa dansi;
   early Kenyan/Tanzanian recording scenes).
+- 2026-07-20 — **Sub-Saharan Africa: East #1** "Roots — Taarab, the Guitar & the Birth of Dansi (c.
+  1900-1970)" built: `ssa_east_music_1_ROOTS_TAARAB_GUITAR_DANSI.md` + `_IMPORT.txt` (45 tracks, 8
+  sections; 4 named — roots-heavy, so mostly traditions/styles as search seeds). NEW region, stem
+  `ssa_east_music_` (dedup scope resets). Swahili-coast taarab & Ikhwani Safaa + Siti binti Saad (the
+  mother of taarab, "Kijiti"; first East African to record, Bombay 78s) + traditional roots (Luo
+  nyatiti, ngoma, orutu, litungu) + the Kenyan guitar & pop song (Fundi Konde; Fadhili William's
+  "Malaika", authorship-dispute flagged) + Jean Bosco Mwenda's Katanga guitar ("Masanga", flagged
+  Congolese but foundational to East African guitar) + 1960s twist/rumba hitmakers (Daudi Kabaka's
+  "Helule Helule"; early benga stirrings) + Tanzanian dansi (Salum Abdallah's Cuban Marimba Band, NUTA/
+  Morogoro/Western Jazz; Cuban GV records) + Congo rumba arriving in Nairobi/Dar. Cross-links: Congo
+  rumba/soukous (Central survey) seeding the guitar & bands; Cuban son (Latin survey) into dansi.
+  Region-integrity flags: Jean Bosco Mwenda (Congolese/Katanga). No internal dups (fresh region).
+  Next: SSA-East #2 — the golden dance-band age & the rise of benga (~1965-1980: Kenyan benga —
+  D.O. Misiani & Shirati Jazz, the Luo guitar; Swahili rumba; Tanzania's ujamaa-era bands; Nairobi as
+  a pan-African recording hub for Congolese exiles).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
