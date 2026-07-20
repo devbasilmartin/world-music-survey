@@ -55,6 +55,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Latin America** — complete. 371 tracks, 7 installments + master. (Indigenous/colonial -> reggaeton)
 - **Sub-Saharan Africa: West** — complete. 256 tracks, 7 installments + master. (griot/kora -> Afrobeats)
 - **Sub-Saharan Africa: Southern** — complete. 249 tracks, 7 installments + master. (San/mbira -> amapiano)
+- **Sub-Saharan Africa: Central** — complete. 268 tracks, 7 installments + master. (maringa/Cuban rumba -> ndombolo/kuduro/global Afropop)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -125,8 +126,8 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS | 6 | 219 | #1-6 rumba roots→…→Angola/Cameroon & wider Central; next #7 modern & global Congo/Central Afropop (final + region master) |
-| Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
+| Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
+| Sub-Saharan Africa: East | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #2d. Next #1: East African roots (Swahili taarab, Congolese-seeded benga/Kenyan guitar, Tanzanian dansi) |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
@@ -493,6 +494,25 @@ recordings):
   Jupiter Bokondji; the Central diaspora & Afropop crossovers) — then build the SSA-Central region
   master (MASTER_GUIDE_ssa_central_survey.md + deduped MASTER_SSA_CENTRAL_FULL_SURVEY_IMPORT.txt) and
   flip the region COMPLETE; next active region = Sub-Saharan Africa: East.
+- 2026-07-20 — **Sub-Saharan Africa: Central #7 (FINALE)** "Modern & Global Central African Pop (c.
+  2000-present)" built: `ssa_central_music_7_MODERN_GLOBAL_AFROPOP.md` + `_IMPORT.txt` (49 tracks, 8
+  sections; 11 named). The digital-era Congolese giants (Fally Ipupa's Droit Chemin/Eloko Oyo, Ferre
+  Gola's Sens Interdit) + the old guard & UNESCO's 2021 rumba heritage listing + congotronics (Konono
+  Nº1's Lufuala Ndonga, Kasai Allstars) + the Kinshasa street underground (Staff Benda Bilili's Polio,
+  Jupiter Bokondji, Mbongwana Star, Baloji) + Angolan kuduro (Cabo Snoop's Windeck, Buraka Som
+  Sistema's Sound of Kuduro, Titica, Tony Amado) + Cameroon now (Stanley Enow's Hein Père, Charlotte
+  Dipanda, mbolé) + the Central diaspora in French pop (Maître Gims' Sapés comme jamais/Bella, Dadju,
+  Damso, Innoss'B's Yope) + the seven-installment through-line. Cross-links: rumba→soukous→ndombolo→
+  global Afropop; kuduro→European club; diaspora→French pop; Cuban son loop (Latin). Region-integrity
+  flags kept in prose for Franco-Belgian/Portugal diaspora (Gims, Dadju, Damso, Buraka). Content notes:
+  disability/poverty (Benda Bilili), DR Congo instability. No dups vs #1-6 (TITLE-only norm).
+  **REGION MASTER built:** `MASTER_GUIDE_ssa_central_survey.md` (narrative overview of #1-7) +
+  `MASTER_SSA_CENTRAL_FULL_SURVEY_IMPORT.txt` (concatenated #1-7 in order, first-occurrence dedup by
+  TITLE-only norm — raw 268 → deduped 268, **zero cross-installment dups region-wide**). Region
+  **Sub-Saharan Africa: Central flipped COMPLETE** (7 installments, 268 tracks). Next active region =
+  **Sub-Saharan Africa: East** (Tier 1 #2d). Next: SSA-East #1 — East African roots (Swahili taarab of
+  Zanzibar/Mombasa; the Congolese-seeded Kenyan benga & guitar pop; Tanzanian dansi/muziki wa dansi;
+  early Kenyan/Tanzanian recording scenes).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
