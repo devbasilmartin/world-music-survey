@@ -127,7 +127,7 @@ recordings):
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
-| Sub-Saharan Africa: East | IN PROGRESS | 2 | 91 | ACTIVE. #1-2 roots→benga/dance-band golden age; next #3 the cassette era & Swahili pop (~1980-1995) |
+| Sub-Saharan Africa: East | IN PROGRESS | 3 | 134 | ACTIVE. #1-3 roots→benga→cassette era/Swahili pop; next #4 the modern era — bongo flava, genge & Kenyan hip-hop (~1995-2010) |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
@@ -543,6 +543,20 @@ recordings):
   Next: SSA-East #3 — the cassette era & modern Swahili pop (~1980-1995: the cassette boom; Zanzibar
   taarab's modernization & "rusha roho"; Kenyan benga into the 80s; Tanzanian dansi's late golden age;
   the decline of the big bands and the rise of studio pop).
+- 2026-07-20 — **Sub-Saharan Africa: East #3** "The Cassette Era & Modern Swahili Pop (c. 1980-1995)"
+  built: `ssa_east_music_3_CASSETTE_ERA_SWAHILI_POP.md` + `_IMPORT.txt` (43 tracks, 8 sections; 5
+  named). The cassette revolution (democratization + piracy) + Zanzibar taarab modernizes — rusha roho,
+  kidumbak, mipasho, Culture Musical Club, Bi Kidude's "Muhogo wa Jang'ombe" + Mombasa coastal taarab
+  (Zein l'Abidin, chakacha) + Kenyan benga into the 80s (Kakai Kilonzo/Kamba benga, Kalambya) + Them
+  Mushrooms' "Jambo Bwana"/Hakuna Matata & the tourist-Swahili sound + Tanzania's late dance-band peak
+  (DDC Mlimani Park's "Sikinde" vs Safari Sound; Samba Mapangala's "Malako Disco") + Remmy Ongala &
+  the conscience of dansi ("Mambo Kwa Soksi", the AIDS/condom song; WOMAD/Real World) + liberalization,
+  decline & the seeds of bongo flava. Cross-links: taarab's Arab/Indian roots (#1); toward hip-hop.
+  Content notes: the AIDS epidemic; tourist packaging of African music. Region-integrity flags: Remmy
+  Ongala & Samba Mapangala (Congolese-born pillars of the East African scene). No dups vs #1-2.
+  Next: SSA-East #4 — the modern era: bongo flava, genge & Kenyan hip-hop (~1995-2010: Tanzanian bongo
+  flava — Professor Jay, Mr Nice, Lady Jaydee, TID; Kenyan genge & hip-hop — Kalamashaka, Nonini,
+  Jua Cali, E-Sir; gospel & Ohangla's revival; the Swahili rap explosion).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
