@@ -123,7 +123,7 @@ recordings):
 | Europe | COMPLETE | 9 + master | 403 | chant -> EDM |
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Southern | IN PROGRESS | 5 | 172 | #1-5 deep-trad→…→mbira/chimurenga/liberation; next #6 Graceland/bubblegum/kwaito (~85-2000) |
+| Sub-Saharan Africa: Southern | IN PROGRESS | 6 | 206 | #1-6 deep-trad→…→Graceland/bubblegum/kwaito; next #7 amapiano/global present (FINAL + region master) |
 | Sub-Saharan Africa: Central | not started | — | — | Tier 1 #2c |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
@@ -382,6 +382,21 @@ recordings):
   "Njuzu". No dups vs #1-4. Next: SSA-Southern #6 Graceland, bubblegum & the birth of kwaito
   (~1985-2000: Paul Simon's Graceland & its controversy, Brenda Fassie & bubblegum, Yvonne Chaka Chaka,
   Lucky Dube's reggae, post-1994 kwaito — Boom Shaka, Arthur Mafokate, TKZee, Mandoza).
+
+- 2026-07-20 — **Sub-Saharan Africa: Southern #6** "Graceland, Bubblegum & the Birth of Kwaito
+  (c. 1985-2000)" built: `ssa_south_music_6_GRACELAND_BUBBLEGUM_KWAITO.md` + `_IMPORT.txt` (34 tracks,
+  6 sections; 24 named). Graceland & the global spotlight (Ladysmith new titles, Stimela/Ray Phiri,
+  Boyoyo Boys, Bakithi Kumalo — Paul Simon treated as US cross-link, NOT listed) + bubblegum (Brenda
+  Fassie, Yvonne Chaka Chaka's "Umqombothi", Chicco) + Lucky Dube's reggae + the birth of kwaito
+  (Arthur Mafokate, Boom Shaka, Trompies) + kwaito goes big (TKZee's "Shibobo", Mandoza's "Nkalakatha",
+  Bongo Maffin, Mafikizolo) + the house roots & stage musicals (Sarafina!). Cross-links: Graceland → US
+  survey; kwaito's parent = Chicago/US house via UK; → West African Afrobeats. Content notes kept: the
+  boycott-breaking debate, the reclaimed-slur "Kaffir" (Mafokate 1995) preserved in context per the
+  survey's content-honesty principle, Brenda Fassie's 2004 death, Lucky Dube's 2007 murder. Region
+  integrity handled: only SA artists listed. No dups vs #1-5. Next: SSA-Southern #7 amapiano & the
+  global present (~2000-now) — THE REGION'S FINAL INSTALLMENT: also build the region master
+  (MASTER_GUIDE_ssa_south_survey.md + MASTER_SSA_SOUTH_FULL_SURVEY_IMPORT.txt) and flip SSA-Southern
+  COMPLETE; set next active region = Sub-Saharan Africa: Central.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
