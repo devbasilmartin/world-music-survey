@@ -129,7 +129,7 @@ recordings):
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
-| Sub-Saharan Africa: Sahel | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #2e. Next #1: desert-blues/Sahelian roots (Mali/Niger Tuareg, griot traditions, Sahel guitar) |
+| Sub-Saharan Africa: Sahel | IN PROGRESS | 1 | 44 | ACTIVE. #1 desert/savanna roots (Moorish/Tuareg/Songhai/Hausa/Fulani, the lutes); next #2 the modern Malian foundation & desert blues' birth (~1960-1990) |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
@@ -589,6 +589,20 @@ recordings):
   **Sub-Saharan Africa: Sahel** (Tier 1 #2e). Next: SSA-Sahel #1 — Sahelian/desert roots (the griot
   heartland's edge; Malian & Nigerien Tuareg traditions; the Sahel guitar & the roots of desert blues;
   Songhai/Fulani/Hausa music; the pentatonic north).
+- 2026-07-20 — **Sub-Saharan Africa: Sahel #1** "Desert & Savanna Roots (c. pre-1970)" built:
+  `ssa_sahel_music_1_DESERT_SAVANNA_ROOTS.md` + `_IMPORT.txt` (44 tracks, 8 sections; 0 named — a
+  deep-roots installment, all traditions/instruments/seeds). NEW region, stem `ssa_sahel_music_` (dedup
+  scope resets). The Sahel as desert-meets-savanna crossroads (Islam, pentatonic north) + Moorish
+  azawan of Mauritania (tidinit, ardin, iggawin, Dimi Mint Abba seed) + Tuareg music (imzad, tende,
+  assouf — the pre-guitar taproot of desert blues) + Songhai & the Niger bend (takamba, holey) + Fulani/
+  Peul herders' music (flute, Wodaabe gerewol) + Hausa court music (kakaki, goje, rok'o) + the Sahelian
+  lutes & the roots of the blues (ngoni/tehardent/xalam; ngoni→banjo, Mali-to-Mississippi) + Islam, the
+  griot & roads ahead. Cross-links: US blues (American survey); MENA's Arab-Berber north; Mande griot
+  (West Africa survey, separate/COMPLETE). Scope: desert-edge Mali/Niger/Mauritania/Chad/N-Nigeria,
+  avoiding the coastal Mande material already in the West survey. No internal dups (fresh region).
+  Next: SSA-Sahel #2 — the modern Malian foundation & the birth of desert blues (~1960-1990: Mali's
+  independence-era Radio Mali orchestras & the Rail Band/Salif Keita's rise; Ali Farka Touré's river
+  blues; Boubacar Traoré; the Super Biton/regional orchestras; the electrification of the Sahel).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
