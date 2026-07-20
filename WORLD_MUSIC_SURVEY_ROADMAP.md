@@ -131,7 +131,7 @@ recordings):
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
-| India / South Asia | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #3. Next #1: Hindustani & Carnatic classical roots — raga & tala, the Vedic/temple deep roots, the classical instruments |
+| India / South Asia | IN PROGRESS | 1 | 48 | ACTIVE. #1 classical roots (raga/tala, the two systems, instruments); next #2 the classical masters — Hindustani gharanas & the Carnatic tradition in depth (~1900-present) |
 | East Asia: China | not started | — | — | Tier 1 #4a |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
@@ -652,6 +652,24 @@ recordings):
   roots (Hindustani & Carnatic): raga & tala, the Vedic/temple/bhakti deep roots, and the classical
   instruments (sitar, sarod, veena, tabla, mridangam) — read the roadmap's India plan to confirm the
   installment breakdown (classical → film/Bollywood → folk/regional → devotional → modern/indie/global).
+- 2026-07-20 — **India / South Asia #1** "The Classical Roots — Raga, Tala & the Two Great Systems"
+  built: `south_asia_music_1_CLASSICAL_ROOTS_RAGA_TALA.md` + `_IMPORT.txt` (48 tracks, 8 sections; 2
+  named — a foundations installment, mostly theory/instruments/forms as listening seeds). NEW
+  super-region, stem `south_asia_music_` (dedup scope resets). Vedic/ancient roots (Samaveda, Nada
+  Brahma, Natya Shastra, rasa) + raga (the melodic framework, swaras, tanpura drone, time-of-day, alap,
+  shruti) + tala (the cyclic rhythm, teental, sam, layakari, tihai) + the guru-shishya parampara &
+  gharanas + the Hindustani/Carnatic split (Amir Khusrau; Persian influence vs temple continuity) + the
+  Hindustani instruments (sitar, sarod, sarangi, bansuri, tabla; dhrupad & khyal) + the Carnatic
+  instruments & forms (veena, mridangam, the kriti; the Trinity — named works "Endaro Mahanubhavulu"/
+  Tyagaraja & "Vatapi Ganapatim"/Muthuswami Dikshitar; melakarta) + the devotional heart (bhakti,
+  temple, Purandara Dasa). Cross-links: Persian/Arab maqam & Sufi (MENA); the raga goes global (jazz/
+  Beatles, forward). No internal dups (fresh region). Planned India arc: #1 classical roots → #2 the
+  classical masters (Hindustani gharanas & Carnatic in depth) → #3 folk & regional → #4 devotional
+  (bhajan/qawwali/Sufi) → #5 film/Bollywood golden age → #6 modern filmi & Indipop → #7 modern/indie/
+  global + wider South Asia (Pakistan/Bangladesh/Sri Lanka/Nepal) & diaspora. Next: India/South Asia #2
+  — the classical masters (~1900-present): the Hindustani gharanas & giants (Ravi Shankar, Ali Akbar
+  Khan, Bismillah Khan, Bhimsen Joshi, Kishori Amonkar, Zakir Hussain) and the modern Carnatic greats
+  (M.S. Subbulakshmi, etc.); the concert age, AIR/recordings, and the raga's global reach.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
