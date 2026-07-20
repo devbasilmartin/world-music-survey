@@ -125,7 +125,7 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS | 3 | 99 | #1-3 rumba roots→golden age→soukous/2nd gen; next #4 Zaiko generation & rumba rock (Papa Wemba, ~1970-80) |
+| Sub-Saharan Africa: Central | IN PROGRESS | 4 | 135 | #1-4 rumba roots→…→Zaiko/rumba rock; next #5 soukous goes global & ndombolo (~1980-2000) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -452,6 +452,18 @@ recordings):
   machinery. No dups vs #1-2. Next: SSA-Central #4 the Zaiko generation & rumba rock (~1970-1980: Zaiko
   Langa Langa, Papa Wemba, the youth revolt against horn-section rumba, the stripped guitar-and-drums
   sound, the fast sebene/atalaku shouter, Viva La Musica).
+
+- 2026-07-20 — **Sub-Saharan Africa: Central #4** "The Zaiko Generation & Rumba Rock (c. 1970-1980)"
+  built: `ssa_central_music_4_ZAIKO_RUMBA_ROCK.md` + `_IMPORT.txt` (36 tracks, 7 sections; 6 named).
+  Zaiko Langa Langa & the youth revolt (rumba rock, no horns) + Papa Wemba & Viva La Musica + the
+  atalaku & the cavacha + the Zaiko offshoots & clan wars (Langa Langa Stars, Choc Stars, Bozi
+  Boziana) + rumba rock/funk & Zaire 74 (the Rumble-in-the-Jungle festival — James Brown, Celia Cruz,
+  Fania All Stars in Kinshasa) + the old guard in the 70s (Franco/TP OK Jazz, Tabu Ley/Afrisa, Mbilia
+  Bel emerges) + La Sape. Cross-links: the atalaku ↔ hip-hop hype-man; Zaire 74 ↔ US & Latin surveys
+  live in Kinshasa. Content notes kept: Mobutu's dictatorship & economic collapse. No dups vs #1-3.
+  Next: SSA-Central #5 soukous goes global & the birth of ndombolo (~1980-2000: the Paris soukous
+  scene, Kanda Bongo Man & Diblo Dibala's kwassa kwassa, Loketo, then Koffi Olomide, Wenge Musica,
+  Awilo Longomba's ndombolo, JB Mpiana & Werrason).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
