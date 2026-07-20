@@ -135,7 +135,7 @@ recordings):
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
-| East Asia: Japan | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #4b. Next #1: Japanese classical & traditional roots — gagaku, shomyo, the koto/shakuhachi/shamisen, noh & kabuki, folk (min'yo) |
+| East Asia: Japan | IN PROGRESS | 1 | 45 | ACTIVE. #1 classical/traditional roots (gagaku, koto/shakuhachi/shamisen, noh/kabuki, min'yo); next #2 the modern turn — Meiji Westernization, ryukoka & enka (~1868-1945) |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
@@ -843,6 +843,20 @@ recordings):
   added to DONE. Next active region = **East Asia: Japan** (Tier 1 #4b). Next: East Asia: Japan #1 —
   Japanese classical & traditional roots (gagaku court music; shomyo Buddhist chant; the koto, shakuhachi
   & shamisen; noh & kabuki theater music; min'yo folk song; the deep pre-modern tradition).
+- 2026-07-20 — **East Asia: Japan #1** "Classical & Traditional Roots (the deep tradition)" built:
+  `japan_music_1_CLASSICAL_TRADITIONAL_ROOTS.md` + `_IMPORT.txt` (45 tracks, 9 sections; 2 named — deep-
+  roots, mostly forms/instruments/pieces as seeds). NEW sub-region, stem `japan_music_` (dedup resets).
+  Gagaku (the ancient court orchestra, "Etenraku", sho/hichiriki/ryuteki, bugaku) + shomyo & sacred
+  sound (Buddhist chant, kagura, matsuri) + the koto/so tradition (Yatsuhashi Kengyo's "Rokudan no
+  Shirabe", Michio Miyagi's "Haru no Umi") + the shakuhachi (honkyoku/suizen, komuso monks, ma) + the
+  shamisen & its worlds (Tsugaru-jamisen, nagauta, jiuta; Okinawan/Chinese roots) + the biwa & the Tale
+  of the Heike (heikyoku, biwa hoshi) + noh/kabuki/bunraku theater music (Zeami & yugen, gidayu) +
+  min'yo folk (Sakura Sakura, Soran Bushi, Kokiriko Bushi, Okinawan sanshin) + the Japanese aesthetic
+  (ma, wabi-sabi, yugen, in/yo scales, taiko). Cross-links: the pentatonic/silk-string East Asian world
+  (China/Korea); the shamisen's Okinawan/Chinese origins; Japanese aesthetics → global ambient/minimalism.
+  ASCII/romaji; no internal dups (fresh sub-region). Next: East Asia: Japan #2 — the modern turn (~1868-
+  1945): Meiji Westernization & the shoka school songs; the first Western-style composer Rentaro Taki
+  ("Kojo no Tsuki"); ryukoka (early Showa popular song); the birth of enka; wartime song; toward postwar.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
