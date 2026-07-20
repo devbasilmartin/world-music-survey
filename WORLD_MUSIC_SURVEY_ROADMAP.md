@@ -125,7 +125,7 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS | 2 | 64 | #1-2 rumba roots→golden age (Kalle/Franco, Independence Cha Cha); next #3 soukous & 2nd gen (Tabu Ley, Dr Nico, ~1965-75) |
+| Sub-Saharan Africa: Central | IN PROGRESS | 3 | 99 | #1-3 rumba roots→golden age→soukous/2nd gen; next #4 Zaiko generation & rumba rock (Papa Wemba, ~1970-80) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -441,6 +441,17 @@ recordings):
   Congo Crisis, Lumumba's 1961 assassination. No dups vs #1. Next: SSA-Central #3 soukous & the second
   generation (~1965-1975: Tabu Ley Rochereau & African Fiesta, Dr Nico Kasanda's guitar, the split from
   Kabasele, Franco's OK Jazz maturing, the birth of soukous/the fast sebene, Mbilia Bel).
+
+- 2026-07-20 — **Sub-Saharan Africa: Central #3** "Soukous & the Second Generation (c. 1965-1975)"
+  built: `ssa_central_music_3_SOUKOUS_SECOND_GENERATION.md` + `_IMPORT.txt` (35 tracks, 7 sections; 10
+  named). Tabu Ley Rochereau & African Fiesta (the Olympia 1970) + Dr Nico & African Fiesta Sukisa (the
+  God of the Guitar) + Franco's OK Jazz maturing into TP OK Jazz + the birth of soukous & the fast
+  sebene + Sam Mangwana & the pan-African voice + Mobutu's authenticité/Zairianization (1971) + soukous
+  spreads to East Africa. Cross-links: soukous → Nairobi/Dar es Salaam & the East Africa survey; Congo
+  guitar → the whole continent. Content notes kept: Mobutu's dictatorship & cultural-nationalist
+  machinery. No dups vs #1-2. Next: SSA-Central #4 the Zaiko generation & rumba rock (~1970-1980: Zaiko
+  Langa Langa, Papa Wemba, the youth revolt against horn-section rumba, the stripped guitar-and-drums
+  sound, the fast sebene/atalaku shouter, Viva La Musica).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
