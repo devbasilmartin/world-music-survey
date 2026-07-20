@@ -125,7 +125,7 @@ recordings):
 | Latin America | COMPLETE | 7 + master | 371 | Colonial→streaming era; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
-| Sub-Saharan Africa: Central | IN PROGRESS | 5 | 173 | #1-5 rumba roots→…→soukous goes global & ndombolo; next #6 Angola/Cameroon & wider Central (~1970-2000) |
+| Sub-Saharan Africa: Central | IN PROGRESS | 6 | 219 | #1-6 rumba roots→…→Angola/Cameroon & wider Central; next #7 modern & global Congo/Central Afropop (final + region master) |
 | Sub-Saharan Africa: East | not started | — | — | Tier 1 #2d |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
@@ -477,6 +477,22 @@ recordings):
   Next: SSA-Central #6 Angola, Cameroon & the wider Central Africa (~1970-2000: Angolan semba & Bonga,
   the birth of kizomba; Cameroon's makossa — Manu Dibango's "Soul Makossa", Sam Fan Thomas' makassi,
   Petit Pays; bikutsi — Les Têtes Brûlées; Gabon/CAR).
+- 2026-07-20 — **Sub-Saharan Africa: Central #6** "Angola, Cameroon & the Wider Central Africa (c.
+  1955-2000)" built: `ssa_central_music_6_ANGOLA_CAMEROON_MAKOSSA_BIKUTSI.md` + `_IMPORT.txt` (46
+  tracks, 7 sections; 9 named). Steps OUT of the Congo rumba thread to the region's other cultures:
+  Angolan semba & the Luanda roots (Ngola Ritmos/Liceu Vieira Dias; semba↔samba cross-link) + Bonga &
+  the voice of exile (Mona Ki Ngi Xica, Balumukeno, Muadiakime; Angola 72) + independence/civil war &
+  the birth of kizomba (Waldemar Bastos' Velha Chica; zouk→kizomba) + Cameroon's makossa & Manu
+  Dibango (Soul Makossa) + the makossa golden age (Sam Fan Thomas' African Typic Collection, Moni
+  Bile's Bijou, Petit Pays, the Deccas) + bikutsi/the Beti (Anne-Marie Nzie, Messi Martin, Les Tetes
+  Brulees, K-Tino) + Gabon & cross-currents (Akendengue's Africa Obota, Oliver N'Goma's Bane).
+  Cross-links: semba↔Brazilian samba (Latin), zouk→kizomba (Caribbean), Soul Makossa→global funk.
+  Content notes kept: Portuguese colonial war & Angola's civil war. No dups vs #1-5 (TITLE-only norm).
+  Next: SSA-Central #7 (FINAL) modern & global Central African pop (~2000-present: the digital-era
+  Congolese giants — Fally Ipupa, Ferre Gola, Koffi's heirs; congotronics/Konono Nº1 & Kasai Allstars;
+  Jupiter Bokondji; the Central diaspora & Afropop crossovers) — then build the SSA-Central region
+  master (MASTER_GUIDE_ssa_central_survey.md + deduped MASTER_SSA_CENTRAL_FULL_SURVEY_IMPORT.txt) and
+  flip the region COMPLETE; next active region = Sub-Saharan Africa: East.
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
