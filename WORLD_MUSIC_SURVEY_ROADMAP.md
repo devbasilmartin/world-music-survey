@@ -133,7 +133,7 @@ recordings):
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
-| East Asia: China | IN PROGRESS | 3 | 131 | ACTIVE. #1-3 classical/folk→opera/Republic→shidaiqu/Mao era; next #4 Cantopop & Mandopop (HK/Taiwan: Teresa Teng, the golden age, ~1970-2000) |
+| East Asia: China | IN PROGRESS | 4 | 171 | ACTIVE. #1-4 classical/folk→opera→shidaiqu/Mao→Cantopop/Mandopop; next #5 (FINAL) mainland rock→C-pop/hip-hop/streaming today (Cui Jian→now, ~1986-present) — then China master |
 | East Asia: Japan | not started | — | — | Tier 1 #4b |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
@@ -811,6 +811,21 @@ recordings):
   Teresa Teng (the voice that "conquered" the mainland); the Cantopop golden age (Sam Hui, the Four
   Heavenly Kings — Jacky Cheung, Andy Lau, Leon Lai, Aaron Kwok; Anita Mui, Leslie Cheung); Taiwan
   Mandopop; the karaoke era.
+- 2026-07-20 — **East Asia: China #4** "Cantopop & Mandopop — the Gangtai Golden Age (c. 1970-2000)"
+  built: `china_music_4_CANTOPOP_MANDOPOP.md` + `_IMPORT.txt` (40 tracks, 8 sections; 8 named). Teresa
+  Teng (Taiwan; "The Moon Represents My Heart", "Tian Mi Mi"; the smuggled cassettes & "two Dengs") +
+  the birth of Cantopop (Sam Hui, Roman Tam, the TVB theme) + the 1980s Cantopop golden age (Leslie
+  Cheung's "Monica", Anita Mui, Alan Tam) + the Four Heavenly Kings (Jacky Cheung's "Wen Bie", Andy Lau,
+  Leon Lai, Aaron Kwok) + Beyond & HK rock ("Hai Kuo Tian Kong", Wong Ka Kui d.1993) + Taiwan campus
+  folk & singer-songwriters (Lo Ta-yu's "Tong Nian", Chyi Yu's "Ganlanshu", Jonathan Lee) + the Mandopop
+  divas & Faye Wong ("Hong Dou"; A-Mei) + the karaoke/gangtai pan-Chinese market. HK/Taiwan flagged.
+  Cross-links: shidaiqu (#3); the mainland scene & rock (#5); Japanese idol/enka (Japan survey). Content
+  note: Teng, Leslie Cheung, Anita Mui, and Wong Ka Kui all died young. ASCII/pinyin; no dups vs #1-3.
+  Next: East Asia: China #5 (FINAL) — the mainland finds its voice & today (~1986-present): Cui Jian &
+  the birth of Chinese rock ("Nothing to My Name"); the 90s rock/underground (Dou Wei, He Yong, Tang
+  Dynasty); the modern C-pop era (Jay Chou's Mandopop revolution, Faye Wong's mainland reign); folk-
+  revival & indie; hip-hop & the "Rap of China"; and the streaming/short-video age — then build the
+  East Asia: China region master and flip the sub-region COMPLETE (next: East Asia: Japan).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
