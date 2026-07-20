@@ -59,6 +59,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Sub-Saharan Africa: East** — complete. 229 tracks, 5 installments + master. (taarab/nyatiti -> benga/dansi -> bongo flava/singeli/gengetone)
 - **Sub-Saharan Africa: Sahel** — complete. 175 tracks, 4 installments + master. (Moorish/Tuareg/Songhai roots -> desert blues -> Tinariwen/wassoulou -> crisis & today) ★ **ALL SUB-SAHARAN AFRICA COMPLETE** (West+Southern+Central+East+Sahel = 5 sub-surveys, 1177 tracks)
 - **India / South Asia** — complete. 318 tracks, 7 installments + master. (raga/Samaveda -> classical masters -> folk -> devotional/qawwali -> Bollywood golden age -> modern filmi/Indipop -> global & wider South Asia)
+- **East Asia: China** — complete. 212 tracks, 5 installments + master. (guqin/pentatonic/opera -> shidaiqu -> Mao-era/model works -> Cantopop/Mandopop/Teresa Teng -> Cui Jian/Jay Chou/C-pop today)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -133,8 +134,8 @@ recordings):
 | Sub-Saharan Africa: East | COMPLETE | 5 | 229 | #1-5 taarab/nyatiti→benga→cassette→bongo flava/genge→streaming/global; master: MASTER_GUIDE_ssa_east_survey.md (229 tracks, 0 dups) |
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
-| East Asia: China | IN PROGRESS | 4 | 171 | ACTIVE. #1-4 classical/folk→opera→shidaiqu/Mao→Cantopop/Mandopop; next #5 (FINAL) mainland rock→C-pop/hip-hop/streaming today (Cui Jian→now, ~1986-present) — then China master |
-| East Asia: Japan | not started | — | — | Tier 1 #4b |
+| East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
+| East Asia: Japan | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #4b. Next #1: Japanese classical & traditional roots — gagaku, shomyo, the koto/shakuhachi/shamisen, noh & kabuki, folk (min'yo) |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
@@ -826,6 +827,22 @@ recordings):
   Dynasty); the modern C-pop era (Jay Chou's Mandopop revolution, Faye Wong's mainland reign); folk-
   revival & indie; hip-hop & the "Rap of China"; and the streaming/short-video age — then build the
   East Asia: China region master and flip the sub-region COMPLETE (next: East Asia: Japan).
+- 2026-07-20 — **East Asia: China #5 (FINALE)** "The Mainland Finds Its Voice & Today (c. 1986-
+  present)" built: `china_music_5_MAINLAND_ROCK_CPOP_TODAY.md` + `_IMPORT.txt` (41 tracks, 8 sections; 7
+  named). Cui Jian & the birth of Chinese rock ("Yi Wu Suo You"/Nothing to My Name) + the 90s Beijing
+  underground (Tang Dynasty's "Meng Hui Tang Chao", Zheng Jun's "Hui Dao Lasa", Dou Wei, He Yong, Magic
+  Stone) + Jay Chou's Mandopop revolution ("Qing Hua Ci"/Blue and White Porcelain, "Dong Feng Po",
+  zhongguofeng) + the 2000s C-pop constellation (Jolin Tsai, Wang Leehom, Stefanie Sun/JJ Lin, Mayday) +
+  the folk/indie revival (Zhao Lei's "Chengdu", Li Zhi, Second Hand Rose) + Chinese hip-hop & The Rap of
+  China (Higher Brothers' "Made in China", GAI) + the Douyin streaming/short-video age + the through-
+  line. Cross-links: gangtai pop (#4); Western rock/R&B/hip-hop; Japan/Korea. Content notes: the 1989
+  context, censorship, and banned artists kept factual & brief. ASCII/pinyin; no dups vs #1-4.
+  **REGION MASTER built:** `MASTER_GUIDE_china_survey.md` (#1-5 overview) + `MASTER_CHINA_FULL_SURVEY_
+  IMPORT.txt` (concatenated #1-5, TITLE-only first-occurrence dedup — raw 212 → deduped 212, **zero
+  cross-installment dups**). Sub-region **East Asia: China COMPLETE** (5 installments, 212 tracks) &
+  added to DONE. Next active region = **East Asia: Japan** (Tier 1 #4b). Next: East Asia: Japan #1 —
+  Japanese classical & traditional roots (gagaku court music; shomyo Buddhist chant; the koto, shakuhachi
+  & shamisen; noh & kabuki theater music; min'yo folk song; the deep pre-modern tradition).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
