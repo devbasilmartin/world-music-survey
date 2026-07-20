@@ -127,7 +127,7 @@ recordings):
 | Sub-Saharan Africa: West | COMPLETE | 7 + master | 256 | griot/kora→Afrobeats; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Southern | COMPLETE | 7 + master | 249 | San/mbira→amapiano; master built, deduped, zero cross-installment dups |
 | Sub-Saharan Africa: Central | COMPLETE | 7 | 268 | #1-7 rumba roots→golden age→soukous→Zaiko→ndombolo→Angola/Cameroon→modern global; master: MASTER_GUIDE_ssa_central_survey.md (268 tracks, 0 dups) |
-| Sub-Saharan Africa: East | IN PROGRESS | 3 | 134 | ACTIVE. #1-3 roots→benga→cassette era/Swahili pop; next #4 the modern era — bongo flava, genge & Kenyan hip-hop (~1995-2010) |
+| Sub-Saharan Africa: East | IN PROGRESS | 4 | 181 | ACTIVE. #1-4 roots→benga→cassette→bongo flava/genge/hip-hop; next #5 the streaming era & global crossover (~2010-present) |
 | Sub-Saharan Africa: Sahel | not started | — | — | Tier 1 #2e |
 | India / South Asia | not started | — | — | Tier 1 #3 |
 | East Asia: China | not started | — | — | Tier 1 #4a |
@@ -557,6 +557,21 @@ recordings):
   Next: SSA-East #4 — the modern era: bongo flava, genge & Kenyan hip-hop (~1995-2010: Tanzanian bongo
   flava — Professor Jay, Mr Nice, Lady Jaydee, TID; Kenyan genge & hip-hop — Kalamashaka, Nonini,
   Jua Cali, E-Sir; gospel & Ohangla's revival; the Swahili rap explosion).
+- 2026-07-20 — **Sub-Saharan Africa: East #4** "The Modern Era — Bongo Flava, Genge & Hip-Hop (c.
+  1995-2010)" built: `ssa_east_music_4_BONGO_FLAVA_GENGE_HIPHOP.md` + `_IMPORT.txt` (47 tracks, 8
+  sections; 11 named). Birth of bongo flava in Dar (Kwanza Unit, Mr II/Sugu) + bongo flava mainstream
+  (Professor Jay's "Ndio Mzee", Mr Nice's "Kunguru", TID, Juma Nature) + the R&B queens (Lady Jaydee's
+  "Wanaonizunguka", Ray C, Dully Sykes) + Kenyan conscious hip-hop from Dandora (Kalamashaka's "Tafsiri
+  Hii", Ukoo Flani, Sheng) + genge/kapuka (Nonini's "Manzi wa Nairobi", Jua Cali's "Kiasi", Ogopa DJs)
+  + E-Sir's "Boomba Train" (d. 2003) & Nameless's "Megarider" + "Unbwogable" (Gidi Gidi Maji Maji, the
+  2002 election anthem), Nazizi/ragga, gospel (Esther Wahome's "Kuna Dawa") + Uganda's Big Three (Jose
+  Chameleone's "Mama Mia", Bebe Cool, Bobi Wine; kadongo kamu). Cross-links: US hip-hop/R&B localized
+  into Sheng/Swahili; toward Afrobeats/singeli/amapiano. Content notes: E-Sir's death; Bobi Wine's
+  later persecution (flagged forward). Widens the region to Uganda. No dups vs #1-3.
+  Next: SSA-East #5 (likely FINAL) — the streaming era & global crossover (~2010-present: Diamond
+  Platnumz & WCB/Wasafi, the singeli explosion, Sauti Sol, Nyashinski, Sho Madjozi's cross-border hits,
+  amapiano/afrobeats crossover, gengetone; the East African diaspora) — then build the SSA-East region
+  master and flip the region COMPLETE (next region = Sub-Saharan Africa: Sahel).
 
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
