@@ -139,7 +139,7 @@ recordings):
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
-| MENA (Arab/Persian/Turkish) | IN PROGRESS | 1 | 44 | ACTIVE. #1 Arab classical/maqam roots (maqam/iqa'at, takht, oud/qanun/ney, muwashshah, tarab, Nahda); next #2 the Egyptian golden age & the great divas (Umm Kulthum, Abdel Halim, Fairuz) |
+| MENA (Arab/Persian/Turkish) | IN PROGRESS | 2 | 84 | ACTIVE. #1-2 Arab maqam roots→Egyptian golden age/divas; next #3 Persian (Iranian) classical & pop (dastgah, the golden-age divas, pre/post-revolution, LA diaspora) |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
@@ -1018,6 +1018,20 @@ recordings):
   Cairo record/radio/cinema era; Umm Kulthum (the voice of the Arab world; "Enta Omri", "Alf Leila wa
   Leila"); Mohammed Abdel Wahab; Abdel Halim Hafez; Farid al-Atrash & Asmahan; and Lebanon's Fairuz &
   the Rahbani Brothers.
+- 2026-07-20 — **MENA #2** "The Egyptian Golden Age & the Great Divas (c. 1920-1975)" built:
+  `mena_music_2_EGYPTIAN_GOLDEN_AGE_DIVAS.md` + `_IMPORT.txt` (40 tracks, 8 sections; 12 named). Cairo as
+  the Hollywood of the Arab world (radio 1934, film musicals) + Umm Kulthum (the Star of the East; "Enta
+  Omri", "Alf Leila wa Leila", "Al Atlal", "Amal Hayati"; the Thursday concerts; 1975 funeral) + her
+  composers (Riyad al-Sunbati, Zakaria Ahmed, Baligh Hamdi, Ahmad Rami) + Mohammed Abdel Wahab the
+  modernizer ("El Gondool"; the "meeting of the giants") + Abdel Halim Hafez the Dark Nightingale
+  ("Ahwak", "Zay El Hawa", "Qariat al-Fingan") + Farid al-Atrash & Asmahan ("Ya Zahra", "Ya Toyour") +
+  Lebanon's Fairuz & the Rahbani Brothers ("Li Beirut", "Nassam Alayna El Hawa", Baalbeck) + the firqa
+  orchestra & other divas (Warda, Sabah). Cross-links: the maqam/tarab roots (#1) scaled up; Nasserist
+  pan-Arabism; toward modern pop. Content notes: Nasser-era politics; Asmahan's & Abdel Halim's deaths.
+  ASCII/transliterated; no dups vs #1. Next: MENA #3 — Persian (Iranian) classical & pop: the dastgah
+  system & radif; the classical masters (Mohammad-Reza Shajarian, the tar/setar/santur/kamancheh); the
+  pre-revolution golden-age pop (Googoosh, Dariush, Ebi, Hayedeh); the 1979 revolution & the ban on
+  music/female solo voice (content note); and the Los Angeles ("Tehrangeles") diaspora pop.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
