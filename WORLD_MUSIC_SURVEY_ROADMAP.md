@@ -145,7 +145,7 @@ recordings):
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
-| Central Asia & Caucasus | ACTIVE | 0 | 0 | NEXT active region (Tier 3 #8). Planned: #1 Turkic/steppe & throat-singing roots (Tuvan/Mongolian khoomei, dombra, manaschi, morin khuur); #2 Persianate art music & the Silk Road (shashmaqam, Uyghur muqam, Azeri mugham/ashiq); #3 the Caucasus (Georgian polyphony, Armenian duduk/Komitas); #4 Soviet-era & modern pop/estrada & today + master |
+| Central Asia & Caucasus | IN PROGRESS | 1 | 41 | ACTIVE (Tier 3 #8). #1 Turkic/steppe & throat-singing roots (Tuvan/Mongolian khoomei, morin khuur, long song, Kazakh dombra/kui, Kyrgyz komuz & the Manas epic, the steppe bards); next #2 Persianate art music & the Silk Road (shashmaqam, Uyghur muqam, Azeri mugham/ashiq). Then #3 the Caucasus; #4 Soviet/modern finale + master |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
@@ -1217,6 +1217,18 @@ recordings):
   Region flipped COMPLETE and added to the DONE list. Next active region = **Central Asia & the Caucasus**
   (Tier 3 #8): #1 Turkic/steppe & throat-singing roots, #2 Persianate art music & the Silk Road, #3 the
   Caucasus, #4 Soviet-era & modern pop.
+- 2026-07-23 — **Central Asia & Caucasus #1** "The Turkic & Steppe Roots" built:
+  `casia_music_1_TURKIC_STEPPE_THROAT_SINGING.md` + `_IMPORT.txt` (41 tracks, 9 sections; ~5 named). NEW
+  super-region, stem `casia_music_` (dedup resets). Throat-singing/khoomei (the overtone marvel) + the
+  styles & Tuvan masters (sygyt/kargyraa, Huun-Huur-Tu "Orphan's Lament", Yat-Kha, Kongar-ool Ondar) +
+  the morin khuur horse-head fiddle ("Jonon Khar", the legend) + the Mongolian long song/urtiin duu & the
+  modern steppe (The HU "Wolf Totem", hunnu rock) + Kazakh dombra & the kui (Kurmangazy "Adai") + the
+  Kyrgyz komuz & the Manas epic (the manaschi reciters) + the bards of the steppe (akyn/aitys, jyrau,
+  bakhshi, the shaman's song) + the nomadic soundworld & the Soviet century (khomus jew's harp, steppe
+  flutes; content note on Soviet suppression & the post-1991 revival) + the steppe foundation.
+  Cross-links: the Persianate world (#2); Mongolia/China; the Turkic thread to Turkey (MENA). ASCII/
+  transliterated; gate PASSED (41/41 unique title-norms, fresh region). Next: Central Asia & Caucasus #2 —
+  Persianate art music & the Silk Road (Uzbek/Tajik shashmaqam, Uyghur muqam, Azeri mugham/ashiq).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
