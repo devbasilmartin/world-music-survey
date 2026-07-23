@@ -147,7 +147,7 @@ recordings):
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
-| Oceania / Pacific | IN PROGRESS | 2 | 85 | ACTIVE (Tier 3 #9). #1 Aboriginal Australia & Melanesia; #2 Polynesia (Maori haka/waiata/taonga puoro, Hawaiian mele/hula/slack-key/falsetto/ukulele/Iz, Samoa/Tonga/Tahiti drum-dance & the church hymnody); next #3 Micronesia & the island-pop/string-band/hymnody era. Then #4 modern Pacific pop finale + master |
+| Oceania / Pacific | IN PROGRESS | 3 | 125 | ACTIVE (Tier 3 #9). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era (stick-dance/chant, Chamorro, Marshalls & the nuclear-exile songs, the ukulele string band, pan-Pacific hymnody, island reggae/Jawaiian, the Hawaiian renaissance); next #4 modern Pacific & Aboriginal/Maori pop — FINALE + region master |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
 ---
@@ -1296,6 +1296,18 @@ recordings):
   (okina/macrons dropped); gate PASSED (43/43 unique title-norms, 0 cross-dups vs #1). Colonization & the
   Maori/Hawaiian language-and-music revival kept factual & respectful. Next: Oceania/Pacific #3 —
   Micronesia & the island-pop/string-band/hymnody era.
+- 2026-07-23 — **Oceania/Pacific #3** "Micronesia & the Island-Pop, String-Band & Hymnody Era" built:
+  `pacific_music_3_MICRONESIA_ISLAND_POP.md` + `_IMPORT.txt` (40 tracks, 9 sections; ~1 named — The Sunday
+  Manoa "Guava Jam"). Micronesian chant/stick-dance & navigation song + the island groups & the Chamorro
+  (Kiribati te kaimatoa, Guam/Marianas, the belembaotuyan) + the Marshall Islands & the songs of nuclear
+  exile (Bikini/Enewetak; content note, careful) + the ukulele & the string band (PNG/Solomons/Vanuatu, the
+  WWII spread) + the pan-Pacific hymnody that binds the ocean (himene close harmony) + island reggae is
+  born (Jawaiian, the 1970s embrace; cross-link Caribbean reggae) + the Hawaiian renaissance & the island
+  sound (The Sunday Manoa, the Brothers Cazimero) + the shared 'island music' + the island-pop foundation.
+  Cross-links: the deep roots (#1-2); Caribbean reggae; the modern present (#4). ASCII/transliterated; gate
+  PASSED (40/40 unique title-norms, 0 cross-dups vs #1-2). Nuclear-testing history & colonial/missionary
+  context kept factual & respectful. Next: Oceania/Pacific #4 — modern Pacific & Aboriginal/Maori pop (the
+  FINALE that builds the region master).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
