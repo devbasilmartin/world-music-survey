@@ -65,6 +65,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **MENA (Middle East & North Africa)** — complete. 259 tracks, 6 installments + master. (Arab maqam/tarab -> Egyptian golden age/Umm Kulthum -> Persian dastgah/Googoosh -> Turkish/arabesk/Anatolian rock -> Maghreb/rai/Gnawa -> pan-Arab pop/Mizrahi/today)
 - **Southeast Asia** — complete. 174 tracks, 4 installments + master. (gamelan/island classical -> mainland courts/piphat/pinpeat/ca tru/khaen -> crooner/film era: kroncong/luk thung/nhac vang/kundiman/P. Ramlee/Cambodian golden-age -> modern pop: dangdut/T-pop/V-pop/P-pop/hip-hop-indie)
 - **Caribbean** — complete. 172 tracks, 4 installments + master. (Afro-Cuban clave/son/rumba/mambo -> Jamaica: ska/rocksteady/reggae/dub/toasting -> calypso/soca/steelpan & the wider isles: Haiti/DR/PR/French Antilles -> dancehall/reggaeton/Rihanna & the global present)
+- **Central Asia & the Caucasus** — complete. 164 tracks, 4 installments + master. (steppe throat-singing/morin khuur/dombra/Manas -> Silk Road shashmaqam/Uyghur muqam/Azeri mugham -> Caucasus: Georgian polyphony/Armenian duduk-Komitas -> Soviet estrada & modern: Dimash/Q-pop/diaspora/folk-fusion)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -145,8 +146,8 @@ recordings):
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
-| Central Asia & Caucasus | IN PROGRESS | 3 | 125 | ACTIVE (Tier 3 #8). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus (Georgian polyphony/Chakrulo/Rustavi, Armenian duduk/Djivan Gasparyan/Komitas, Azeri balaban/folk, North Caucasus lezginka); next #4 Soviet-era & modern pop/estrada & today — FINALE + region master |
-| Oceania / Pacific | not started | — | — | Tier 3 #9 |
+| Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
+| Oceania / Pacific | ACTIVE | 0 | 0 | NEXT active region (Tier 3 #9). Planned: #1 Aboriginal Australia & the didgeridoo + Melanesia (songlines, yidaki, PNG); #2 Polynesia (Maori waiata/haka, Hawaiian mele/hula/slack-key, Samoa/Tonga/Tahiti); #3 Micronesia & the island-pop/string-band era (ukulele, himene hymnody, island reggae); #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Gurrumul, Pasifika) + master |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
 ---
@@ -1255,6 +1256,20 @@ recordings):
   transliterated; gate PASSED (43/43 unique title-norms, 0 cross-dups vs #1-2). Sensitive material (the
   Armenian Genocide, Caucasus conflict) kept strictly factual & with care. Next: Central Asia & Caucasus
   #4 — Soviet-era & modern pop/estrada & today (the FINALE that builds the region master).
+- 2026-07-23 — **Central Asia & Caucasus #4 (FINALE)** "The Soviet Century & the Modern Present" built:
+  `casia_music_4_SOVIET_MODERN_POP.md` + `_IMPORT.txt` (39 tracks, 9 sections; ~10 named). Soviet estrada
+  & the state folk ensemble (content note on Soviet cultural policy) + the VIA era (Yalla "Uchquduq") +
+  post-1991 awakening & rock + Dimash Kudaibergen (the Kazakh global voice, "SOS d'un terrien en detresse")
+  + Q-pop & the modern Central Asian wave (Ninety One "Aiyptama"; Yulduz Usmanova; content note on the
+  Q-pop backlash) + Azerbaijan/Eurovision & Caucasus pop (Ell & Nikki "Running Scared") + the diaspora
+  goes global (System of a Down "Chop Suey!", Katie Melua) + the folk-fusion reinvention (throat-singing/
+  mugham/duduk crossovers) + the region arc finale. Cross-links: the steppe (#1), Silk Road (#2), Caucasus
+  (#3); Russia/Europe; the Jewish diaspora. ASCII/transliterated; gate PASSED (39/39 unique title-norms, 0
+  cross-dups). **CENTRAL ASIA & CAUCASUS REGION COMPLETE** — built `MASTER_GUIDE_casia_survey.md` +
+  `MASTER_CASIA_FULL_SURVEY_IMPORT.txt` (164 deduped tracks from #1-4 in order, 0 cross-installment dups).
+  Region flipped COMPLETE and added to the DONE list. Next active region = **Oceania / the Pacific** (Tier
+  3 #9): #1 Aboriginal Australia & the didgeridoo + Melanesia, #2 Polynesia, #3 Micronesia & island-pop,
+  #4 modern Pacific pop.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
