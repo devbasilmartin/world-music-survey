@@ -60,6 +60,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Sub-Saharan Africa: Sahel** — complete. 175 tracks, 4 installments + master. (Moorish/Tuareg/Songhai roots -> desert blues -> Tinariwen/wassoulou -> crisis & today) ★ **ALL SUB-SAHARAN AFRICA COMPLETE** (West+Southern+Central+East+Sahel = 5 sub-surveys, 1177 tracks)
 - **India / South Asia** — complete. 318 tracks, 7 installments + master. (raga/Samaveda -> classical masters -> folk -> devotional/qawwali -> Bollywood golden age -> modern filmi/Indipop -> global & wider South Asia)
 - **East Asia: China** — complete. 212 tracks, 5 installments + master. (guqin/pentatonic/opera -> shidaiqu -> Mao-era/model works -> Cantopop/Mandopop/Teresa Teng -> Cui Jian/Jay Chou/C-pop today)
+- **East Asia: Japan** — complete. 209 tracks, 5 installments + master. (gagaku/koto/noh -> Meiji/ryukoka -> Hibari/enka/Group Sounds -> City Pop/YMO/idols -> J-pop/Utada/anime/Vocaloid/global)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -135,8 +136,8 @@ recordings):
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
-| East Asia: Japan | IN PROGRESS | 4 | 164 | ACTIVE. #1-4 classical→Meiji→postwar→New Music/City Pop/idols; next #5 (FINAL) modern/global — J-pop, anime, J-rock/Visual Kei, Vocaloid, streaming (~1995-present) — then Japan master |
-| East Asia: Korea | not started | — | — | Tier 1 #4c |
+| East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
+| East Asia: Korea | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #4c. Next #1: Korean classical & folk roots — court music (jeongak/aak), pansori, sanjo, the gayageum/geomungo, pungmul, shamanic & folk |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
@@ -901,6 +902,23 @@ recordings):
   game music (Joe Hisaishi/Ghibli, anisong, Kenshi Yonezu's "Lemon"); J-rock & Visual Kei (X Japan,
   L'Arc, Babymetal); Vocaloid/Hatsune Miku; AKB48 & the modern idol; and the streaming/global wave —
   then build the East Asia: Japan region master and flip the sub-region COMPLETE (next: East Asia: Korea).
+- 2026-07-20 — **East Asia: Japan #5 (FINALE)** "Modern & Global — J-pop, Anime, Vocaloid & the Wave
+  (c. 1995-present)" built: `japan_music_5_JPOP_ANIME_VOCALOID_GLOBAL.md` + `_IMPORT.txt` (45 tracks, 9
+  sections; 18 named). The 90s J-pop explosion & Komuro empire (globe's "Departures", Namie Amuro's "Can
+  You Celebrate?") + Hikaru Utada's R&B revolution ("Automatic", "First Love") + the 90s mega-bands (B'z'
+  "Ultra Soul", Mr. Children's "Tomorrow Never Knows", Spitz's "Robinson") + Studio Ghibli/Joe Hisaishi
+  ("One Summer's Day") + anisong & game music (Yoko Kanno's "Tank!", LiSA's "Gurenge", Koji Kondo, Nobuo
+  Uematsu) + J-rock & Visual Kei (X Japan's "Kurenai", Babymetal's "Gimme Chocolate!!") + Vocaloid &
+  Hatsune Miku (supercell's "Melt") + the modern idol era (AKB48's "Heavy Rotation", SMAP's "Sekai ni
+  Hitotsu Dake no Hana") + the global wave (Kenshi Yonezu's "Lemon", Yoasobi's "Idol", Ado's "New
+  Genesis"). Cross-links: Western R&B/rock/metal; anime & games as global soundtrack; the City Pop
+  revival. Content note: the 2023 Johnny's abuse reckoning, kept factual & brief. ASCII/romaji; no dups
+  vs #1-4. **REGION MASTER built:** `MASTER_GUIDE_japan_survey.md` (#1-5 overview) + `MASTER_JAPAN_FULL_
+  SURVEY_IMPORT.txt` (concatenated #1-5, TITLE-only first-occurrence dedup — raw 209 → deduped 209,
+  **zero cross-installment dups**). Sub-region **East Asia: Japan COMPLETE** (5 installments, 209 tracks)
+  & added to DONE. Next active region = **East Asia: Korea** (Tier 1 #4c). Next: East Asia: Korea #1 —
+  Korean classical & folk roots (court music jeongak/aak; pansori epic story-singing; sanjo; the
+  gayageum & geomungo; pungmul/samulnori percussion; shamanic gut & folk minyo).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
