@@ -149,7 +149,7 @@ recordings):
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
 | Oceania / Pacific | COMPLETE | 4 | 168 | DONE (master built). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era; #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Archie Roach, Gurrumul, OMC, Six60, island reggae). Master: 168 deduped tracks, 0 cross-dups |
-| Jewish diaspora | IN PROGRESS | 2 | 85 | ACTIVE (Tier 3 #10, cross-regional). #1 liturgical & ancient roots; #2 Ashkenazi & klezmer (Yiddish folk/labor song, Yiddish theater/Second Avenue, "Bei Mir Bistu Sheyn", klezmer & the clarinet, Brandwein/Tarras, the Hasidic nigun world, the klezmer revival/Klezmatics); next #3 Sephardi & Mizrahi. Then #4 modern Israeli & the diaspora in global pop — FINALE + master |
+| Jewish diaspora | IN PROGRESS | 3 | 127 | ACTIVE (Tier 3 #10, cross-regional). #1 liturgical roots; #2 Ashkenazi & klezmer; #3 Sephardi & Mizrahi (1492/Ladino romances & the keepers, Ottoman maftirim, Judeo-Andalusi/Maghreb, Bukharan/Persian Jews, Yemenite Diwan/Shabazi, Iraqi Jews/Al-Kuwaiti); next #4 modern Israeli & the diaspora in global pop — FINALE + master |
 
 ---
 
@@ -1349,6 +1349,20 @@ recordings):
   norm() strips parentheticals). Holocaust destruction of the Yiddish heartland kept factual & as memory;
   revival as rescue & continuity. Next: Jewish Diaspora #3 — Sephardi & Mizrahi (Ladino romances & 1492,
   Judeo-Arab/Andalusi, Bukharan/Persian/Yemenite/Iraqi).
+- 2026-07-23 — **Jewish Diaspora #3** "Sephardi & Mizrahi" built: `jewish_music_3_SEPHARDI_MIZRAHI.md` +
+  `_IMPORT.txt` (42 tracks, 9 sections; ~1 named — Flory Jagoda "Ocho Kandelikas"). 1492 & the Sephardi
+  dispersion (Salonika/Istanbul/the Balkans; content note) + Ladino/Judeo-Spanish song ("Adio Kerida",
+  "Los Bilbilikos", "Durme Durme", "La Rosa Enflorese") + the Ladino song keepers (Flory Jagoda "Ocho
+  Kandelikas", Yasmin Levy/Ladino-flamenco, "Cuando el Rey Nimrod") + the Ottoman-Sephardi maftirim
+  (Hebrew poetry in Ottoman makam, coplas) + the Maghreb Judeo-Andalusi tradition (baqashot, Zohra Al
+  Fassia) + the Bukharan & Persian Jews (shashmaqam/Levi Babakhanov, the Persianate art music; cross-link
+  Central Asia #2) + the Yemenite Jewish Diwan (Shalom Shabazi, "Se'i Yona"; the root of Ofra Haza/A-WA,
+  cross-link MENA #6) + the Iraqi Jews & the Baghdadi maqam (the Al-Kuwaiti brothers; content note on the
+  ~1950-51 exodus) + the Sephardi-Mizrahi world. Cross-links: MENA; Central Asia (shashmaqam); Spain/
+  flamenco; modern Israel (#4). ASCII/transliterated; gate PASSED (42/42 unique title-norms, 0 cross-dups
+  vs #1-2). The 1492 expulsion, the 20th-c. exodus from Arab/Muslim lands & the shared Judeo-Arab heritage
+  kept strictly factual, evenhanded & with care. Next: Jewish Diaspora #4 — modern Israeli & the diaspora
+  in global pop (the FINALE that builds the region master).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
