@@ -141,7 +141,7 @@ recordings):
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
-| Southeast Asia | IN PROGRESS | 0 | 0 | ACTIVE. Tier 2 #6. Next #1: island SE Asia — Indonesian gamelan (Java/Bali), the great classical/court traditions & the instruments |
+| Southeast Asia | IN PROGRESS | 1 | 42 | ACTIVE. #1 gamelan & island classical (Java/Bali, kecak, wayang, Sunda); next #2 mainland classical & folk (Thai piphat, Vietnamese, Khmer, Burmese, Lao) |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
@@ -1104,6 +1104,21 @@ recordings):
   (kroncong, luk thung/Thai, Vietnamese, Filipino kundiman/OPM) → #4 modern pop & the global present
   (dangdut & Indonesian pop, Thai/T-pop, V-pop, P-pop/Filipino, SE Asian hip-hop & indie) — compress to
   ~4 installments; adjust as history warrants.
+- 2026-07-20 — **Southeast Asia #1** "Gamelan & the Island Classical Traditions" built:
+  `sea_music_1_GAMELAN_ISLAND_CLASSICAL.md` + `_IMPORT.txt` (42 tracks, 9 sections; 0 named — deep-roots,
+  all forms/instruments/traditions as seeds). NEW super-region, stem `sea_music_` (dedup resets). Gamelan
+  the bronze orchestra + the Javanese court gamelan (Solo/Yogyakarta; sindhen/gerong; karawitan/gendhing;
+  "Ketawang Puspawarna" on Voyager) + slendro/pelog & the tuning (the shimmer/ombak) + colotomic
+  structure & cyclic time (gong ageng/kenong/kempul, balungan, irama) + the instruments (saron/gender,
+  bonang, kendang, rebab/suling/siter) + Balinese gong kebyar & kotekan (jegog, semar pegulingan) + the
+  kecak monkey chant & the voice (sanghyang, the Ramayana) + wayang kulit & the dalang + the Sundanese
+  world (kacapi suling, tembang Sunda, degung) + gamelan goes global (Debussy 1889, McPhee/Harrison,
+  Reich/Glass minimalism). Cross-links: gamelan → Western impressionism/minimalism; the Ramayana shared
+  with India; the East Asian pentatonic world. ASCII/transliterated; no internal dups (fresh super-
+  region). Next: Southeast Asia #2 — mainland classical & folk: Thai classical (the piphat/mahori
+  ensembles, the ranat & khong wong); Cambodian pinpeat & the Khmer court/Apsara; Burmese saing waing &
+  the hsaing ensemble (Myanmar); Vietnamese classical (nhac cung dinh court music, ca tru, the dan bau
+  monochord & dan tranh); Lao/Isan khaen mouth-organ & mor lam; and the mainland's Theravada/Hindu roots.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
