@@ -139,7 +139,7 @@ recordings):
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
-| MENA (Arab/Persian/Turkish) | IN PROGRESS | 4 | 171 | ACTIVE. #1-4 Arab maqam→Egyptian→Persian→Turkish; next #5 the Maghreb (Andalusian, chaabi, rai, Gnawa) |
+| MENA (Arab/Persian/Turkish) | IN PROGRESS | 5 | 218 | ACTIVE. #1-5 Arab→Egyptian→Persian→Turkish→Maghreb; next #6 (FINAL) modern pan-Arab pop, Mizrahi & the region today — then MENA master |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
@@ -1063,6 +1063,23 @@ recordings):
   Algerian chaabi (El Hadj M'Hamed El Anka); RAI (Cheikha Rimitti → Cheb Khaled's "Didi", Cheb Mami,
   Cheb Hasni); Moroccan Gnawa (the trance/lila, Maalem Mahmoud Guinia) & chaabi; Berber/Amazigh music
   (Idir's "A Vava Inouva", Kabyle) & the raga/desert cross-links; Tunisian malouf.
+- 2026-07-20 — **MENA #5** "The Maghreb — Andalusian, Chaabi, Rai, Gnawa & Amazigh" built:
+  `mena_music_5_MAGHREB_RAI_GNAWA_AMAZIGH.md` + `_IMPORT.txt` (47 tracks, 9 sections; 5 named). The
+  Andalusian legacy in North Africa (malouf/gharnati/al-ala, the nuba) + Algerian chaabi (El Anka;
+  Dahmane El Harrachi's "Ya Rayah") + the roots of rai (Cheikha Rimitti, the cheikhas) + pop-rai goes
+  global (Chaba Fadela's "N'sel Fik", Cheb Khaled's "Didi" & "Aicha", Cheb Mami) + rai & the Algerian
+  tragedy (Cheb Hasni "the martyr of rai" d.1994, Rachid Baba-Ahmed d.1995) + Moroccan Gnawa (the lila/
+  derdeba trance, guembri/qraqeb, Maalem Mahmoud Guinia, Essaouira) + Moroccan chaabi & the Ghiwane
+  generation (Nass El Ghiwane, Jil Jilala) + Berber/Amazigh music (Idir's "A Vava Inouva", Kabyle song,
+  Matoub Lounes d.1998) + the Maghreb in France (Rachid Taha, the beur generation). Cross-links: al-
+  Andalus (#1) & flamenco (Europe); Gnawa's sub-Saharan roots (Sahel/West Africa); the French diaspora.
+  Content note: the Algerian civil war & the assassinations of rai/Kabyle artists, kept factual & with
+  care. ASCII/transliterated; no dups vs #1-4. Next: MENA #6 (FINAL) — modern pan-Arab pop, Mizrahi & the
+  region today (~1990-present): the satellite-TV pan-Arab pop era (Amr Diab's "Nour El Ain"/al-jeel,
+  Nancy Ajram, Elissa, Kadim Al Sahir, Fairuz's heir Ziad Rahbani); Mizrahi/Israeli-Mizrahi music (Ofra
+  Haza's "Im Nin'alu", Zohar Argov, A-WA); Arabic hip-hop & the 2011 Arab Spring songs; Palestinian music
+  (DAM, Le Trio Joubran); and the modern electronic/festival scene — then build the MENA region master
+  and flip the region COMPLETE (next region = Southeast Asia).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
