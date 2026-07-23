@@ -66,6 +66,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Southeast Asia** — complete. 174 tracks, 4 installments + master. (gamelan/island classical -> mainland courts/piphat/pinpeat/ca tru/khaen -> crooner/film era: kroncong/luk thung/nhac vang/kundiman/P. Ramlee/Cambodian golden-age -> modern pop: dangdut/T-pop/V-pop/P-pop/hip-hop-indie)
 - **Caribbean** — complete. 172 tracks, 4 installments + master. (Afro-Cuban clave/son/rumba/mambo -> Jamaica: ska/rocksteady/reggae/dub/toasting -> calypso/soca/steelpan & the wider isles: Haiti/DR/PR/French Antilles -> dancehall/reggaeton/Rihanna & the global present)
 - **Central Asia & the Caucasus** — complete. 164 tracks, 4 installments + master. (steppe throat-singing/morin khuur/dombra/Manas -> Silk Road shashmaqam/Uyghur muqam/Azeri mugham -> Caucasus: Georgian polyphony/Armenian duduk-Komitas -> Soviet estrada & modern: Dimash/Q-pop/diaspora/folk-fusion)
+- **Oceania / the Pacific** — complete. 168 tracks, 4 installments + master. (Aboriginal songlines/didgeridoo & Melanesia: PNG/Solomons -> Polynesia: Maori haka/Hawaiian slack-key-hula/Samoa-Tonga-Tahiti/hymnody -> Micronesia & island-pop: ukulele string band/hymnody/island reggae -> modern: Yothu Yindi/Archie Roach/Gurrumul/OMC/Six60/island reggae)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -147,8 +148,8 @@ recordings):
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
-| Oceania / Pacific | IN PROGRESS | 3 | 125 | ACTIVE (Tier 3 #9). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era (stick-dance/chant, Chamorro, Marshalls & the nuclear-exile songs, the ukulele string band, pan-Pacific hymnody, island reggae/Jawaiian, the Hawaiian renaissance); next #4 modern Pacific & Aboriginal/Maori pop — FINALE + region master |
-| Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
+| Oceania / Pacific | COMPLETE | 4 | 168 | DONE (master built). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era; #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Archie Roach, Gurrumul, OMC, Six60, island reggae). Master: 168 deduped tracks, 0 cross-dups |
+| Jewish diaspora | ACTIVE | 0 | 0 | NEXT active region (Tier 3 #10, cross-regional). Planned: #1 liturgical & ancient roots (Torah cantillation/te'amim, hazzan/chazzanut, the shofar, the branches); #2 Ashkenazi & klezmer (Yiddish song, klezmer, Second Avenue theater, the revival); #3 Sephardi & Mizrahi (Ladino romances, Judeo-Arab/Andalusi, Bukharan/Persian/Yemenite); #4 modern Israeli & the diaspora in global pop + master |
 
 ---
 
@@ -1308,6 +1309,21 @@ recordings):
   PASSED (40/40 unique title-norms, 0 cross-dups vs #1-2). Nuclear-testing history & colonial/missionary
   context kept factual & respectful. Next: Oceania/Pacific #4 — modern Pacific & Aboriginal/Maori pop (the
   FINALE that builds the region master).
+- 2026-07-23 — **Oceania/Pacific #4 (FINALE)** "Modern Pacific & Aboriginal/Maori Pop" built:
+  `pacific_music_4_MODERN_POP.md` + `_IMPORT.txt` (43 tracks, 9 sections; ~18 named). Aboriginal rock &
+  Yothu Yindi ("Treaty", Warumpi Band) + Archie Roach & the Stolen Generations ("Took the Children Away",
+  Kev Carmody; content note) + Gurrumul & the new Aboriginal voices ("Wiyathul", Christine Anu "My Island
+  Home", Baker Boy "Marryuna", Jessica Mauboy) + Maori modern & te reo pop ("Poi E"/Patea Maori Club,
+  Maisey Rika, Herbs) + Pasifika & the Aotearoa sound (OMC "How Bizarre", Bic Runga, Six60 "Don't Forget
+  Your Roots", Che Fu, Stan Walker) + island reggae today (J Boog "Let's Do It Again", Katchafire, Common
+  Kings, Fiji) + the Pacific Islands & PNG modern pop + the Pasifika diaspora & the global stage + the
+  Pacific arc finale. Cross-links: Caribbean reggae; the deep roots (#1-3); global pop. ASCII/
+  transliterated; gate PASSED (43/43 unique title-norms, 0 cross-dups). Stolen Generations & colonization
+  kept factual & respectful. **OCEANIA/PACIFIC REGION COMPLETE** — built `MASTER_GUIDE_pacific_survey.md`
+  + `MASTER_PACIFIC_FULL_SURVEY_IMPORT.txt` (168 deduped tracks from #1-4 in order, 0 cross-installment
+  dups). Region flipped COMPLETE and added to the DONE list. Next active region = **the Jewish Diaspora**
+  (Tier 3 #10, cross-regional): #1 liturgical & ancient roots, #2 Ashkenazi & klezmer, #3 Sephardi &
+  Mizrahi, #4 modern Israeli & the diaspora in global pop.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
