@@ -64,6 +64,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **East Asia: Korea** — complete. 205 tracks, 5 installments + master. (gugak/pansori/gut -> occupation/trot -> Shin Joong-hyun/folk/Cho Yong-pil -> Seo Taiji/K-pop birth/Hallyu -> Psy/BTS/BLACKPINK/global) ★ **ALL EAST ASIA COMPLETE** (China+Japan+Korea = 3 sub-surveys, 626 tracks)
 - **MENA (Middle East & North Africa)** — complete. 259 tracks, 6 installments + master. (Arab maqam/tarab -> Egyptian golden age/Umm Kulthum -> Persian dastgah/Googoosh -> Turkish/arabesk/Anatolian rock -> Maghreb/rai/Gnawa -> pan-Arab pop/Mizrahi/today)
 - **Southeast Asia** — complete. 174 tracks, 4 installments + master. (gamelan/island classical -> mainland courts/piphat/pinpeat/ca tru/khaen -> crooner/film era: kroncong/luk thung/nhac vang/kundiman/P. Ramlee/Cambodian golden-age -> modern pop: dangdut/T-pop/V-pop/P-pop/hip-hop-indie)
+- **Caribbean** — complete. 172 tracks, 4 installments + master. (Afro-Cuban clave/son/rumba/mambo -> Jamaica: ska/rocksteady/reggae/dub/toasting -> calypso/soca/steelpan & the wider isles: Haiti/DR/PR/French Antilles -> dancehall/reggaeton/Rihanna & the global present)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -143,8 +144,8 @@ recordings):
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
-| Caribbean | IN PROGRESS | 3 | 129 | ACTIVE (Tier 2 #7, standalone). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles (Trinidad, Haiti kompa/rara/rasin, DR merengue/bachata, PR bomba/plena, French Antilles zouk); next #4 dancehall/reggaeton & the modern Caribbean — FINALE + region master |
-| Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
+| Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
+| Central Asia & Caucasus | ACTIVE | 0 | 0 | NEXT active region (Tier 3 #8). Planned: #1 Turkic/steppe & throat-singing roots (Tuvan/Mongolian khoomei, dombra, manaschi, morin khuur); #2 Persianate art music & the Silk Road (shashmaqam, Uyghur muqam, Azeri mugham/ashiq); #3 the Caucasus (Georgian polyphony, Armenian duduk/Komitas); #4 Soviet-era & modern pop/estrada & today + master |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
@@ -1200,6 +1201,22 @@ recordings):
   Jamaica (#2). ASCII/transliterated; gate PASSED (43/43 unique title-norms, 0 cross-dups vs Caribbean
   #1-2). Next: Caribbean #4 — dancehall/reggaeton & the modern Caribbean (the FINALE that builds the
   Caribbean region master).
+- 2026-07-23 — **Caribbean #4 (FINALE)** "Dancehall, Reggaeton & the Modern Caribbean" built:
+  `carib_music_4_DANCEHALL_REGGAETON_MODERN.md` + `_IMPORT.txt` (43 tracks, 9 sections; ~22 named). The
+  digital turn & dancehall (Wayne Smith "Under Mi Sleng Teng", the riddim system, sound clash) + the
+  dancehall deejays (Yellowman, Shabba Ranks, Beenie Man/Bounty Killer; content note on slackness) +
+  dancehall goes global (Sean Paul "Temperature", Vybz Kartel; content note on the legal case) + the roots
+  of reggaeton (El General, reggae en espanol/Panama, the dembow, the PR underground) + reggaeton explodes
+  (Daddy Yankee "Gasolina", Don Omar, Ivy Queen, Tego Calderon, Calle 13; content note on censorship) +
+  the global Latin-urban era (J Balvin "Mi Gente", Bad Bunny "Titi Me Pregunto") + Rihanna & the
+  Caribbean-global superstar (Barbados, bashment) + soca's global reach (the diaspora Carnivals) + the
+  Caribbean arc finale. Cross-links: reggaeton/salsa in the Latin America survey (cross-linked;
+  Caribbean/PR-origin here); dancehall -> hip-hop (US). ASCII/transliterated; gate PASSED (43/43 unique
+  title-norms, 0 cross-dups). **CARIBBEAN REGION COMPLETE** — built `MASTER_GUIDE_carib_survey.md` +
+  `MASTER_CARIB_FULL_SURVEY_IMPORT.txt` (172 deduped tracks from #1-4 in order, 0 cross-installment dups).
+  Region flipped COMPLETE and added to the DONE list. Next active region = **Central Asia & the Caucasus**
+  (Tier 3 #8): #1 Turkic/steppe & throat-singing roots, #2 Persianate art music & the Silk Road, #3 the
+  Caucasus, #4 Soviet-era & modern pop.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
