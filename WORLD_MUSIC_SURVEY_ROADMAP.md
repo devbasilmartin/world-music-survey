@@ -62,6 +62,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **East Asia: China** — complete. 212 tracks, 5 installments + master. (guqin/pentatonic/opera -> shidaiqu -> Mao-era/model works -> Cantopop/Mandopop/Teresa Teng -> Cui Jian/Jay Chou/C-pop today)
 - **East Asia: Japan** — complete. 209 tracks, 5 installments + master. (gagaku/koto/noh -> Meiji/ryukoka -> Hibari/enka/Group Sounds -> City Pop/YMO/idols -> J-pop/Utada/anime/Vocaloid/global)
 - **East Asia: Korea** — complete. 205 tracks, 5 installments + master. (gugak/pansori/gut -> occupation/trot -> Shin Joong-hyun/folk/Cho Yong-pil -> Seo Taiji/K-pop birth/Hallyu -> Psy/BTS/BLACKPINK/global) ★ **ALL EAST ASIA COMPLETE** (China+Japan+Korea = 3 sub-surveys, 626 tracks)
+- **MENA (Middle East & North Africa)** — complete. 259 tracks, 6 installments + master. (Arab maqam/tarab -> Egyptian golden age/Umm Kulthum -> Persian dastgah/Googoosh -> Turkish/arabesk/Anatolian rock -> Maghreb/rai/Gnawa -> pan-Arab pop/Mizrahi/today)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -139,8 +140,8 @@ recordings):
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
-| MENA (Arab/Persian/Turkish) | IN PROGRESS | 5 | 218 | ACTIVE. #1-5 Arab→Egyptian→Persian→Turkish→Maghreb; next #6 (FINAL) modern pan-Arab pop, Mizrahi & the region today — then MENA master |
-| Southeast Asia | not started | — | — | Tier 2 #6 |
+| MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
+| Southeast Asia | IN PROGRESS | 0 | 0 | ACTIVE. Tier 2 #6. Next #1: island SE Asia — Indonesian gamelan (Java/Bali), the great classical/court traditions & the instruments |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
@@ -1080,6 +1081,29 @@ recordings):
   Haza's "Im Nin'alu", Zohar Argov, A-WA); Arabic hip-hop & the 2011 Arab Spring songs; Palestinian music
   (DAM, Le Trio Joubran); and the modern electronic/festival scene — then build the MENA region master
   and flip the region COMPLETE (next region = Southeast Asia).
+- 2026-07-20 — **MENA #6 (FINALE)** "Modern Pan-Arab Pop, Mizrahi & the Region Today (c. 1990-present)"
+  built: `mena_music_6_MODERN_PANARAB_MIZRAHI_TODAY.md` + `_IMPORT.txt` (41 tracks, 9 sections; 11
+  named). The satellite pan-Arab pop era (Rotana, al-jeel) + Amr Diab & the Mediterranean sound ("Nour
+  El Ain", "Tamally Maak") + the Lebanese pop machine (Nancy Ajram's "Ah W Noss", Elissa's "Aaishalak",
+  Haifa Wehbe) + Kadim Al Sahir & Mashriq art-pop ("Zidini Ishqan", Qabbani) + Mizrahi/Israeli music
+  (Ofra Haza's "Im Nin'alu", Zohar Argov, A-WA's "Habib Galbi") + Arabic hip-hop & the Arab Spring (El
+  General's "Rais Lebled", Ramy Essam's "Irhal") + Palestinian music (Mohammed Assaf's "Dammi
+  Falastini", DAM, Le Trio Joubran) + the electronic/underground (mahraganat, Omar Souleyman, Mashrou'
+  Leila) + the through-line. Cross-links: the maqam/golden-age roots; the Jewish-diaspora survey
+  (Mizrahi); the Maghreb-in-France rap. Content notes: the Arab Spring, regional conflicts, and the
+  Israeli-Mizrahi & Palestinian material presented factually, evenhandedly & with care. ASCII/
+  transliterated; no dups vs #1-5. **REGION MASTER built:** `MASTER_GUIDE_mena_survey.md` (#1-6 overview)
+  + `MASTER_MENA_FULL_SURVEY_IMPORT.txt` (concatenated #1-6, TITLE-only first-occurrence dedup — raw 259
+  → deduped 259, **zero cross-installment dups**). Region **MENA COMPLETE** (6 installments, 259 tracks)
+  & added to DONE. Next active region = **Southeast Asia** (Tier 2 #6). Next: Southeast Asia #1 — island
+  SE Asia's classical traditions: Indonesian **gamelan** (Javanese court gamelan & the slendro/pelog
+  tunings; Balinese gamelan gong kebyar & kecak; the wayang shadow-puppet music) and the great
+  instruments — the roots before the pop era. NOTE for SE Asia sub-structure (Tier 2, keep it efficient):
+  a sensible arc is #1 gamelan & island classical (Indonesia/Bali) → #2 mainland classical & folk
+  (Thai/piphat, Vietnamese, Khmer, Burmese, Lao) → #3 the 20th-c. crooner/film era & regionalization
+  (kroncong, luk thung/Thai, Vietnamese, Filipino kundiman/OPM) → #4 modern pop & the global present
+  (dangdut & Indonesian pop, Thai/T-pop, V-pop, P-pop/Filipino, SE Asian hip-hop & indie) — compress to
+  ~4 installments; adjust as history warrants.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
