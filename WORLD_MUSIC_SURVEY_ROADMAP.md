@@ -1,5 +1,14 @@
 # World Music Survey — Master Roadmap
 
+> ## ★ SURVEY COMPLETE (2026-07-23)
+> **Every region on the roadmap is DONE, plus the Global Fusion capstone — the entire World Music Survey
+> is finished.** 18 regional surveys (US, Europe, Latin America, the 5 Sub-Saharan Africa sub-surveys,
+> South Asia, the 3 East Asia sub-surveys, MENA, Southeast Asia, the Caribbean, Central Asia & the
+> Caucasus, Oceania/the Pacific, and the Jewish diaspora) + the capstone = **~4,882 tracks** across
+> narrative `.md` guides and clean `Title - Artist` `.txt` import files, each region with a master guide
+> and a deduplicated master import list. Committed and pushed to
+> `github.com/devbasilmartin/world-music-survey`.
+
 A living plan for building a deep, chronological, listenable survey of **every major music region on
 Earth**, in the same style as the completed United States and Europe surveys. This file is the
 reference for future sessions: it defines the regions, the era-structure for each, the shared
@@ -151,6 +160,7 @@ recordings):
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
 | Oceania / Pacific | COMPLETE | 4 | 168 | DONE (master built). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era; #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Archie Roach, Gurrumul, OMC, Six60, island reggae). Master: 168 deduped tracks, 0 cross-dups |
 | Jewish diaspora | COMPLETE | 4 | 167 | DONE (master built). #1 liturgical roots; #2 Ashkenazi & klezmer; #3 Sephardi & Mizrahi; #4 modern Israel & the diaspora in global music (HaTikvah/shirei eretz Yisrael, Naomi Shemer, Israeli rock, Mizrahi pop, Idan Raichel, the global diaspora). Master: 167 deduped tracks, 0 cross-dups |
+| ★ Capstone: Global Fusion | COMPLETE | 1 | 44 | DONE. Grand finale — the cross-cultural fusions & world-music landmarks tying every region together (Graceland, Talking Timbuktu, Silk Road Ensemble, Buena Vista, Manu Chao, M.I.A., Nusrat, Playing for Change, 7 Seconds). Cross-links ALL regions. **THE ENTIRE SURVEY IS COMPLETE.** |
 
 ---
 
@@ -1381,6 +1391,25 @@ recordings):
   DONE list. **ALL ROADMAP REGIONS ARE NOW COMPLETE** — the only remaining item is the optional
   **Global Fusion capstone** (the survey's grand finale), after which the ENTIRE roadmap is COMPLETE and
   the loop STOPS.
+- 2026-07-23 — **★ CAPSTONE (GRAND FINALE)** "Global Fusion & the Connected World" built:
+  `capstone_music_GLOBAL_FUSION.md` + `_IMPORT.txt` (44 tracks, 9 sections; ~18 named). NEW stem
+  `capstone_music_`. The world-music landmark albums (Paul Simon "Graceland" & Ladysmith Black Mambazo
+  "Homeless", WOMAD/Real World; content note on the Graceland debate) + the great cross-cultural
+  collaborations (Ali Farka Toure & Ry Cooder "Talking Timbuktu", Ry Cooder & V.M. Bhatt "A Meeting by the
+  River", Ravi Shankar & Menuhin "West Meets East") + the Silk Road & the global ensemble (Yo-Yo Ma's Silk
+  Road Ensemble, AfroCubism, the Kronos Quartet, the Afro-Cuban All Stars) + the Buena Vista phenomenon &
+  the revival decade + the global-diaspora & mestizo sound (Manu Chao "Clandestino", Zaz "Je Veux", Gogol
+  Bordello, Balkan brass, Amadou & Mariam) + global bass & electronic fusion (M.I.A. "Paper Planes", Buraka
+  Som Sistema "Sound of Kuduro", Diplo/global bass) + the sacred goes global (Nusrat Fateh Ali Khan "Mustt
+  Mustt", the Gyuto Monks, Deep Forest & the sampling question — content note) + the jazz/flamenco/classical
+  world nexus (Playing for Change, Paco de Lucia, the guitar summit) + one connected world (Youssou N'Dour
+  & Neneh Cherry "7 Seconds", Angelique Kidjo "Agolo", the Afrobeats/reggaeton/K-pop convergence).
+  Cross-links: EVERY region. ASCII/transliterated; gate PASSED (44/44 unique title-norms). Collaboration/
+  credit/sampling ethics kept factual & respectful. **★ THE ENTIRE WORLD MUSIC SURVEY IS COMPLETE** — 18
+  regional surveys + the capstone, ~4,882 tracks total (US 839, Europe 403, Latin America 371, SSA West
+  256 / Southern 249 / Central 268 / East 229 / Sahel 175, South Asia 318, China 212, Japan 209, Korea
+  205, MENA 259, Southeast Asia 174, Caribbean 172, Central Asia & Caucasus 164, Oceania/Pacific 168,
+  Jewish diaspora 167, capstone 44). The lean auto-loop is now STOPPED (not re-armed).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
