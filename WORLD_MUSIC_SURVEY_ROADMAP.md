@@ -137,7 +137,7 @@ recordings):
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
-| East Asia: Korea | IN PROGRESS | 1 | 46 | ACTIVE. #1 classical/folk roots (gugak — court/pansori/sanjo/instruments/samulnori/gut/Arirang); next #2 the 20th c. — occupation, trot & early pop (~1900-1960) |
+| East Asia: Korea | IN PROGRESS | 2 | 81 | ACTIVE. #1-2 gugak roots→occupation/trot/early pop; next #3 the developmental decades — folk, rock (Shin Joong-hyun), trot's golden age & ballad (~1960-1987) |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
@@ -933,6 +933,21 @@ recordings):
   #2 — the 20th century (~1900-1960): Japanese colonial rule & the suppression of gugak; the birth of
   trot (teuroteu) and changga; early recorded pop (Lee Nan-young's "Tears of Mokpo"); liberation, the
   Korean War, and US/AFKN influence; the postwar entertainment scene.
+- 2026-07-20 — **East Asia: Korea #2** "Occupation, Trot & Early Pop (c. 1900-1960)" built:
+  `korea_music_2_OCCUPATION_TROT_EARLY_POP.md` + `_IMPORT.txt` (35 tracks, 8 sections; 4 named). Colonial
+  rule & the suppression of gugak (1910-45) + changga & the coming of Western song (church/school route)
+  + the birth of trot/teuroteu/ppongjjak (enka + foxtrot + han; Columbia/Victor/OKeh) + the first
+  recording stars (Lee Nan-young's "Tears of Mokpo"/1935, Nam In-su, Chae Gyu-yeop) + veiled national
+  feeling in colonial pop + liberation & division (1945; Hyun In's "Sinla-ui Dalbam") + the Korean War &
+  its songs (Nam In-su's "Farewell at Busan Station", Lee Hae-yeon's "Danjang-ui Miari Gogae") + the US
+  bases/AFKN & the American invasion (the Eighth Army show circuit) + the postwar scene. Cross-links:
+  Japanese enka → trot; American pop via the bases; the gugak roots (#1) pushed underground. Content
+  notes: colonial suppression & the Korean War, kept with care. ASCII/romanized; no dups vs #1. Next:
+  East Asia: Korea #3 — the developmental decades (~1960-1987): the Eighth-Army-bred pop (Patti Kim, the
+  Kim Sisters); Shin Joong-hyun & the birth of Korean rock (the "godfather"); the late-60s/70s folk &
+  the youth counterculture (Kim Min-gi's "Achim Isul"/Morning Dew, banned; Han Dae-soo); trot's golden
+  age (Lee Mi-ja, Nam Jin, Na Hoon-a); the ballad; and music under the Park/Chun military dictatorships
+  & censorship (content notes).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
