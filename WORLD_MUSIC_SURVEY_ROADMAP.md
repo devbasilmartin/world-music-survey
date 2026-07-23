@@ -135,7 +135,7 @@ recordings):
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
-| East Asia: Japan | IN PROGRESS | 3 | 123 | ACTIVE. #1-3 classical→Meiji→postwar boom (kayokyoku/enka/GS/folk); next #4 New Music, City Pop & the idol age (~1975-1995) |
+| East Asia: Japan | IN PROGRESS | 4 | 164 | ACTIVE. #1-4 classical→Meiji→postwar→New Music/City Pop/idols; next #5 (FINAL) modern/global — J-pop, anime, J-rock/Visual Kei, Vocaloid, streaming (~1995-present) — then Japan master |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
@@ -885,6 +885,22 @@ recordings):
   singer-songwriters (Yumi Matsutoya/Yuming, Southern All Stars); City Pop (Tatsuro Yamashita, Mariya
   Takeuchi's "Plastic Love", Anri) & its global revival; the idol boom (Pink Lady, Seiko Matsuda,
   Onyanko Club); YMO & technopop; the Band boom.
+- 2026-07-20 — **East Asia: Japan #4** "New Music, City Pop & the Idol Age (c. 1975-1995)" built:
+  `japan_music_4_NEWMUSIC_CITYPOP_IDOLS.md` + `_IMPORT.txt` (41 tracks, 8 sections; 14 named). New Music
+  singer-songwriters (Yuming's "Rouge no Dengon", Southern All Stars' "Itoshi no Ellie", Off Course's
+  "Sayonara") + City Pop (Tatsuro Yamashita's "Ride on Time", Taeko Onuki, Kadomatsu) + the City Pop
+  divas & global revival (Mariya Takeuchi's "Plastic Love", Miki Matsubara's "Mayonaka no Door", Anri's
+  "Remember Summer Days" — the YouTube/vaporwave phenomenon) + YMO & technopop ("Rydeen"; Ryuichi
+  Sakamoto's "Merry Christmas Mr. Lawrence") + the idol boom (Pink Lady's "UFO", Seiko Matsuda's "Aoi
+  Sangosho", Akina Nakamori's "Desire") + Onyanko Club & the idol-group template (AKB precursor) + the
+  Band Boom (The Blue Hearts' "Linda Linda", Princess Princess's "Diamonds", Boowy/Hotei) + the "J-pop"
+  coinage & the bubble burst. Cross-links: American AOR/funk into City Pop; YMO's global electronic
+  influence; the City Pop algorithm revival. Content note: the 1980s bubble & its 1991 burst. ASCII/
+  romaji; no dups vs #1-3. Next: East Asia: Japan #5 (FINAL) — modern & global (~1995-present): the 90s
+  J-pop explosion (Komuro Tetsuya, Namie Amuro, Hikaru Utada's "Automatic"; B'z, Mr. Children); anime &
+  game music (Joe Hisaishi/Ghibli, anisong, Kenshi Yonezu's "Lemon"); J-rock & Visual Kei (X Japan,
+  L'Arc, Babymetal); Vocaloid/Hatsune Miku; AKB48 & the modern idol; and the streaming/global wave —
+  then build the East Asia: Japan region master and flip the sub-region COMPLETE (next: East Asia: Korea).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
