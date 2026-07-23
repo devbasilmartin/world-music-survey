@@ -139,7 +139,7 @@ recordings):
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
-| MENA (Arab/Persian/Turkish) | IN PROGRESS | 3 | 128 | ACTIVE. #1-3 Arab maqam→Egyptian divas→Persian classical/pop; next #4 Turkish — Ottoman classical, arabesk, Anatolian rock & pop |
+| MENA (Arab/Persian/Turkish) | IN PROGRESS | 4 | 171 | ACTIVE. #1-4 Arab maqam→Egyptian→Persian→Turkish; next #5 the Maghreb (Andalusian, chaabi, rai, Gnawa) |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
@@ -1047,6 +1047,22 @@ recordings):
   gazino/Turkish art music & the great voices (Zeki Muren, Muslum Gurses); ARABESK (Orhan Gencebay);
   Anatolian rock (Baris Manco, Cem Karaca, Erkin Koray); Turkish folk/asik (Asik Veysel) & the saz; and
   modern Turkish pop (Sezen Aksu, Tarkan's "Simarik"/Kiss Kiss).
+- 2026-07-20 — **MENA #4** "Turkish Music — Ottoman Classical, Arabesk, Anatolian Rock & Pop" built:
+  `mena_music_4_TURKISH_OTTOMAN_AREBESK_ROCK_POP.md` + `_IMPORT.txt` (43 tracks, 8 sections; 12 named).
+  Ottoman classical (Turkish makam, the fasil, usul; Tanburi Cemil Bey, Dede Efendi/Itri) + the Mevlevi
+  & Sufi music (the whirling-dervish sema, the ney's lament, Rumi/Konya) + Turkish folk & the asik bards
+  (the saz/baglama; Asik Veysel's "Uzun Ince Bir Yoldayim" & "Kara Toprak"; Neset Ertas, Alevi deyis) +
+  the gazino voices (Zeki Muren's "Simdi Uzaklardasin", sanat muzigi) + arabesk (Orhan Gencebay's
+  "Batsin Bu Dunya" & "Bir Teselli Ver", Ibrahim Tatlises, Muslum Gurses) + Anatolian rock (Baris
+  Manco's "Daglar Daglar", Erkin Koray's "Cemalim", Selda Bagcan's "Yaz Gazeteci Yaz", Cem Karaca's
+  "Namus Belasi") + modern Turkish pop (Sezen Aksu's "Firuze", Tarkan's "Simarik"/Kiss Kiss, Sertab
+  Erener's Eurovision "Everyway That I Can") + the crossroads. Cross-links: makam/maqam/dastgah family;
+  Rumi/Sufi; Greek rebetiko/Balkans; the Turkish-German diaspora. Content notes: post-1980-coup
+  persecution; arabesk's stigma. Avoided ney/oud/qanun collisions with #1. ASCII/transliterated; no dups
+  vs #1-3. Next: MENA #5 — the Maghreb (North Africa): the Andalusian classical (gharnati/malouf/ala);
+  Algerian chaabi (El Hadj M'Hamed El Anka); RAI (Cheikha Rimitti → Cheb Khaled's "Didi", Cheb Mami,
+  Cheb Hasni); Moroccan Gnawa (the trance/lila, Maalem Mahmoud Guinia) & chaabi; Berber/Amazigh music
+  (Idir's "A Vava Inouva", Kabyle) & the raga/desert cross-links; Tunisian malouf.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
