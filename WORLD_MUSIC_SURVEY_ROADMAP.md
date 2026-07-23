@@ -135,7 +135,7 @@ recordings):
 | Sub-Saharan Africa: Sahel | COMPLETE | 4 | 175 | #1-4 desert roots→Malian foundation→global desert-blues→crisis/today; master: MASTER_GUIDE_ssa_sahel_survey.md (175 tracks, 0 dups). **All Sub-Saharan Africa now COMPLETE.** |
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
-| East Asia: Japan | IN PROGRESS | 2 | 83 | ACTIVE. #1-2 classical roots→Meiji/ryukoka/enka-roots; next #3 the postwar boom — kayokyoku, Hibari Misora, enka's golden age, Group Sounds & folk (~1945-1975) |
+| East Asia: Japan | IN PROGRESS | 3 | 123 | ACTIVE. #1-3 classical→Meiji→postwar boom (kayokyoku/enka/GS/folk); next #4 New Music, City Pop & the idol age (~1975-1995) |
 | East Asia: Korea | not started | — | — | Tier 1 #4c |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
@@ -871,6 +871,20 @@ recordings):
   Hibari Misora (the postwar queen); enka's golden age (Hachiro Kasuga, Harumi Miyako, Keisuke Yamashita);
   the mood-kayo & jazz; rockabilly & the Group Sounds boom (The Tigers, The Spiders); the folk boom
   (Takuro Yoshida, Yosui Inoue); the Showa songbook.
+- 2026-07-20 — **East Asia: Japan #3** "The Postwar Boom — Kayokyoku, Enka, Group Sounds & Folk (c.
+  1945-1975)" built: `japan_music_3_POSTWAR_KAYOKYOKU_GS_FOLK.md` + `_IMPORT.txt` (40 tracks, 8 sections;
+  11 named). Postwar kayokyoku & the boogie (Michiko Namiki's "Ringo no Uta", Shizuko Kasagi's "Tokyo
+  Boogie-Woogie", Ryoichi Hattori) + Hibari Misora the queen of Showa ("Ringo Oiwake") + "Sukiyaki"/Kyu
+  Sakamoto's "Ue o Muite Aruko" (US Billboard #1, 1963) + enka's golden age (Saburo Kitajima's "Kitaguni
+  no Haru", Keiko Fuji's "Yume wa Yoru Hiraku", Harumi Miyako) + mood kayo (Frank Nagai, Mahina Stars) +
+  rockabilly & the Group Sounds boom (The Blue Comets' "Blue Chateau", The Tigers'/Julie's "Hana no
+  Kubikazari") + the folk boom & Kansai scene (Kaguyahime's "Kanda-gawa", Yosui Inoue's "Yume no Naka e",
+  The Folk Crusaders, Takuro Yoshida) + the Showa songbook (Kohaku). Cross-links: American pop/rock & the
+  Beatles; "Sukiyaki" on the US charts; toward New Music/City Pop/idols (#4). ASCII/romaji; no dups vs
+  #1-2. Next: East Asia: Japan #4 — New Music, City Pop & the idol age (~1975-1995): the New Music
+  singer-songwriters (Yumi Matsutoya/Yuming, Southern All Stars); City Pop (Tatsuro Yamashita, Mariya
+  Takeuchi's "Plastic Love", Anri) & its global revival; the idol boom (Pink Lady, Seiko Matsuda,
+  Onyanko Club); YMO & technopop; the Band boom.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
