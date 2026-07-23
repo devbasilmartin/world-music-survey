@@ -139,7 +139,7 @@ recordings):
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
-| MENA (Arab/Persian/Turkish) | IN PROGRESS | 0 | 0 | ACTIVE. Tier 2 #5. Next #1: Arab classical & maqam roots — the maqam system, the takht ensemble, oud/qanun/ney, muwashshah/tarab, the Andalusian & Egyptian lineage |
+| MENA (Arab/Persian/Turkish) | IN PROGRESS | 1 | 44 | ACTIVE. #1 Arab classical/maqam roots (maqam/iqa'at, takht, oud/qanun/ney, muwashshah, tarab, Nahda); next #2 the Egyptian golden age & the great divas (Umm Kulthum, Abdel Halim, Fairuz) |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
@@ -1002,6 +1002,22 @@ recordings):
   Persian (Iranian) classical & pop → #4 Turkish (Ottoman classical, Anatolian rock, arabesk, pop) → #5
   the Maghreb (Andalusian, chaabi, rai, Gnawa) → #6 modern pan-Arab pop, Mizrahi, & the region today
   (adjust/compress per the roadmap as you build).
+- 2026-07-20 — **MENA #1** "Arab Classical & Maqam Roots" built:
+  `mena_music_1_ARAB_CLASSICAL_MAQAM_ROOTS.md` + `_IMPORT.txt` (44 tracks, 9 sections; 1 named — deep-
+  roots, mostly modes/forms/instruments as seeds). NEW super-region, stem `mena_music_` (dedup resets).
+  The maqam (modal system, quarter-tones, ajnas, Rast/Bayati/Hijaz/Saba/Nahawand, sayr) + the iqa'at
+  (rhythmic modes, dum/tak, Maqsum/Baladi/Samai Thaqil, riqq/tabla) + the takht ensemble & the mutrib +
+  the instruments (oud/qanun/ney/kamanja/buzuq; oud→European lute) + the forms (taqsim, mawwal, dawr,
+  qasida, wasla) + the muwashshah & Andalusian legacy (Ziryab, "Lamma Bada Yatathanna", the nuba, al-
+  Andalus preserved in the Maghreb) + tarab & the art of ecstasy (saltana, audience calls) + the Nahda &
+  early masters (Abdo al-Hamuli, Aleppo's qudud halabiyya, Sayyid Darwish's "Zuruni") + the maqam world
+  (the makam/dastgah family; Quranic tajwid & Sufi inshad as sacred vocal roots). Cross-links: Turkish/
+  Persian maqam family (#3-4); al-Andalus→flamenco (Europe) & Maghreb (#5); the oud→lute. Content note:
+  Quranic recitation & Sufi chant treated respectfully as vocal arts. ASCII/transliterated; no internal
+  dups (fresh super-region). Next: MENA #2 — the Egyptian golden age & the great divas (~1920-1975): the
+  Cairo record/radio/cinema era; Umm Kulthum (the voice of the Arab world; "Enta Omri", "Alf Leila wa
+  Leila"); Mohammed Abdel Wahab; Abdel Halim Hafez; Farid al-Atrash & Asmahan; and Lebanon's Fairuz &
+  the Rahbani Brothers.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
