@@ -149,7 +149,7 @@ recordings):
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
 | Oceania / Pacific | COMPLETE | 4 | 168 | DONE (master built). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era; #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Archie Roach, Gurrumul, OMC, Six60, island reggae). Master: 168 deduped tracks, 0 cross-dups |
-| Jewish diaspora | ACTIVE | 0 | 0 | NEXT active region (Tier 3 #10, cross-regional). Planned: #1 liturgical & ancient roots (Torah cantillation/te'amim, hazzan/chazzanut, the shofar, the branches); #2 Ashkenazi & klezmer (Yiddish song, klezmer, Second Avenue theater, the revival); #3 Sephardi & Mizrahi (Ladino romances, Judeo-Arab/Andalusi, Bukharan/Persian/Yemenite); #4 modern Israeli & the diaspora in global pop + master |
+| Jewish diaspora | IN PROGRESS | 1 | 41 | ACTIVE (Tier 3 #10, cross-regional). #1 liturgical & ancient roots (Torah cantillation/te'amim, hazzan/chazzanut/Rosenblatt, nusach & the synagogue modes, shofar, piyyut, psalms, zemirot, the nigun); next #2 Ashkenazi & klezmer. Then #3 Sephardi & Mizrahi; #4 modern Israeli & the diaspora in global pop — FINALE + master |
 
 ---
 
@@ -1324,6 +1324,17 @@ recordings):
   dups). Region flipped COMPLETE and added to the DONE list. Next active region = **the Jewish Diaspora**
   (Tier 3 #10, cross-regional): #1 liturgical & ancient roots, #2 Ashkenazi & klezmer, #3 Sephardi &
   Mizrahi, #4 modern Israeli & the diaspora in global pop.
+- 2026-07-23 — **Jewish Diaspora #1** "The Liturgical & Ancient Roots" built:
+  `jewish_music_1_LITURGICAL_ROOTS.md` + `_IMPORT.txt` (41 tracks, 9 sections; ~1 named — Yossele
+  Rosenblatt). NEW super-region, stem `jewish_music_` (dedup resets). Torah cantillation & the te'amim/
+  trope + the hazzan & chazzanut (Yossele Rosenblatt, the golden age of cantors) + nusach & the synagogue
+  modes (Ahavah Rabbah/the 'Jewish scale', the sung calendar) + the shofar & the High Holy Days (tekiah/
+  shevarim/teruah, Kol Nidre) + piyyut (Adon Olam, Lecha Dodi, Yigdal; one poem many melodies) + the psalms
+  & the ancient Temple (Hallel, the Levite tradition, Psalm 137) + zemirot & the Sabbath table (Shalom
+  Aleichem, Yah Ribon) + the nigun (the wordless Hasidic melody, deveykut) + the shared sacred thread.
+  Cross-links: the three branches (#2-4); MENA & Central Asia; Europe; the US. ASCII/transliterated; gate
+  PASSED (41/41 unique title-norms, fresh region). Living sacred tradition treated with deep respect. Next:
+  Jewish Diaspora #2 — Ashkenazi & klezmer (Yiddish song, klezmer, the Second Avenue theater, the revival).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
