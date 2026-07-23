@@ -67,6 +67,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **Caribbean** — complete. 172 tracks, 4 installments + master. (Afro-Cuban clave/son/rumba/mambo -> Jamaica: ska/rocksteady/reggae/dub/toasting -> calypso/soca/steelpan & the wider isles: Haiti/DR/PR/French Antilles -> dancehall/reggaeton/Rihanna & the global present)
 - **Central Asia & the Caucasus** — complete. 164 tracks, 4 installments + master. (steppe throat-singing/morin khuur/dombra/Manas -> Silk Road shashmaqam/Uyghur muqam/Azeri mugham -> Caucasus: Georgian polyphony/Armenian duduk-Komitas -> Soviet estrada & modern: Dimash/Q-pop/diaspora/folk-fusion)
 - **Oceania / the Pacific** — complete. 168 tracks, 4 installments + master. (Aboriginal songlines/didgeridoo & Melanesia: PNG/Solomons -> Polynesia: Maori haka/Hawaiian slack-key-hula/Samoa-Tonga-Tahiti/hymnody -> Micronesia & island-pop: ukulele string band/hymnody/island reggae -> modern: Yothu Yindi/Archie Roach/Gurrumul/OMC/Six60/island reggae)
+- **The Jewish diaspora** — complete. 167 tracks, 4 installments + master. (liturgy: cantillation/chazzanut/nusach/shofar/nigun -> Ashkenazi & klezmer: Yiddish song/Brandwein/the revival -> Sephardi & Mizrahi: Ladino/Judeo-Andalusi/Yemenite Diwan/Baghdadi maqam -> modern Israel & the global diaspora: HaTikvah/Naomi Shemer/Mizrahi pop/Idan Raichel/Cohen/Zorn)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -149,7 +150,7 @@ recordings):
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
 | Oceania / Pacific | COMPLETE | 4 | 168 | DONE (master built). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era; #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Archie Roach, Gurrumul, OMC, Six60, island reggae). Master: 168 deduped tracks, 0 cross-dups |
-| Jewish diaspora | IN PROGRESS | 3 | 127 | ACTIVE (Tier 3 #10, cross-regional). #1 liturgical roots; #2 Ashkenazi & klezmer; #3 Sephardi & Mizrahi (1492/Ladino romances & the keepers, Ottoman maftirim, Judeo-Andalusi/Maghreb, Bukharan/Persian Jews, Yemenite Diwan/Shabazi, Iraqi Jews/Al-Kuwaiti); next #4 modern Israeli & the diaspora in global pop — FINALE + master |
+| Jewish diaspora | COMPLETE | 4 | 167 | DONE (master built). #1 liturgical roots; #2 Ashkenazi & klezmer; #3 Sephardi & Mizrahi; #4 modern Israel & the diaspora in global music (HaTikvah/shirei eretz Yisrael, Naomi Shemer, Israeli rock, Mizrahi pop, Idan Raichel, the global diaspora). Master: 167 deduped tracks, 0 cross-dups |
 
 ---
 
@@ -1363,6 +1364,23 @@ recordings):
   vs #1-2). The 1492 expulsion, the 20th-c. exodus from Arab/Muslim lands & the shared Judeo-Arab heritage
   kept strictly factual, evenhanded & with care. Next: Jewish Diaspora #4 — modern Israeli & the diaspora
   in global pop (the FINALE that builds the region master).
+- 2026-07-23 — **Jewish Diaspora #4 (FINALE)** "Modern Israel & the Diaspora in Global Music" built:
+  `jewish_music_4_MODERN_ISRAEL_DIASPORA.md` + `_IMPORT.txt` (40 tracks, 9 sections; ~9 named). HaTikvah &
+  the pioneer songbook (shirei eretz Yisrael, the hora, "Hava Nagila") + Naomi Shemer ("Yerushalayim Shel
+  Zahav", "Lu Yehi") + the birth of Israeli rock/pop (Arik Einstein "Ani Ve'Ata", Kaveret/Poogy, Chava
+  Alberstein, Shalom Hanoch) + Mizrahi pop rises to the mainstream (cross-link Ofra Haza/Zohar Argov/A-WA
+  in MENA #6; content note) + Idan Raichel & the pan-ethnic Israel ("Bo'i", Ethiopian-Israeli) + modern
+  Israeli pop & Eurovision (Netta "Toy", Dana International "Diva") + the diaspora & the Great American
+  Songbook (Irving Berlin "White Christmas", Gershwin; cross-link US) + the diaspora in global pop & the
+  new Jewish music (Leonard Cohen "Hallelujah", Dylan/Winehouse/Drake cross-links, John Zorn's Radical
+  Jewish Culture, Matisyahu) + the Jewish music arc finale. Cross-links: US, Europe, MENA, Central Asia.
+  ASCII/transliterated; gate PASSED (40/40 unique title-norms, 0 cross-dups). HaTikvah, the founding of
+  Israel & the Israeli-Palestinian context kept strictly factual, evenhanded & with care. **JEWISH-DIASPORA
+  REGION COMPLETE** — built `MASTER_GUIDE_jewish_survey.md` + `MASTER_JEWISH_FULL_SURVEY_IMPORT.txt` (167
+  deduped tracks from #1-4 in order, 0 cross-installment dups). Region flipped COMPLETE and added to the
+  DONE list. **ALL ROADMAP REGIONS ARE NOW COMPLETE** — the only remaining item is the optional
+  **Global Fusion capstone** (the survey's grand finale), after which the ENTIRE roadmap is COMPLETE and
+  the loop STOPS.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
