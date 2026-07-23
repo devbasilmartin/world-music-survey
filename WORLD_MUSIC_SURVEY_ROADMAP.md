@@ -143,7 +143,7 @@ recordings):
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
-| Caribbean | ACTIVE | 0 | 0 | NEXT active region (Tier 2 #7, standalone). Planned sub-structure: #1 Cuban son/rumba & the Afro-Caribbean roots; #2 Jamaican ska→rocksteady→reggae/dub; #3 Trinidad calypso/soca & steelpan + the wider isles; #4 dancehall/reggaeton & the modern Caribbean |
+| Caribbean | IN PROGRESS | 1 | 44 | ACTIVE (Tier 2 #7, standalone). #1 Cuban roots & the Afro-Caribbean foundation (son, rumba, danzon, mambo/cha-cha-cha, bata/Santeria, Afro-Cuban jazz); next #2 Jamaican ska→rocksteady→reggae/dub. Then #3 calypso/soca & the wider isles; #4 dancehall/reggaeton finale + master |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
@@ -1160,6 +1160,19 @@ recordings):
   list. Next active region = **the Caribbean** (Tier 2 #7, standalone): #1 Cuban son/rumba & Afro-Caribbean
   roots, #2 Jamaican ska->rocksteady->reggae/dub, #3 Trinidad calypso/soca & steelpan + the wider isles,
   #4 dancehall/reggaeton & the modern Caribbean.
+- 2026-07-23 — **Caribbean #1** "Cuban Roots & the Afro-Caribbean Foundation" built:
+  `carib_music_1_CUBAN_AFRO_ROOTS.md` + `_IMPORT.txt` (44 tracks, 9 sections; ~19 named). NEW super-region,
+  stem `carib_music_` (dedup resets). The African-Spanish fusion & the clave + the son (Trio Matamoros
+  "Son de la Loma", Ignacio Pineiro, the tres/septeto) + the Buena Vista revival (Compay Segundo "Chan
+  Chan", Ibrahim Ferrer, "Candela") + rumba (guaguanco/yambu/columbia, Los Munequitos de Matanzas, the
+  quinto) + the Afro-Cuban sacred (bata drums, Santeria/Lucumi, orisha songs to Chango & Yemaya, Abakua;
+  content note, respectful) + the salon (danzon/Miguel Failde, charanga, the Cuban bolero, la trova) + the
+  mambo & cha-cha-cha (Perez Prado, Enrique Jorrin, Beny More the "Barbaro del Ritmo") + Afro-Cuban jazz
+  (Chano Pozo "Manteca", Machito & Mario Bauza, Cubop) + the Afro-Cuban foundation & the road ahead.
+  Cross-links: SALSA's NYC story stays in the Latin America survey (cross-linked, not duplicated here);
+  West/Central African rhythm; the wider Caribbean (#2-4). ASCII/transliterated; gate PASSED (44/44 unique
+  title-norms, fresh region). Next: Caribbean #2 — Jamaica: ska -> rocksteady -> reggae/dub (Bob Marley,
+  Toots, Lee Perry, King Tubby).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
