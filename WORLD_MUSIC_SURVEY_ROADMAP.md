@@ -137,7 +137,7 @@ recordings):
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
-| East Asia: Korea | IN PROGRESS | 3 | 118 | ACTIVE. #1-3 gugak→occupation/trot→developmental decades (folk/rock/trot/ballad); next #4 the birth of K-pop & the Hallyu wave (Seo Taiji→H.O.T.→BoA, ~1992-2009) |
+| East Asia: Korea | IN PROGRESS | 4 | 163 | ACTIVE. #1-4 gugak→trot→developmental→K-pop birth/Hallyu; next #5 (FINAL) modern/global K-pop — BTS/BLACKPINK, the global explosion, K-hip-hop/indie (~2010-present) — then Korea master |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
@@ -963,6 +963,22 @@ recordings):
   2009): Seo Taiji and Boys' 1992 revolution; the SM/YG/JYP agency idol system; the first idols (H.O.T.,
   S.E.S., Fin.K.L, g.o.d, Shinhwa); the ballad/R&B stars; BoA & TVXQ break Japan; the early Hallyu wave;
   Rain, Big Bang, Girls' Generation, Wonder Girls emerge.
+- 2026-07-20 — **East Asia: Korea #4** "The Birth of K-pop & the Hallyu Wave (c. 1992-2009)" built:
+  `korea_music_4_KPOP_BIRTH_HALLYU.md` + `_IMPORT.txt` (45 tracks, 9 sections; 15 named). Seo Taiji and
+  Boys' 1992 revolution ("Nan Arayo"/I Know, "Come Back Home") + the agency system/idol factory (SM/YG/
+  JYP, the trainee model) + the first idol generation (H.O.T.'s "Candy", S.E.S.'s "Dreams Come True",
+  g.o.d's "One Candle", Shinhwa) + the 90s ballad & R&B (Kim Gun-mo's "Wrongful Meeting", Shin Seung-
+  hun's "I Believe") + BoA & TVXQ conquer Japan (BoA's "No.1", TVXQ's "Mirotic") + the early Hallyu
+  (Rain's "It's Raining", Winter Sonata OST) + the 2nd-gen idols (Big Bang's "Lies", Wonder Girls' "Tell
+  Me", Super Junior's "Sorry Sorry") + the girl-group explosion (Girls' Generation's "Gee", 2NE1's
+  "Fire"). Cross-links: US hip-hop/R&B & Japanese idol pop → K-pop; toward the global BTS/BLACKPINK era.
+  Content notes: censorship battles; idol-industry labor/"slave contract" controversies, kept brief.
+  ASCII/romanized; no dups vs #1-3. Next: East Asia: Korea #5 (FINAL) — modern/global K-pop (~2010-
+  present): the 3rd/4th-gen global explosion (BTS's "Dynamite", BLACKPINK, EXO, TWICE, Stray Kids,
+  NewJeans); Psy's "Gangnam Style"; K-hip-hop (Show Me the Money, Jay Park/AOMG) & K-indie/K-R&B; the
+  global fandom, streaming, and soft-power juggernaut — then build the Korea region master and flip the
+  sub-region COMPLETE (which also completes ALL of East Asia; next region = MENA / Middle East & North
+  Africa).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
