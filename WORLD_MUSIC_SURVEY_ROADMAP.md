@@ -143,7 +143,7 @@ recordings):
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
-| Caribbean | IN PROGRESS | 2 | 86 | ACTIVE (Tier 2 #7, standalone). #1 Cuban roots; #2 Jamaica (mento/nyabinghi/Rastafari, ska, rocksteady, roots reggae/Marley, dub/King Tubby, toasting); next #3 calypso/soca & steelpan + the wider isles (Haiti, DR, PR, zouk). Then #4 dancehall/reggaeton finale + master |
+| Caribbean | IN PROGRESS | 3 | 129 | ACTIVE (Tier 2 #7, standalone). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles (Trinidad, Haiti kompa/rara/rasin, DR merengue/bachata, PR bomba/plena, French Antilles zouk); next #4 dancehall/reggaeton & the modern Caribbean — FINALE + region master |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
@@ -1187,6 +1187,19 @@ recordings):
   Fixed one title ("Get Ready - Rock Steady" -> "Get Ready to Rock Steady") to avoid a double " - "
   separator. Next: Caribbean #3 — calypso/soca & steelpan + the wider isles (Trinidad, Haiti kompa, DR
   merengue/bachata, PR bomba/plena, French Antilles zouk).
+- 2026-07-23 — **Caribbean #3** "Calypso, Soca, Steelpan & the Wider Isles" built:
+  `carib_music_3_CALYPSO_SOCA_WIDER_ISLES.md` + `_IMPORT.txt` (43 tracks, 9 sections; ~9 named). Trinidad
+  calypso & Carnival (kaiso, the calypso tent) + the great calypsonians (Mighty Sparrow "Jean and Dinah",
+  Lord Kitchener, Lord Invader "Rum and Coca-Cola"; content note on the wartime satire) + soca (Lord
+  Shorty "Soul of Calypso", Machel Montano, chutney soca) + the steelpan (the oil-drum invention, the
+  steel band, Panorama) + Haiti (kompa/Nemours Jean-Baptiste, rara, mizik rasin/Boukman Eksperyans "Ke'm
+  Pa Sote"; Vodou-rooted, respectful) + the Dominican Republic (merengue/Juan Luis Guerra, bachata; content
+  note on Trujillo) + Puerto Rico (bomba & plena, the panderetas; salsa/reggaeton cross-linked) + the
+  French Antilles (zouk/Kassav' "Zouk La Se Sel Medikaman Nou Ni", biguine, gwoka) + the wider archipelago.
+  Cross-links: salsa & reggaeton (Latin America; reggaeton finale #4); zouk -> kizomba (Africa); Cuba (#1);
+  Jamaica (#2). ASCII/transliterated; gate PASSED (43/43 unique title-norms, 0 cross-dups vs Caribbean
+  #1-2). Next: Caribbean #4 — dancehall/reggaeton & the modern Caribbean (the FINALE that builds the
+  Caribbean region master).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
