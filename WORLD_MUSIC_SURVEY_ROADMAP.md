@@ -147,7 +147,7 @@ recordings):
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
-| Oceania / Pacific | ACTIVE | 0 | 0 | NEXT active region (Tier 3 #9). Planned: #1 Aboriginal Australia & the didgeridoo + Melanesia (songlines, yidaki, PNG); #2 Polynesia (Maori waiata/haka, Hawaiian mele/hula/slack-key, Samoa/Tonga/Tahiti); #3 Micronesia & the island-pop/string-band era (ukulele, himene hymnody, island reggae); #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Gurrumul, Pasifika) + master |
+| Oceania / Pacific | IN PROGRESS | 1 | 42 | ACTIVE (Tier 3 #9). #1 Aboriginal Australia & Melanesia (yidaki/didgeridoo, songlines/clapsticks, Torres Strait, PNG kundu/garamut/sing-sing, Solomon panpipes, Vanuatu water-drumming); next #2 Polynesia (Maori, Hawaiian, Samoa/Tonga/Tahiti). Then #3 Micronesia & island-pop; #4 modern Pacific pop finale + master |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
 ---
@@ -1270,6 +1270,19 @@ recordings):
   Region flipped COMPLETE and added to the DONE list. Next active region = **Oceania / the Pacific** (Tier
   3 #9): #1 Aboriginal Australia & the didgeridoo + Melanesia, #2 Polynesia, #3 Micronesia & island-pop,
   #4 modern Pacific pop.
+- 2026-07-23 — **Oceania/Pacific #1** "Aboriginal Australia & Melanesia" built:
+  `pacific_music_1_ABORIGINAL_MELANESIA.md` + `_IMPORT.txt` (42 tracks, 9 sections; 1 named — "Rorogwela"/
+  Afunakwa, the Baegu lullaby). NEW super-region, stem `pacific_music_` (dedup resets). The oldest living
+  music (Aboriginal Australia, the Dreaming/Tjukurpa) + the didgeridoo/yidaki (circular breathing, Arnhem
+  Land, Djalu Gurruwiwi) + the songlines, clapsticks/bilma & corroboree (manikay; secret-sacred content
+  note) + the Torres Strait & the Centre (warup drum, inma/awelye) + Melanesia/PNG diversity (kundu,
+  garamut, 800 languages) + the sing-sing & the sacred flutes/bullroarer (Goroka/Mount Hagen; content
+  note) + Solomon Islands bamboo panpipes ('Are'are polyphony, "Rorogwela"; content note on sampling/
+  consent) + Vanuatu water-drumming/etetung, Fijian meke & Kanak music + the Oceanic foundation.
+  Cross-links: SE Asia (the Austronesian voyage); the Pacific string bands & modern pop (#3-4). ASCII/
+  transliterated; gate PASSED (42/42 unique title-norms, fresh region). Sacred/secret-sacred material,
+  colonial history & recording ethics kept factual & deeply respectful. Next: Oceania/Pacific #2 —
+  Polynesia (Maori, Hawaiian, Samoa/Tonga/Tahiti).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
