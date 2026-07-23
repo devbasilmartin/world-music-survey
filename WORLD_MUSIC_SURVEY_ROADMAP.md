@@ -63,6 +63,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **East Asia: Japan** — complete. 209 tracks, 5 installments + master. (gagaku/koto/noh -> Meiji/ryukoka -> Hibari/enka/Group Sounds -> City Pop/YMO/idols -> J-pop/Utada/anime/Vocaloid/global)
 - **East Asia: Korea** — complete. 205 tracks, 5 installments + master. (gugak/pansori/gut -> occupation/trot -> Shin Joong-hyun/folk/Cho Yong-pil -> Seo Taiji/K-pop birth/Hallyu -> Psy/BTS/BLACKPINK/global) ★ **ALL EAST ASIA COMPLETE** (China+Japan+Korea = 3 sub-surveys, 626 tracks)
 - **MENA (Middle East & North Africa)** — complete. 259 tracks, 6 installments + master. (Arab maqam/tarab -> Egyptian golden age/Umm Kulthum -> Persian dastgah/Googoosh -> Turkish/arabesk/Anatolian rock -> Maghreb/rai/Gnawa -> pan-Arab pop/Mizrahi/today)
+- **Southeast Asia** — complete. 174 tracks, 4 installments + master. (gamelan/island classical -> mainland courts/piphat/pinpeat/ca tru/khaen -> crooner/film era: kroncong/luk thung/nhac vang/kundiman/P. Ramlee/Cambodian golden-age -> modern pop: dangdut/T-pop/V-pop/P-pop/hip-hop-indie)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -141,8 +142,8 @@ recordings):
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
-| Southeast Asia | IN PROGRESS | 3 | 131 | ACTIVE. #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era (kroncong, luk thung/luk krung, nhac vang/Trinh Cong Son, kundiman/OPM, P. Ramlee, Cambodian golden-age); next #4 modern pop & the global present (dangdut, T-pop/V-pop/P-pop, hip-hop/indie) — SE Asia FINALE + region master |
-| Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
+| Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
+| Caribbean | ACTIVE | 0 | 0 | NEXT active region (Tier 2 #7, standalone). Planned sub-structure: #1 Cuban son/rumba & the Afro-Caribbean roots; #2 Jamaican ska→rocksteady→reggae/dub; #3 Trinidad calypso/soca & steelpan + the wider isles; #4 dancehall/reggaeton & the modern Caribbean |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
@@ -1146,6 +1147,19 @@ recordings):
   gate PASSED (45/45 unique title-norms, 0 cross-dups vs SE Asia #1-2). Next: Southeast Asia #4 — modern
   pop & the global present (dangdut, T-pop, V-pop, P-pop, SE Asian hip-hop & indie), the SE Asia FINALE
   that also builds the SE Asia region master.
+- 2026-07-23 — **Southeast Asia #4 (FINALE)** "Modern Pop & the Global Present" built:
+  `sea_music_4_MODERN_POP_GLOBAL.md` + `_IMPORT.txt` (43 tracks, 9 sections; ~22 named). Indonesian
+  dangdut (Rhoma Irama "Begadang", Elvy Sukaesih) + koplo (Via Vallen "Sayang"/"Meraih Bintang", Nella
+  Kharisma) + Thai string pop & songs-for-life (Carabao "Made in Thailand", Thongchai "Bird" McIntyre) +
+  modern T-pop (4EVE, BUS) + V-pop (Son Tung M-TP "Hay Trao Cho Anh", My Tam) + Filipino band boom &
+  P-pop (Eraserheads "Ang Huling El Bimbo", Ben&Ben, SB19 "Gento") + Malay pop (Siti Nurhaliza "Cindai",
+  Yuna) + SE Asian hip-hop & indie going global (Rich Brian "Dat Stick", 88rising) + the SE Asian arc
+  finale. ASCII/transliterated; gate PASSED (43/43 unique title-norms, 0 cross-dups). **SE ASIA REGION
+  COMPLETE** — built `MASTER_GUIDE_sea_survey.md` + `MASTER_SEA_FULL_SURVEY_IMPORT.txt` (174 deduped
+  tracks from #1-4 in order, 0 cross-installment dups). Region flipped COMPLETE and added to the DONE
+  list. Next active region = **the Caribbean** (Tier 2 #7, standalone): #1 Cuban son/rumba & Afro-Caribbean
+  roots, #2 Jamaican ska->rocksteady->reggae/dub, #3 Trinidad calypso/soca & steelpan + the wider isles,
+  #4 dancehall/reggaeton & the modern Caribbean.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
