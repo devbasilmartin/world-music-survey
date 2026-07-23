@@ -149,7 +149,7 @@ recordings):
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
 | Oceania / Pacific | COMPLETE | 4 | 168 | DONE (master built). #1 Aboriginal Australia & Melanesia; #2 Polynesia; #3 Micronesia & the island-pop era; #4 modern Pacific & Aboriginal/Maori pop (Yothu Yindi, Archie Roach, Gurrumul, OMC, Six60, island reggae). Master: 168 deduped tracks, 0 cross-dups |
-| Jewish diaspora | IN PROGRESS | 1 | 41 | ACTIVE (Tier 3 #10, cross-regional). #1 liturgical & ancient roots (Torah cantillation/te'amim, hazzan/chazzanut/Rosenblatt, nusach & the synagogue modes, shofar, piyyut, psalms, zemirot, the nigun); next #2 Ashkenazi & klezmer. Then #3 Sephardi & Mizrahi; #4 modern Israeli & the diaspora in global pop — FINALE + master |
+| Jewish diaspora | IN PROGRESS | 2 | 85 | ACTIVE (Tier 3 #10, cross-regional). #1 liturgical & ancient roots; #2 Ashkenazi & klezmer (Yiddish folk/labor song, Yiddish theater/Second Avenue, "Bei Mir Bistu Sheyn", klezmer & the clarinet, Brandwein/Tarras, the Hasidic nigun world, the klezmer revival/Klezmatics); next #3 Sephardi & Mizrahi. Then #4 modern Israeli & the diaspora in global pop — FINALE + master |
 
 ---
 
@@ -1335,6 +1335,20 @@ recordings):
   Cross-links: the three branches (#2-4); MENA & Central Asia; Europe; the US. ASCII/transliterated; gate
   PASSED (41/41 unique title-norms, fresh region). Living sacred tradition treated with deep respect. Next:
   Jewish Diaspora #2 — Ashkenazi & klezmer (Yiddish song, klezmer, the Second Avenue theater, the revival).
+- 2026-07-23 — **Jewish Diaspora #2** "Ashkenazi & Klezmer" built: `jewish_music_2_ASHKENAZI_KLEZMER.md`
+  + `_IMPORT.txt` (44 tracks, 9 sections; ~4 named). Yiddish folk song ("Oyfn Pripetshik", "Tumbalalaika",
+  "Rozhinkes mit Mandlen") + the songs of labor & struggle ("Zog Nit Keyn Mol"/the Partisans' Song, Bund
+  labor songs; content note, as memory) + the Yiddish theater/Second Avenue (Aaron Lebedeff "Rumania
+  Rumania", Molly Picon, "Belz") + "Bei Mir Bistu Sheyn" & the crossover (the Barry Sisters) + klezmer
+  (freylekhs/bulgar/doina/sher, the wedding) + the klezmer sound (the wailing clarinet, fiddle/tsimbl, the
+  freygish mode, krekhts) + the great klezmorim (Naftule Brandwein "Der Heyser Bulgar", Dave Tarras, the
+  78s) + the Hasidic nigun & song world (Modzitz, Chabad; cross-link #1) + the klezmer revival (the
+  Klezmatics, Giora Feidman, the Klezmer Conservatory Band). Cross-links: the nigun & synagogue modes (#1);
+  Europe; the US/Yiddish stage & swing. ASCII/transliterated; gate PASSED (44/44 unique title-norms, 0
+  cross-dups vs #1 — fixed one collision: "The Hasidic nigun" -> "The Ashkenazi nigun tradition", since
+  norm() strips parentheticals). Holocaust destruction of the Yiddish heartland kept factual & as memory;
+  revival as rescue & continuity. Next: Jewish Diaspora #3 — Sephardi & Mizrahi (Ladino romances & 1492,
+  Judeo-Arab/Andalusi, Bukharan/Persian/Yemenite/Iraqi).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
