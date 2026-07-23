@@ -145,7 +145,7 @@ recordings):
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
-| Central Asia & Caucasus | IN PROGRESS | 2 | 82 | ACTIVE (Tier 3 #8). #1 Turkic/steppe & throat-singing roots; #2 Persianate art music & the Silk Road (shashmaqam, Uyghur on ikki muqam, Azeri mugham/Alim Qasimov, the ashiq/saz, Turkmen bagshy/dutar, the Silk Road instruments); next #3 the Caucasus (Georgian polyphony, Armenian duduk/Komitas, Azeri). Then #4 Soviet/modern finale + master |
+| Central Asia & Caucasus | IN PROGRESS | 3 | 125 | ACTIVE (Tier 3 #8). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus (Georgian polyphony/Chakrulo/Rustavi, Armenian duduk/Djivan Gasparyan/Komitas, Azeri balaban/folk, North Caucasus lezginka); next #4 Soviet-era & modern pop/estrada & today — FINALE + region master |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
@@ -1241,6 +1241,20 @@ recordings):
   (#1); the Jewish diaspora (shashmaqam). ASCII/transliterated; gate PASSED (41/41 unique title-norms, 0
   cross-dups vs #1). Next: Central Asia & Caucasus #3 — the Caucasus (Georgian polyphony, Armenian
   duduk/Komitas, Azerbaijani folk).
+- 2026-07-23 — **Central Asia & Caucasus #3** "The Caucasus" built:
+  `casia_music_3_CAUCASUS_POLYPHONY_DUDUK.md` + `_IMPORT.txt` (43 tracks, 9 sections; ~2 named). Georgian
+  vocal polyphony (three-part, "Chakrulo" on Voyager, the bold dissonant harmony) + the regional styles &
+  the table song (Gurian krimanchuli, Svan, Kakhetian, the supra, the Rustavi Choir) + Georgian sacred
+  chant & instruments ("Shen Khar Venakhi", panduri/chonguri, salamuri; the post-Soviet revival) + the
+  Armenian duduk (Djivan Gasparyan "Dle Yaman", the apricot-wood reed & the dam drone) + Komitas & the
+  saving of Armenian song ("Krunk", the sharakan; content note on 1915 & his silence, respectful) +
+  Armenian instruments & the diaspora (kanun/tar, zurna/dhol, kamancha, Sayat-Nova) + Azerbaijani folk &
+  the balaban (zurna/nagara, yalli, mahni) + the North Caucasus mountain traditions (the lezginka, the
+  accordion, Ossetian/Chechen/Circassian/Dagestani song; content note) + the Caucasus sound.
+  Cross-links: the Silk Road mugham (#2); the steppe (#1); Orthodox Europe; the diaspora. ASCII/
+  transliterated; gate PASSED (43/43 unique title-norms, 0 cross-dups vs #1-2). Sensitive material (the
+  Armenian Genocide, Caucasus conflict) kept strictly factual & with care. Next: Central Asia & Caucasus
+  #4 — Soviet-era & modern pop/estrada & today (the FINALE that builds the region master).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
