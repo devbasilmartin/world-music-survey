@@ -141,7 +141,7 @@ recordings):
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
-| Southeast Asia | IN PROGRESS | 1 | 42 | ACTIVE. #1 gamelan & island classical (Java/Bali, kecak, wayang, Sunda); next #2 mainland classical & folk (Thai piphat, Vietnamese, Khmer, Burmese, Lao) |
+| Southeast Asia | IN PROGRESS | 2 | 86 | ACTIVE. #1 gamelan & island classical; #2 mainland classical & folk (Thai piphat, Khmer pinpeat, Burmese saing waing, Vietnamese ca tru/dan bau, Lao khaen/mor lam); next #3 the 20th-c. crooner/film era (kroncong, luk thung, Vietnamese, Filipino kundiman/OPM) |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
@@ -1119,6 +1119,20 @@ recordings):
   ensembles, the ranat & khong wong); Cambodian pinpeat & the Khmer court/Apsara; Burmese saing waing &
   the hsaing ensemble (Myanmar); Vietnamese classical (nhac cung dinh court music, ca tru, the dan bau
   monochord & dan tranh); Lao/Isan khaen mouth-organ & mor lam; and the mainland's Theravada/Hindu roots.
+- 2026-07-23 — **Southeast Asia #2** "Mainland Classical & Folk Traditions (Thai, Khmer, Burmese,
+  Vietnamese & Lao)" built: `sea_music_2_MAINLAND_CLASSICAL_FOLK.md` + `_IMPORT.txt` (44 tracks, 9
+  sections; 1 named — "Da Co Hoai Lang" / Cao Van Lau, the ancestor of vong co). Thai classical (piphat,
+  mahori/khruang sai, the seven-tone equidistant tuning) + the Thai instruments/khon/Ramakien (ranat
+  ek/thum, khong wong, "The Overture") + Cambodia pinpeat & the Khmer court (Royal Ballet/Apsara, roneat,
+  Angkor bas-reliefs, smot) + the Khmer Rouge & the music's rebirth (content note: ~9-in-10 musicians
+  killed 1975-79; Cambodian Living Arts revival) + Myanmar saing waing (pat waing circle of 21 drums,
+  saung-gauk arched harp, the Mahagita) + Vietnam nha nhac & ca tru (dan day/phach, quan ho) + the
+  Vietnamese instruments & cai luong (dan bau monochord, dan tranh/dan nguyet, vong co, nhac tai tu) +
+  Laos/Isan khaen & mor lam (kin to the Chinese sheng) + the mainland aesthetic (Indianized west,
+  Sinicized east). Cross-links: island gamelan (#1); the Ramayana/India; Chinese court music & the sheng.
+  ASCII/transliterated; gate PASSED (44/44 unique title-norms, 0 cross-dups vs SE Asia #1). Next:
+  Southeast Asia #3 — the 20th-c. crooner/film era: Indonesian kroncong, Thai luk thung, Vietnamese
+  crooners, Filipino kundiman/OPM (the popular song before modern pop).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
