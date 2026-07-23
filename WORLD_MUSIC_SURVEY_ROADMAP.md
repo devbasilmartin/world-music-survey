@@ -61,6 +61,7 @@ Ordered roughly by closeness to what's already built and by how self-contained t
 - **India / South Asia** — complete. 318 tracks, 7 installments + master. (raga/Samaveda -> classical masters -> folk -> devotional/qawwali -> Bollywood golden age -> modern filmi/Indipop -> global & wider South Asia)
 - **East Asia: China** — complete. 212 tracks, 5 installments + master. (guqin/pentatonic/opera -> shidaiqu -> Mao-era/model works -> Cantopop/Mandopop/Teresa Teng -> Cui Jian/Jay Chou/C-pop today)
 - **East Asia: Japan** — complete. 209 tracks, 5 installments + master. (gagaku/koto/noh -> Meiji/ryukoka -> Hibari/enka/Group Sounds -> City Pop/YMO/idols -> J-pop/Utada/anime/Vocaloid/global)
+- **East Asia: Korea** — complete. 205 tracks, 5 installments + master. (gugak/pansori/gut -> occupation/trot -> Shin Joong-hyun/folk/Cho Yong-pil -> Seo Taiji/K-pop birth/Hallyu -> Psy/BTS/BLACKPINK/global) ★ **ALL EAST ASIA COMPLETE** (China+Japan+Korea = 3 sub-surveys, 626 tracks)
 
 ### TIER 1 — the big, self-contained stories (build next, in this order)
 1. **Latin America** — closest sibling to the US survey; same colonial start + Indigenous/European/
@@ -137,8 +138,8 @@ recordings):
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
-| East Asia: Korea | IN PROGRESS | 4 | 163 | ACTIVE. #1-4 gugak→trot→developmental→K-pop birth/Hallyu; next #5 (FINAL) modern/global K-pop — BTS/BLACKPINK, the global explosion, K-hip-hop/indie (~2010-present) — then Korea master |
-| MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
+| East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
+| MENA (Arab/Persian/Turkish) | IN PROGRESS | 0 | 0 | ACTIVE. Tier 2 #5. Next #1: Arab classical & maqam roots — the maqam system, the takht ensemble, oud/qanun/ney, muwashshah/tarab, the Andalusian & Egyptian lineage |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
@@ -979,6 +980,28 @@ recordings):
   global fandom, streaming, and soft-power juggernaut — then build the Korea region master and flip the
   sub-region COMPLETE (which also completes ALL of East Asia; next region = MENA / Middle East & North
   Africa).
+- 2026-07-20 — **East Asia: Korea #5 (FINALE)** "Modern & Global K-pop (c. 2010-present)" built:
+  `korea_music_5_MODERN_GLOBAL_KPOP.md` + `_IMPORT.txt` (42 tracks, 9 sections; 14 named). Psy's "Gangnam
+  Style" (2012 global break) + BTS & the global explosion ("Dynamite", "Spring Day", ARMY) + BLACKPINK &
+  the girl-group global ("DDU-DU DDU-DU", Coachella) + the 3rd-gen constellation (EXO's "Growl", TWICE's
+  "TT", Red Velvet's "Red Flavor") + the 4th generation (Stray Kids' "God's Menu", aespa's "Next Level",
+  NewJeans' "Ditto", LE SSERAFIM's "Antifragile") + K-hip-hop (Zico's "Any Song", Epik High, Jay Park/
+  AOMG, Show Me the Money) + K-indie/K-R&B (IU's "Good Day" & "Palette", Hyukoh, Dean/Crush) + the
+  fandom/soft-power juggernaut (Hallyu 2.0, Parasite/Squid Game halo) + the through-line. Cross-links: US
+  hip-hop/pop & global streaming. Content notes: idol-industry labor pressures & the mental-health toll,
+  kept brief & with care. ASCII/romanized; no dups vs #1-4. **REGION MASTER built:** `MASTER_GUIDE_korea_
+  survey.md` (#1-5 overview) + `MASTER_KOREA_FULL_SURVEY_IMPORT.txt` (concatenated #1-5, TITLE-only first-
+  occurrence dedup — raw 205 → deduped 205, **zero cross-installment dups**). Sub-region **East Asia:
+  Korea COMPLETE** (5 installments, 205 tracks) & added to DONE. ★★ **MILESTONE: ALL of East Asia is now
+  COMPLETE** — China (212) + Japan (209) + Korea (205) = 3 sub-surveys, 626 tracks. Next active region =
+  **MENA / Middle East & North Africa** (Tier 2 #5). Next: MENA #1 — Arab classical & maqam roots (the
+  maqam modal system; the takht ensemble — oud, qanun, ney, riqq; muwashshah & the Andalusian legacy;
+  tarab; the Egyptian classical lineage). NOTE for MENA sub-structure: per the roadmap's open decisions,
+  MENA has distinct Arab / Persian / Turkish / Maghreb threads — a sensible arc is #1 Arab classical/
+  maqam roots → #2 the Egyptian golden age & the great divas (Umm Kulthum, Abdel Halim, Fairuz) → #3
+  Persian (Iranian) classical & pop → #4 Turkish (Ottoman classical, Anatolian rock, arabesk, pop) → #5
+  the Maghreb (Andalusian, chaabi, rai, Gnawa) → #6 modern pan-Arab pop, Mizrahi, & the region today
+  (adjust/compress per the roadmap as you build).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
