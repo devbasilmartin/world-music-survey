@@ -137,7 +137,7 @@ recordings):
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
-| East Asia: Korea | IN PROGRESS | 2 | 81 | ACTIVE. #1-2 gugak roots→occupation/trot/early pop; next #3 the developmental decades — folk, rock (Shin Joong-hyun), trot's golden age & ballad (~1960-1987) |
+| East Asia: Korea | IN PROGRESS | 3 | 118 | ACTIVE. #1-3 gugak→occupation/trot→developmental decades (folk/rock/trot/ballad); next #4 the birth of K-pop & the Hallyu wave (Seo Taiji→H.O.T.→BoA, ~1992-2009) |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
@@ -948,6 +948,21 @@ recordings):
   the youth counterculture (Kim Min-gi's "Achim Isul"/Morning Dew, banned; Han Dae-soo); trot's golden
   age (Lee Mi-ja, Nam Jin, Na Hoon-a); the ballad; and music under the Park/Chun military dictatorships
   & censorship (content notes).
+- 2026-07-20 — **East Asia: Korea #3** "The Developmental Decades — Folk, Rock, Trot & the Ballad (c.
+  1960-1987)" built: `korea_music_3_FOLK_ROCK_TROT_BALLAD.md` + `_IMPORT.txt` (37 tracks, 8 sections; 8
+  named). The Eighth-Army generation & first stars (Patti Kim, the Kim Sisters on US TV) + Shin Joong-
+  hyun & the birth of Korean rock (the Add4's "Bitsokui Yeoin", "Miin"/Beauty) + the folk boom & tonggita
+  counterculture (Kim Min-gi's "Achim Isul"/Morning Dew, Han Dae-soo's "Haengbokui Nara-ro") + trot's
+  golden age (Lee Mi-ja's "Dongbaek Agassi"/Camellia Lady, Nam Jin's "Nimgwa Hamkke", Na Hoon-a) + Cho
+  Yong-pil the superstar ("Dol-awayo Busanhang-e"/Come Back to Busan Port) + music under dictatorship &
+  the 1975 marijuana crackdown (censorship, banned songs, blacklists) + the ballad & 80s sound (Lee
+  Sun-hee's "J-ege", Yoo Jae-ha) + toward liberalization (1987 democratization, 1988 Olympics). Cross-
+  links: US pop/rock via the bases; Japanese trot ties; toward Seo Taiji/K-pop (#4). Content notes:
+  dictatorship, censorship, the 1975 crackdown & 1980 Gwangju context, kept factual & with care. ASCII/
+  romanized; no dups vs #1-2. Next: East Asia: Korea #4 — the birth of K-pop & the Hallyu wave (~1992-
+  2009): Seo Taiji and Boys' 1992 revolution; the SM/YG/JYP agency idol system; the first idols (H.O.T.,
+  S.E.S., Fin.K.L, g.o.d, Shinhwa); the ballad/R&B stars; BoA & TVXQ break Japan; the early Hallyu wave;
+  Rain, Big Bang, Girls' Generation, Wonder Girls emerge.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
