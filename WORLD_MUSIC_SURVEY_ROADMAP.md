@@ -137,7 +137,7 @@ recordings):
 | India / South Asia | COMPLETE | 7 | 318 | #1-7 classical roots→masters→folk→devotional→golden-age→modern filmi→global/wider-South-Asia; master: MASTER_GUIDE_south_asia_survey.md (318 tracks, 0 dups) |
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
-| East Asia: Korea | IN PROGRESS | 0 | 0 | ACTIVE. Tier 1 #4c. Next #1: Korean classical & folk roots — court music (jeongak/aak), pansori, sanjo, the gayageum/geomungo, pungmul, shamanic & folk |
+| East Asia: Korea | IN PROGRESS | 1 | 46 | ACTIVE. #1 classical/folk roots (gugak — court/pansori/sanjo/instruments/samulnori/gut/Arirang); next #2 the 20th c. — occupation, trot & early pop (~1900-1960) |
 | MENA (Arab/Persian/Turkish) | not started | — | — | Tier 2 #5 |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
@@ -919,6 +919,20 @@ recordings):
   & added to DONE. Next active region = **East Asia: Korea** (Tier 1 #4c). Next: East Asia: Korea #1 —
   Korean classical & folk roots (court music jeongak/aak; pansori epic story-singing; sanjo; the
   gayageum & geomungo; pungmul/samulnori percussion; shamanic gut & folk minyo).
+- 2026-07-20 — **East Asia: Korea #1** "Classical & Folk Roots (gugak, the deep tradition)" built:
+  `korea_music_1_CLASSICAL_FOLK_ROOTS_GUGAK.md` + `_IMPORT.txt` (46 tracks, 9 sections; 0 named — deep-
+  roots, all forms/instruments/traditions as seeds). NEW sub-region, stem `korea_music_` (dedup resets).
+  The Korean aesthetic (han/heung/meot, triple-meter jangdan, jeong-gan-bo; jeongak vs minsogak) + aak &
+  court/ritual music (jongmyo jeryeak UNESCO, "Sujecheon", Yeongsan hoesang) + pansori (the epic story-
+  singing, the five tales, gosu/chuimsae; UNESCO) + sanjo & the instrumental solo (sinawi, Kim Chang-jo)
+  + the string instruments (gayageum, geomungo, ajaeng, nonghyeon) + the winds & fiddle (daegeum, piri,
+  haegeum, taepyeongso) + pungmul/nongak & samulnori (the four drums) + shamanic gut music (the mudang,
+  the deep root) + minyo (Arirang UNESCO, the regional styles). Cross-links: the shared-yet-distinct East
+  Asian world (China/Japan); the shamanic substratum. Content notes: pansori's brutal vocal training;
+  gut as living tradition. ASCII/romanized; no internal dups (fresh sub-region). Next: East Asia: Korea
+  #2 — the 20th century (~1900-1960): Japanese colonial rule & the suppression of gugak; the birth of
+  trot (teuroteu) and changga; early recorded pop (Lee Nan-young's "Tears of Mokpo"); liberation, the
+  Korean War, and US/AFKN influence; the postwar entertainment scene.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
