@@ -147,7 +147,7 @@ recordings):
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
 | Caribbean | COMPLETE | 4 | 172 | DONE (master built). #1 Cuban roots; #2 Jamaica; #3 calypso/soca/steelpan & the wider isles; #4 dancehall/reggaeton & the modern Caribbean. Master: 172 deduped tracks, 0 cross-dups |
 | Central Asia & Caucasus | COMPLETE | 4 | 164 | DONE (master built). #1 Turkic/steppe roots; #2 Silk Road art music; #3 the Caucasus; #4 Soviet-era & modern pop (estrada/VIA, Dimash, Q-pop, diaspora, folk-fusion). Master: 164 deduped tracks, 0 cross-dups |
-| Oceania / Pacific | IN PROGRESS | 1 | 42 | ACTIVE (Tier 3 #9). #1 Aboriginal Australia & Melanesia (yidaki/didgeridoo, songlines/clapsticks, Torres Strait, PNG kundu/garamut/sing-sing, Solomon panpipes, Vanuatu water-drumming); next #2 Polynesia (Maori, Hawaiian, Samoa/Tonga/Tahiti). Then #3 Micronesia & island-pop; #4 modern Pacific pop finale + master |
+| Oceania / Pacific | IN PROGRESS | 2 | 85 | ACTIVE (Tier 3 #9). #1 Aboriginal Australia & Melanesia; #2 Polynesia (Maori haka/waiata/taonga puoro, Hawaiian mele/hula/slack-key/falsetto/ukulele/Iz, Samoa/Tonga/Tahiti drum-dance & the church hymnody); next #3 Micronesia & the island-pop/string-band/hymnody era. Then #4 modern Pacific pop finale + master |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
 
 ---
@@ -1283,6 +1283,19 @@ recordings):
   transliterated; gate PASSED (42/42 unique title-norms, fresh region). Sacred/secret-sacred material,
   colonial history & recording ethics kept factual & deeply respectful. Next: Oceania/Pacific #2 —
   Polynesia (Maori, Hawaiian, Samoa/Tonga/Tahiti).
+- 2026-07-23 — **Oceania/Pacific #2** "Polynesia (Maori, Hawaiian & the Island Nations)" built:
+  `pacific_music_2_POLYNESIA.md` + `_IMPORT.txt` (43 tracks, 9 sections; ~2 named). Maori waiata & the haka
+  ("Ka Mate", mana) + Maori chant/poi & the action song ("Pokarekare Ana", kapa haka) + taonga puoro
+  revived (putorino/koauau, purerehua; Hirini Melbourne & Richard Nunns; content note) + Hawaiian ancient
+  mele & hula (oli, hula kahiko, pahu/ipu; suppression & revival content note) + Hawaiian slack-key/
+  falsetto/steel guitar (ki ho'alu, Gabby Pahinui "Hi'ilawe", leo ki'eki'e, Joseph Kekuku) + the ukulele
+  & Iz (Israel Kamakawiwo'ole "Somewhere Over the Rainbow", himeni, hapa haole) + Samoa & Tonga (fa'ataupati
+  slap-dance, siva/sasa, lakalaka, the nose-flute) + Tahiti & the Cook Islands ('ote'a, to'ere, ori
+  Tahiti, himene tarava, Heiva) + Polynesian church hymnody. Cross-links: Aboriginal/Melanesian roots
+  (#1); string bands & modern Pacific pop (#3-4); the Austronesian tie to SE Asia. ASCII/transliterated
+  (okina/macrons dropped); gate PASSED (43/43 unique title-norms, 0 cross-dups vs #1). Colonization & the
+  Maori/Hawaiian language-and-music revival kept factual & respectful. Next: Oceania/Pacific #3 —
+  Micronesia & the island-pop/string-band/hymnody era.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
