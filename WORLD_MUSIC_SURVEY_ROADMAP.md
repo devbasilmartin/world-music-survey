@@ -141,7 +141,7 @@ recordings):
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
-| Southeast Asia | IN PROGRESS | 2 | 86 | ACTIVE. #1 gamelan & island classical; #2 mainland classical & folk (Thai piphat, Khmer pinpeat, Burmese saing waing, Vietnamese ca tru/dan bau, Lao khaen/mor lam); next #3 the 20th-c. crooner/film era (kroncong, luk thung, Vietnamese, Filipino kundiman/OPM) |
+| Southeast Asia | IN PROGRESS | 3 | 131 | ACTIVE. #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era (kroncong, luk thung/luk krung, nhac vang/Trinh Cong Son, kundiman/OPM, P. Ramlee, Cambodian golden-age); next #4 modern pop & the global present (dangdut, T-pop/V-pop/P-pop, hip-hop/indie) — SE Asia FINALE + region master |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
@@ -1133,6 +1133,19 @@ recordings):
   ASCII/transliterated; gate PASSED (44/44 unique title-norms, 0 cross-dups vs SE Asia #1). Next:
   Southeast Asia #3 — the 20th-c. crooner/film era: Indonesian kroncong, Thai luk thung, Vietnamese
   crooners, Filipino kundiman/OPM (the popular song before modern pop).
+- 2026-07-23 — **Southeast Asia #3** "The 20th-Century Crooner & Film Era" built:
+  `sea_music_3_CROONER_FILM_ERA.md` + `_IMPORT.txt` (45 tracks, 9 sections; ~16 named). Indonesian
+  kroncong ("Bengawan Solo"/Gesang, Waldjinah, langgam Jawa) + Thai luk krung (Suntharaporn, H.M.
+  Bhumibol's jazz) + Thai luk thung (Suraphon Sombatcharoen the king, Pumpuang Duangjan the queen) +
+  Vietnamese nhac vang & the Saigon crooners (bolero, Thai Thanh, Che Linh, Pham Duy; content note on the
+  post-1975 ban) + Trinh Cong Son & Khanh Ly ("Diem Xua", the anti-war song cycle) + Filipino kundiman
+  (Abelardo's "Mutya ng Pasig") & early OPM (Pilita Corrales, Nora Aunor) + Malay film song (P. Ramlee,
+  "Getaran Jiwa") + Cambodia's 1960s-70s golden-age rock/pop (Sinn Sisamouth, Ros Serey Sothea, Pan Ron;
+  content note: nearly all murdered under the Khmer Rouge) + the crooner era & the road ahead.
+  Cross-links: mainland classical (#2); island gamelan (#1); the modern pop era (#4). ASCII/transliterated;
+  gate PASSED (45/45 unique title-norms, 0 cross-dups vs SE Asia #1-2). Next: Southeast Asia #4 — modern
+  pop & the global present (dangdut, T-pop, V-pop, P-pop, SE Asian hip-hop & indie), the SE Asia FINALE
+  that also builds the SE Asia region master.
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
