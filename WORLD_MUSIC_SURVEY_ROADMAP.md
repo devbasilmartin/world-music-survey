@@ -143,7 +143,7 @@ recordings):
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
 | MENA (Arab/Persian/Turkish) | COMPLETE | 6 | 259 | #1-6 Arab maqam→Egyptian divas→Persian→Turkish→Maghreb→modern/Mizrahi; master: MASTER_GUIDE_mena_survey.md (259 tracks, 0 dups) |
 | Southeast Asia | COMPLETE | 4 | 174 | DONE (master built). #1 gamelan & island classical; #2 mainland classical & folk; #3 the 20th-c. crooner/film era; #4 modern pop & the global present (dangdut/koplo, T-pop, V-pop, P-pop, Malay pop, hip-hop/indie). Master: 174 deduped tracks, 0 cross-dups |
-| Caribbean | IN PROGRESS | 1 | 44 | ACTIVE (Tier 2 #7, standalone). #1 Cuban roots & the Afro-Caribbean foundation (son, rumba, danzon, mambo/cha-cha-cha, bata/Santeria, Afro-Cuban jazz); next #2 Jamaican ska→rocksteady→reggae/dub. Then #3 calypso/soca & the wider isles; #4 dancehall/reggaeton finale + master |
+| Caribbean | IN PROGRESS | 2 | 86 | ACTIVE (Tier 2 #7, standalone). #1 Cuban roots; #2 Jamaica (mento/nyabinghi/Rastafari, ska, rocksteady, roots reggae/Marley, dub/King Tubby, toasting); next #3 calypso/soca & steelpan + the wider isles (Haiti, DR, PR, zouk). Then #4 dancehall/reggaeton finale + master |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
 | Oceania / Pacific | not started | — | — | Tier 3 #9 |
 | Jewish diaspora | not started | — | — | Tier 3 #10 (cross-regional) |
@@ -1173,6 +1173,20 @@ recordings):
   West/Central African rhythm; the wider Caribbean (#2-4). ASCII/transliterated; gate PASSED (44/44 unique
   title-norms, fresh region). Next: Caribbean #2 — Jamaica: ska -> rocksteady -> reggae/dub (Bob Marley,
   Toots, Lee Perry, King Tubby).
+- 2026-07-23 — **Caribbean #2** "Jamaica -- Ska, Rocksteady, Reggae & Dub" built:
+  `carib_music_2_JAMAICA_SKA_REGGAE_DUB.md` + `_IMPORT.txt` (42 tracks, 9 sections; ~19 named). Mento &
+  the rhumba box + Rastafari & nyabinghi drumming (Count Ossie; content note, respectful) + the ska boom
+  (Skatalites "Guns of Navarone", Prince Buster) & the sound system (Coxsone, Duke Reid, Studio One) +
+  rocksteady (Alton Ellis "Get Ready to Rock Steady", the Techniques, the Paragons) + roots reggae & Bob
+  Marley ("No Woman No Cry", "Redemption Song", Peter Tosh; content note on the political weight) + the
+  reggae greats (Burning Spear "Marcus Garvey", Toots "Pressure Drop", Jimmy Cliff "The Harder They Come",
+  the Abyssinians) + dub & the studio as instrument (King Tubby, Lee "Scratch" Perry & the Black Ark,
+  Augustus Pablo) + toasting & the root of rap (U-Roy, Big Youth; cross-link to hip-hop/US) + Jamaica's
+  global echo. Cross-links: toasting -> hip-hop (US); 2-Tone/lovers rock; the Cuban root (#1); the wider
+  isles (#3). ASCII/transliterated; gate PASSED (42/42 unique title-norms, 0 cross-dups vs Caribbean #1).
+  Fixed one title ("Get Ready - Rock Steady" -> "Get Ready to Rock Steady") to avoid a double " - "
+  separator. Next: Caribbean #3 — calypso/soca & steelpan + the wider isles (Trinidad, Haiti kompa, DR
+  merengue/bachata, PR bomba/plena, French Antilles zouk).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
