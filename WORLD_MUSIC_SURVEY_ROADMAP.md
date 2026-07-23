@@ -139,7 +139,7 @@ recordings):
 | East Asia: China | COMPLETE | 5 | 212 | #1-5 classical/folk→opera/Republic→shidaiqu/Mao→Cantopop/Mandopop→mainland rock/C-pop today; master: MASTER_GUIDE_china_survey.md (212 tracks, 0 dups) |
 | East Asia: Japan | COMPLETE | 5 | 209 | #1-5 classical roots→Meiji→postwar→City Pop/idols→J-pop/anime/Vocaloid/global; master: MASTER_GUIDE_japan_survey.md (209 tracks, 0 dups) |
 | East Asia: Korea | COMPLETE | 5 | 205 | #1-5 gugak/pansori→trot→developmental→K-pop birth→BTS/global; master: MASTER_GUIDE_korea_survey.md (205 tracks, 0 dups). **All East Asia now COMPLETE.** |
-| MENA (Arab/Persian/Turkish) | IN PROGRESS | 2 | 84 | ACTIVE. #1-2 Arab maqam roots→Egyptian golden age/divas; next #3 Persian (Iranian) classical & pop (dastgah, the golden-age divas, pre/post-revolution, LA diaspora) |
+| MENA (Arab/Persian/Turkish) | IN PROGRESS | 3 | 128 | ACTIVE. #1-3 Arab maqam→Egyptian divas→Persian classical/pop; next #4 Turkish — Ottoman classical, arabesk, Anatolian rock & pop |
 | Southeast Asia | not started | — | — | Tier 2 #6 |
 | Caribbean | not started | — | — | Tier 2 #7 (standalone vs Latin annex — decide) |
 | Central Asia & Caucasus | not started | — | — | Tier 3 #8 |
@@ -1032,6 +1032,21 @@ recordings):
   system & radif; the classical masters (Mohammad-Reza Shajarian, the tar/setar/santur/kamancheh); the
   pre-revolution golden-age pop (Googoosh, Dariush, Ebi, Hayedeh); the 1979 revolution & the ban on
   music/female solo voice (content note); and the Los Angeles ("Tehrangeles") diaspora pop.
+- 2026-07-20 — **MENA #3** "Persian (Iranian) Classical & Pop" built: `mena_music_3_PERSIAN_CLASSICAL_
+  POP.md` + `_IMPORT.txt` (44 tracks, 9 sections; 5 named). The dastgah system & radif (gushe, Shur/
+  Mahur/Homayun) + the avaz & poetry (tahrir; Hafez/Rumi/Saadi) + the Persian instruments (tar/setar,
+  santur, kamancheh, ney/tombak/daf) + the classical masters (Shajarian's "Morgh-e Sahar", Alizadeh,
+  Kalhor, Parisa) + Vigen & the birth of Persian pop + the golden-age pop & divas (Googoosh's "Talagh",
+  Dariush's "Booye Gandom", Hayedeh's "Soghati", Ebi) + the 1979 revolution & the rupture (pop banned,
+  the female solo voice silenced) + Tehrangeles diaspora pop (Googoosh's 2000 return, Andy) + inside
+  Iran's underground & protest (Hichkas, Kiosk; Shervin Hajipour's Grammy-winning "Baraye"/2022 Woman
+  Life Freedom). Cross-links: the maqam/dastgah family (#1, #4); Persian mystic poetry; the US diaspora.
+  Content notes: the revolution, censorship, the ban on women's solo singing, kept factual & with care.
+  Avoided the #1 "Ney" bare-title collision. ASCII/transliterated; no dups vs #1-2. Next: MENA #4 —
+  Turkish music: Ottoman classical (makam, the fasil, mevlevi/Sufi & the ney; Tanburi Cemil Bey); the
+  gazino/Turkish art music & the great voices (Zeki Muren, Muslum Gurses); ARABESK (Orhan Gencebay);
+  Anatolian rock (Baris Manco, Cem Karaca, Erkin Koray); Turkish folk/asik (Asik Veysel) & the saz; and
+  modern Turkish pop (Sezen Aksu, Tarkan's "Simarik"/Kiss Kiss).
 ## Open decisions to make along the way
 - **Caribbean:** standalone survey or annex to Latin America? (Leaning standalone — reggae alone
   justifies it.)
